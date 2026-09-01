@@ -1,0 +1,345 @@
+{
+ "extra": {
+  "actions": {
+   "cancelled": 0,
+   "failure": 41,
+   "per_workflow": {
+    "Authoritative Ingest": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "Content Factory": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "Evolve Controller": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "Gitleaks": {
+     "cancelled": 0,
+     "failure": 0,
+     "n": 9,
+     "other": 0,
+     "success": 9
+    },
+    "Graph Community": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "Review Drain": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "Search Index": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "Volume Index": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "clean-embed-ingest": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "ctext_harvest": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "fangji-ai-refine": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "fleet-health": {
+     "cancelled": 0,
+     "failure": 0,
+     "n": 2,
+     "other": 0,
+     "success": 2
+    },
+    "frontend-sentinel": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "guard-no-list-objects": {
+     "cancelled": 0,
+     "failure": 0,
+     "n": 9,
+     "other": 0,
+     "success": 9
+    },
+    "guji_backup": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "india_harvest": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "ocr-ndl": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "ocr-to-rag": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "pan-audit": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "pan-tidy": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "report-daily": {
+     "cancelled": 0,
+     "failure": 0,
+     "n": 1,
+     "other": 0,
+     "success": 1
+    },
+    "sync": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "team-report-audit": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "tests": {
+     "cancelled": 0,
+     "failure": 0,
+     "n": 9,
+     "other": 0,
+     "success": 9
+    },
+    "vectorize-ingest": {
+     "cancelled": 0,
+     "failure": 1,
+     "n": 1,
+     "other": 0,
+     "success": 0
+    },
+    "warm-dlink": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "内容工厂哨兵": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "百家论道内容工厂": {
+     "cancelled": 0,
+     "failure": 0,
+     "n": 2,
+     "other": 0,
+     "success": 2
+    },
+    "评论区吵架引擎": {
+     "cancelled": 0,
+     "failure": 0,
+     "n": 2,
+     "other": 0,
+     "success": 2
+    },
+    "🏭 Workflow Sentry · 产线失败兜底哨兵": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "💰 Intake Sentry · 内测申请哨兵": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "🔌 Gateway Sentry · 网关链头哨兵": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    },
+    "🛡️ Fleet Watch": {
+     "cancelled": 0,
+     "failure": 2,
+     "n": 2,
+     "other": 0,
+     "success": 0
+    }
+   },
+   "success": 38,
+   "total": 79
+  },
+  "attendance": {
+   "expected": 31,
+   "missing": [
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-07",
+    "2026-08-08",
+    "2026-08-09",
+    "2026-08-10",
+    "2026-08-11",
+    "2026-08-12",
+    "2026-08-13",
+    "2026-08-14",
+    "2026-08-15",
+    "2026-08-16",
+    "2026-08-17",
+    "2026-08-18",
+    "2026-08-19",
+    "2026-08-20",
+    "2026-08-21",
+    "2026-08-22",
+    "2026-08-23",
+    "2026-08-24",
+    "2026-08-25",
+    "2026-08-26",
+    "2026-08-27",
+    "2026-08-28",
+    "2026-08-29",
+    "2026-08-30",
+    "2026-08-31"
+   ],
+   "present": [
+    "2026-08-01",
+    "2026-08-02"
+   ]
+  }
+ },
+ "generated_at": "2026-09-01T14:00:02.886444+08:00",
+ "key": "2026-08",
+ "metrics": {
+  "cand_pending": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "daodu_total": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "formulas_books": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "formulas_names": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "formulas_total": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "graph_edges": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "graph_edges_tier1": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "graph_nodes": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "gufang_lib": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "guji_visible": {
+   "err": "缺少库 id 环境变量 (guji)",
+   "value": null
+  },
+  "med_visible": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  }
+ },
+ "period": "monthly",
+ "range": [
+  "2026-08-01",
+  "2026-08-31"
+ ],
+ "run_id": "33475696815",
+ "tables": {
+  "daodu_by_ver": {
+   "err": "missing CF_ACCOUNT_ID / D1_API_TOKEN / database id",
+   "rows": []
+  },
+  "med_by_collection": {
+   "err": "missing CF_ACCOUNT_ID / D1_API_TOKEN / database id",
+   "rows": []
+  }
+ }
+}
