@@ -1,0 +1,67 @@
+{
+ "extra": {},
+ "generated_at": "2026-09-02T01:54:46.097019+08:00",
+ "key": "2026-09-02",
+ "metrics": {
+  "cand_pending": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "daodu_total": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "formulas_books": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "formulas_names": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "formulas_total": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "graph_edges": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "graph_edges_tier1": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "graph_nodes": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "gufang_lib": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  },
+  "guji_visible": {
+   "err": "缺少库 id 环境变量 (guji)",
+   "value": null
+  },
+  "med_visible": {
+   "err": "缺少库 id 环境变量 (main)",
+   "value": null
+  }
+ },
+ "period": "daily",
+ "range": [
+  "2026-09-02",
+  "2026-09-02"
+ ],
+ "run_id": "33540529035",
+ "tables": {
+  "daodu_by_ver": {
+   "err": "missing CF_ACCOUNT_ID / D1_API_TOKEN / database id",
+   "rows": []
+  },
+  "med_by_collection": {
+   "err": "missing CF_ACCOUNT_ID / D1_API_TOKEN / database id",
+   "rows": []
+  }
+ }
+}
