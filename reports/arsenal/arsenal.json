@@ -4404,6 +4404,35 @@
    }
   },
   {
+   "repo": "sindresorhus/awesome-nodejs",
+   "url": "https://github.com/sindresorhus/awesome-nodejs",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 66678,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-02",
+   "created_at": "2014-07-11",
+   "stars_per_day_lifetime": 15.03,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "javascript",
+    "list",
+    "node",
+    "nodejs"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 16
+   }
+  },
+  {
    "repo": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "first_seen": "2026-07-26",
@@ -8240,6 +8269,42 @@
    }
   },
   {
+   "repo": "matteocrippa/awesome-swift",
+   "url": "https://github.com/matteocrippa/awesome-swift",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 26237,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "lang": "Ruby",
+   "pushed_at": "2026-09-01",
+   "created_at": "2014-07-10",
+   "stars_per_day_lifetime": 5.91,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "awesome-swift",
+    "ios",
+    "linux",
+    "list",
+    "lists",
+    "swift",
+    "swift-extensions",
+    "swift-framework",
+    "swift-language"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 77
+   }
+  },
+  {
    "repo": "deepset-ai/haystack",
    "url": "https://github.com/deepset-ai/haystack",
    "first_seen": "2026-08-15",
@@ -11285,6 +11350,42 @@
    }
   },
   {
+   "repo": "budtmo/docker-android",
+   "url": "https://github.com/budtmo/docker-android",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 15798,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-09-01",
+   "created_at": "2016-12-22",
+   "stars_per_day_lifetime": 4.46,
+   "topics": [
+    "android",
+    "android-emulator",
+    "aws",
+    "azure",
+    "cloud",
+    "docker",
+    "docker-android",
+    "emulator",
+    "gcp",
+    "genymotion",
+    "jenkins",
+    "kubernetes"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-08-03",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 22
+   }
+  },
+  {
    "repo": "triggerdotdev/trigger.dev",
    "url": "https://github.com/triggerdotdev/trigger.dev",
    "first_seen": "2026-07-27",
@@ -12650,6 +12751,37 @@
    }
   },
   {
+   "repo": "steven2358/awesome-generative-ai",
+   "url": "https://github.com/steven2358/awesome-generative-ai",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 12551,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-01",
+   "created_at": "2022-10-20",
+   "stars_per_day_lifetime": 8.88,
+   "topics": [
+    "ai",
+    "artificial-intelligence",
+    "awesome",
+    "awesome-list",
+    "generative-ai",
+    "generative-art",
+    "large-language-models",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 30
+   }
+  },
+  {
    "repo": "langgptai/LangGPT",
    "url": "https://github.com/langgptai/LangGPT",
    "first_seen": "2026-08-06",
@@ -13496,6 +13628,42 @@
    }
   },
   {
+   "repo": "edoardottt/awesome-hacker-search-engines",
+   "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 11116,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Shell",
+   "pushed_at": "2026-09-01",
+   "created_at": "2022-06-20",
+   "stars_per_day_lifetime": 7.24,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "bugbounty",
+    "cve",
+    "dns",
+    "exploit",
+    "hacking",
+    "hacking-tools",
+    "hacktoberfest",
+    "osint",
+    "osint-tool"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 68
+   }
+  },
+  {
    "repo": "unicodeveloper/awesome-nextjs",
    "url": "https://github.com/unicodeveloper/awesome-nextjs",
    "first_seen": "2026-08-28",
@@ -13734,6 +13902,34 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 30
+   }
+  },
+  {
+   "repo": "Calinou/awesome-godot",
+   "url": "https://github.com/Calinou/awesome-godot",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 10677,
+   "license": "CC-BY-4.0",
+   "license_family": "unknown",
+   "pushed_at": "2026-09-01",
+   "created_at": "2015-04-12",
+   "stars_per_day_lifetime": 2.57,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "game-development",
+    "godot",
+    "godot-engine"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 53
    }
   },
   {
@@ -18875,6 +19071,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 13
+   }
+  },
+  {
+   "repo": "21st-dev/magic-mcp",
+   "url": "https://github.com/21st-dev/magic-mcp",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 5774,
+   "license": "ISC",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-01",
+   "created_at": "2025-02-19",
+   "stars_per_day_lifetime": 10.31,
+   "topics": [
+    "21st",
+    "claude",
+    "cursor",
+    "mcp",
+    "model-context-protocol",
+    "react",
+    "tailwindcss",
+    "ui-components"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 83
    }
   },
   {
@@ -31849,6 +32077,41 @@
    }
   },
   {
+   "repo": "mikalv/awesome-qt-qml",
+   "url": "https://github.com/mikalv/awesome-qt-qml",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 2605,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-01",
+   "created_at": "2017-06-25",
+   "stars_per_day_lifetime": 0.78,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "cpp",
+    "javascript",
+    "qml",
+    "qml-bindings",
+    "qpm",
+    "qt",
+    "qt-quick",
+    "qt4",
+    "qt5",
+    "qtcreator"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 40
+   }
+  },
+  {
    "repo": "risesoft-y9/Digital-Infrastructure",
    "url": "https://github.com/risesoft-y9/Digital-Infrastructure",
    "first_seen": "2026-08-11",
@@ -32586,6 +32849,33 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 82
+   }
+  },
+  {
+   "repo": "tmcw/awesome-geojson",
+   "url": "https://github.com/tmcw/awesome-geojson",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 2535,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-01",
+   "created_at": "2015-05-28",
+   "stars_per_day_lifetime": 0.62,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "geojson",
+    "list"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 55
    }
   },
   {
@@ -41384,6 +41674,28 @@
    }
   },
   {
+   "repo": "lgazo/drawio-mcp-server",
+   "url": "https://github.com/lgazo/drawio-mcp-server",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 1455,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-01",
+   "created_at": "2025-04-21",
+   "stars_per_day_lifetime": 2.92,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 39
+   }
+  },
+  {
    "repo": "chigwell/telegram-mcp",
    "url": "https://github.com/chigwell/telegram-mcp",
    "first_seen": "2026-08-12",
@@ -44029,6 +44341,28 @@
    }
   },
   {
+   "repo": "Taxuspt/garmin_mcp",
+   "url": "https://github.com/Taxuspt/garmin_mcp",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 1102,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-01",
+   "created_at": "2025-03-08",
+   "stars_per_day_lifetime": 2.03,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 50
+   }
+  },
+  {
    "repo": "mongodb-js/mongodb-mcp-server",
    "url": "https://github.com/mongodb-js/mongodb-mcp-server",
    "first_seen": "2026-08-10",
@@ -44475,6 +44809,42 @@
     "sort": "stars",
     "query_breadth": 56,
     "position": 53
+   }
+  },
+  {
+   "repo": "jub0t/Concat",
+   "url": "https://github.com/jub0t/Concat",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 1052,
+   "license": "MPL-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-08-31",
+   "created_at": "2026-08-25",
+   "stars_per_day_lifetime": 131.5,
+   "topics": [
+    "audio-processor",
+    "auto-caption",
+    "automation",
+    "capcut",
+    "capcut-alternative",
+    "content-creation",
+    "cross-platform",
+    "desktop-app",
+    "ffmpeg",
+    "free-video-editor",
+    "non-linear-editor",
+    "offline-first"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:content-creation stars:>1000 pushed:>2026-06-04",
+    "sort": "stars",
+    "query_breadth": 17,
+    "position": 15
    }
   },
   {
@@ -53194,6 +53564,28 @@
    }
   },
   {
+   "repo": "Rzna-5559/Mrite",
+   "url": "https://github.com/Rzna-5559/Mrite",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 445,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TeX",
+   "pushed_at": "2026-08-27",
+   "created_at": "2026-06-09",
+   "stars_per_day_lifetime": 5.24,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 98
+   }
+  },
+  {
    "repo": "livegbs/GB28181-Server",
    "url": "https://github.com/livegbs/GB28181-Server",
    "first_seen": "2026-08-20",
@@ -55264,6 +55656,28 @@
    }
   },
   {
+   "repo": "81NewArk/AntiCAP-WebApi",
+   "url": "https://github.com/81NewArk/AntiCAP-WebApi",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 366,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-01",
+   "created_at": "2025-05-30",
+   "stars_per_day_lifetime": 0.8,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "OCR 识别 in:name,description stars:>100 pushed:>2026-06-04",
+    "sort": "stars",
+    "query_breadth": 22,
+    "position": 9
+   }
+  },
+  {
    "repo": "dromara/wgai",
    "url": "https://github.com/dromara/wgai",
    "first_seen": "2026-07-29",
@@ -55673,6 +56087,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 32
+   }
+  },
+  {
+   "repo": "scaccogatto/okf-skills",
+   "url": "https://github.com/scaccogatto/okf-skills",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 353,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-01",
+   "created_at": "2026-06-14",
+   "stars_per_day_lifetime": 4.41,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "developer-tools",
+    "knowledge-graph",
+    "knowledge-management",
+    "llm-tools",
+    "markdown",
+    "mcp",
+    "okf",
+    "open-knowledge-format"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 65
    }
   },
   {
@@ -56459,6 +56909,28 @@
    }
   },
   {
+   "repo": "yushui2022/MathModel-Skill",
+   "url": "https://github.com/yushui2022/MathModel-Skill",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 331,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-02",
+   "created_at": "2026-01-29",
+   "stars_per_day_lifetime": 1.53,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 1
+   }
+  },
+  {
    "repo": "Chadwuo/li-ji-weapp",
    "url": "https://github.com/Chadwuo/li-ji-weapp",
    "first_seen": "2026-07-29",
@@ -56520,6 +56992,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 92
+   }
+  },
+  {
+   "repo": "subsy/skill-cabinet",
+   "url": "https://github.com/subsy/skill-cabinet",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 326,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-01",
+   "created_at": "2026-08-31",
+   "stars_per_day_lifetime": 163.0,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 45
    }
   },
   {
@@ -58402,6 +58896,42 @@
    }
   },
   {
+   "repo": "ZeKaiNie/universal-examprep-skill",
+   "url": "https://github.com/ZeKaiNie/universal-examprep-skill",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 277,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-02",
+   "created_at": "2026-06-24",
+   "stars_per_day_lifetime": 3.96,
+   "topics": [
+    "agent-skill",
+    "ai-tutor",
+    "anthropic",
+    "anti-hallucination",
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "cram",
+    "edtech",
+    "education",
+    "exam-prep",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 4
+   }
+  },
+  {
    "repo": "alchaincyf/karpathy-skill",
    "url": "https://github.com/alchaincyf/karpathy-skill",
    "first_seen": "2026-07-26",
@@ -59309,6 +59839,35 @@
     "sort": "stars",
     "query_breadth": 13,
     "position": 11
+   }
+  },
+  {
+   "repo": "liyue-aigc/seedance-2-5-video-director",
+   "url": "https://github.com/liyue-aigc/seedance-2-5-video-director",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 252,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-08-26",
+   "created_at": "2026-08-18",
+   "stars_per_day_lifetime": 16.8,
+   "topics": [
+    "ai-video",
+    "codex-skill",
+    "dreamina",
+    "seedance",
+    "video-prompt"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-04",
+    "sort": "stars",
+    "query_breadth": 53,
+    "position": 48
    }
   },
   {
@@ -61547,6 +62106,28 @@
    }
   },
   {
+   "repo": "curiositech/some_claude_skills",
+   "url": "https://github.com/curiositech/some_claude_skills",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 209,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-02",
+   "created_at": "2025-11-16",
+   "stars_per_day_lifetime": 0.72,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 29
+   }
+  },
+  {
    "repo": "TangWiki-Ai/ai-coding-prompts",
    "url": "https://github.com/TangWiki-Ai/ai-coding-prompts",
    "first_seen": "2026-08-24",
@@ -62430,6 +63011,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 18
+   }
+  },
+  {
+   "repo": "realZillionX/InspireSkill",
+   "url": "https://github.com/realZillionX/InspireSkill",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-01",
+   "created_at": "2026-04-20",
+   "stars_per_day_lifetime": 1.49,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 70
    }
   },
   {
@@ -64979,6 +65582,37 @@
    }
   },
   {
+   "repo": "VkRainB/ccMesh",
+   "url": "https://github.com/VkRainB/ccMesh",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 119,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-09-02",
+   "created_at": "2026-06-09",
+   "stars_per_day_lifetime": 1.4,
+   "topics": [
+    "claude",
+    "desktop-app",
+    "gateway",
+    "llm",
+    "local-proxy",
+    "protocol-conversion",
+    "tauri2"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-06-04",
+    "sort": "stars",
+    "query_breadth": 16,
+    "position": 12
+   }
+  },
+  {
    "repo": "liu5269/zcode2api",
    "url": "https://github.com/liu5269/zcode2api",
    "first_seen": "2026-08-03",
@@ -65171,6 +65805,33 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 63
+   }
+  },
+  {
+   "repo": "Justin-sky/ai-art-engine",
+   "url": "https://github.com/Justin-sky/ai-art-engine",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 114,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-01",
+   "created_at": "2026-07-24",
+   "stars_per_day_lifetime": 2.85,
+   "topics": [
+    "3d-modeling",
+    "artist",
+    "dsh-plugin"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-06-04",
+    "sort": "stars",
+    "query_breadth": 46,
+    "position": 43
    }
   },
   {
@@ -66752,6 +67413,32 @@
    "found_by": {
     "dimension": "chinese",
     "query": "女娲 in:name,description stars:>100",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 19
+   }
+  },
+  {
+   "repo": "dodolalorc/astro-navfolio",
+   "url": "https://github.com/dodolalorc/astro-navfolio",
+   "first_seen": "2026-09-02",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-02",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Astro",
+   "pushed_at": "2026-08-14",
+   "created_at": "2026-05-11",
+   "stars_per_day_lifetime": 0.89,
+   "topics": [
+    "astro",
+    "blog-theme"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-06-04",
     "sort": "stars",
     "query_breadth": 20,
     "position": 19
@@ -69048,7 +69735,7 @@
    }
   }
  ],
- "updated": "2026-09-01",
+ "updated": "2026-09-02",
  "status_enum": [
   "pending",
   "debated",
