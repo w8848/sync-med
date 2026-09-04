@@ -64,7 +64,7 @@
       ],
       "verified": true,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 NVIDIA_API_KEY（也没有别名 NVIDIA_NIM_API_KEY/NVIDIA_KEYS）",
       "metrics": {
         "latencyMs": 4934,
@@ -91,7 +91,7 @@
       "tags": [],
       "verified": false,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 NVIDIA_API_KEY（也没有别名 NVIDIA_NIM_API_KEY/NVIDIA_KEYS）",
       "metrics": {
         "probeMs": 60002,
@@ -122,7 +122,7 @@
       ],
       "verified": true,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 CEREBRAS_KEYS（也没有别名 CEREBRAS_API_KEY/CB_KEYS）",
       "metrics": {
         "rateLimit": "tight",
@@ -146,7 +146,7 @@
       ],
       "verified": true,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 SILICONFLOW_KEY（也没有别名 SILICONFLOW_API_KEY）",
       "metrics": {
         "passRate72b": 0.69,
@@ -172,7 +172,7 @@
       ],
       "verified": true,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 ZHIPU_KEY（也没有别名 ZHIPU_API_KEY）",
       "metrics": {
         "latencyMs": 669,
@@ -195,7 +195,7 @@
       ],
       "verified": true,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 AGNES_API_KEY（也没有别名 AGNES_KEY）",
       "metrics": {
         "probeMs": 6518
@@ -219,7 +219,7 @@
       ],
       "verified": true,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 SENSENOVA_KEYS（也没有别名 SENSENOVA_API_KEY/SN_KEYS）",
       "metrics": {
         "probeMs": 2305
@@ -240,7 +240,7 @@
       "tags": [],
       "verified": false,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 SENSENOVA_KEYS（也没有别名 SENSENOVA_API_KEY/SN_KEYS）",
       "metrics": {
         "probeMs": 196
@@ -260,7 +260,7 @@
       "tags": [],
       "verified": false,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 SENSENOVA_KEYS（也没有别名 SENSENOVA_API_KEY/SN_KEYS）",
       "metrics": {
         "probeMs": 215
@@ -280,7 +280,7 @@
       "tags": [],
       "verified": false,
       "status": "no_key",
-      "lastChecked": "2026-09-03",
+      "lastChecked": "2026-09-04",
       "lastError": "环境里没有 SENSENOVA_KEYS（也没有别名 SENSENOVA_API_KEY/SN_KEYS）",
       "metrics": {
         "probeMs": 725
