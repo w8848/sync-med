@@ -15262,6 +15262,31 @@
    }
   },
   {
+   "repo": "igorbarinov/awesome-data-engineering",
+   "url": "https://github.com/igorbarinov/awesome-data-engineering",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 9027,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-06",
+   "created_at": "2015-06-18",
+   "stars_per_day_lifetime": 2.2,
+   "topics": [
+    "awesome",
+    "awesome-list"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 31
+   }
+  },
+  {
    "repo": "nhivp/Awesome-Embedded",
    "url": "https://github.com/nhivp/Awesome-Embedded",
    "first_seen": "2026-08-12",
@@ -17820,6 +17845,35 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 9
+   }
+  },
+  {
+   "repo": "nndl/llm-beginner",
+   "url": "https://github.com/nndl/llm-beginner",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 6721,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-06",
+   "created_at": "2017-03-29",
+   "stars_per_day_lifetime": 1.95,
+   "topics": [
+    "agent",
+    "fudannlp",
+    "llm",
+    "openmoss",
+    "step-by-step"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "大模型 in:name,description stars:>1000 pushed:>2026-08-08",
+    "sort": "stars",
+    "query_breadth": 56,
+    "position": 13
    }
   },
   {
@@ -24944,6 +24998,42 @@
    }
   },
   {
+   "repo": "bostrot/wsl2-distro-manager",
+   "url": "https://github.com/bostrot/wsl2-distro-manager",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 3970,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Dart",
+   "pushed_at": "2026-09-06",
+   "created_at": "2021-09-17",
+   "stars_per_day_lifetime": 2.19,
+   "topics": [
+    "ai",
+    "developer-tools",
+    "docker",
+    "flutter",
+    "gui",
+    "llm",
+    "macos",
+    "mcp",
+    "model-context-protocol",
+    "rootfs",
+    "turnkey",
+    "virtual-machine"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
+   }
+  },
+  {
    "repo": "yvoronoy/awesome-english",
    "url": "https://github.com/yvoronoy/awesome-english",
    "first_seen": "2026-09-05",
@@ -29837,6 +29927,36 @@
    }
   },
   {
+   "repo": "awesome-mlss/awesome-mlss",
+   "url": "https://github.com/awesome-mlss/awesome-mlss",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 3033,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-06",
+   "created_at": "2018-12-01",
+   "stars_per_day_lifetime": 1.07,
+   "topics": [
+    "artificial-intelligence",
+    "deep-learning",
+    "machine-learning",
+    "reinforcement-learning",
+    "summer-school",
+    "summer-schools"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 50
+   }
+  },
+  {
    "repo": "jslee02/awesome-robotics-libraries",
    "url": "https://github.com/jslee02/awesome-robotics-libraries",
    "first_seen": "2026-08-26",
@@ -34189,6 +34309,40 @@
    }
   },
   {
+   "repo": "yaolifeng0629/Awesome-independent-tools",
+   "url": "https://github.com/yaolifeng0629/Awesome-independent-tools",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 2451,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "pushed_at": "2026-09-06",
+   "created_at": "2024-09-10",
+   "stars_per_day_lifetime": 3.37,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "awesome-resources",
+    "dev",
+    "developer",
+    "developer-tools",
+    "development",
+    "independent",
+    "indiehacker",
+    "indiehackers",
+    "tools"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 49
+   }
+  },
+  {
    "repo": "shy3130/tickflow-stock-panel",
    "url": "https://github.com/shy3130/tickflow-stock-panel",
    "first_seen": "2026-08-01",
@@ -37005,6 +37159,34 @@
    }
   },
   {
+   "repo": "TheComputerM/awesome-svelte",
+   "url": "https://github.com/TheComputerM/awesome-svelte",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 2157,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-06",
+   "created_at": "2020-09-29",
+   "stars_per_day_lifetime": 0.99,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "sapper",
+    "svelte",
+    "sveltejs"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
    "url": "https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
    "first_seen": "2026-08-06",
@@ -37409,6 +37591,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 94
+   }
+  },
+  {
+   "repo": "yaklang/hack-skills",
+   "url": "https://github.com/yaklang/hack-skills",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 2119,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "CSS",
+   "pushed_at": "2026-06-16",
+   "created_at": "2026-04-07",
+   "stars_per_day_lifetime": 13.85,
+   "found_by": {
+    "dimension": "category",
+    "query": "skills in:name stars:>500 pushed:>2026-06-09",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 98
    }
   },
   {
@@ -45456,6 +45660,28 @@
    }
   },
   {
+   "repo": "saidsurucu/yargi-mcp",
+   "url": "https://github.com/saidsurucu/yargi-mcp",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 1112,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-06",
+   "created_at": "2025-05-21",
+   "stars_per_day_lifetime": 2.35,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 39
+   }
+  },
+  {
    "repo": "skygazer42/DL-Hub",
    "url": "https://github.com/skygazer42/DL-Hub",
    "first_seen": "2026-08-13",
@@ -53057,6 +53283,42 @@
    }
   },
   {
+   "repo": "qilaidev/IDM-Activation-Script-Chinese",
+   "url": "https://github.com/qilaidev/IDM-Activation-Script-Chinese",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 512,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Batchfile",
+   "pushed_at": "2026-09-05",
+   "created_at": "2026-08-05",
+   "stars_per_day_lifetime": 15.52,
+   "topics": [
+    "activation",
+    "activation-script",
+    "chinese",
+    "chinese-localization",
+    "cmd",
+    "cp936",
+    "download-manager",
+    "gbk",
+    "idm",
+    "idm-activation",
+    "idm-activation-script",
+    "internet-download-manager"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 67,
+    "position": 25
+   }
+  },
+  {
    "repo": "modoojunko/awesome-novel-skill",
    "url": "https://github.com/modoojunko/awesome-novel-skill",
    "first_seen": "2026-08-06",
@@ -56758,6 +57020,28 @@
    }
   },
   {
+   "repo": "Pangu-Immortal/hunter-ai-content-factory",
+   "url": "https://github.com/Pangu-Immortal/hunter-ai-content-factory",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 390,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-06",
+   "created_at": "2026-01-22",
+   "stars_per_day_lifetime": 1.71,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "自动 发布 in:name,description stars:>100 pushed:>2026-06-09",
+    "sort": "stars",
+    "query_breadth": 28,
+    "position": 13
+   }
+  },
+  {
    "repo": "for-the-zero/Free-LLM-Collection",
    "url": "https://github.com/for-the-zero/Free-LLM-Collection",
    "first_seen": "2026-07-26",
@@ -57376,6 +57660,41 @@
     "sort": "stars",
     "query_breadth": 58,
     "position": 32
+   }
+  },
+  {
+   "repo": "testdino-hq/playwright-skill",
+   "url": "https://github.com/testdino-hq/playwright-skill",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 361,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-06",
+   "created_at": "2026-02-13",
+   "stars_per_day_lifetime": 1.75,
+   "topics": [
+    "ai",
+    "ai-skills",
+    "antigravity-skills",
+    "claude-skills",
+    "codex-skills",
+    "cursor-skills",
+    "devtool",
+    "openclaw-skills",
+    "playwright",
+    "reporting",
+    "skills",
+    "test-reporting"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 73
    }
   },
   {
@@ -62696,6 +63015,28 @@
    }
   },
   {
+   "repo": "originaleric/dig-ui-skill",
+   "url": "https://github.com/originaleric/dig-ui-skill",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 229,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-05-30",
+   "stars_per_day_lifetime": 2.29,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 3
+   }
+  },
+  {
    "repo": "Aperivue/medsci-skills",
    "url": "https://github.com/Aperivue/medsci-skills",
    "first_seen": "2026-07-31",
@@ -64752,6 +65093,39 @@
    }
   },
   {
+   "repo": "yennanliu/InvestSkill",
+   "url": "https://github.com/yennanliu/InvestSkill",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 204,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-06",
+   "created_at": "2026-02-16",
+   "stars_per_day_lifetime": 1.0,
+   "topics": [
+    "agent",
+    "financial",
+    "financial-analysis",
+    "gemini",
+    "investment",
+    "llm",
+    "stock",
+    "stock-market",
+    "us-stock"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 68
+   }
+  },
+  {
    "repo": "KernelFlow-ops/cuda-optimized-skill",
    "url": "https://github.com/KernelFlow-ops/cuda-optimized-skill",
    "first_seen": "2026-09-06",
@@ -64831,6 +65205,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 2
+   }
+  },
+  {
+   "repo": "oil-oil/video-publisher-skill",
+   "url": "https://github.com/oil-oil/video-publisher-skill",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 203,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-06",
+   "created_at": "2026-07-14",
+   "stars_per_day_lifetime": 3.69,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 98
    }
   },
   {
@@ -65085,6 +65481,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 52
+   }
+  },
+  {
+   "repo": "T8mars/minimax-h3-prompt-skill-T8",
+   "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-06",
+   "created_at": "2026-08-09",
+   "stars_per_day_lifetime": 6.93,
+   "topics": [
+    "ai-video",
+    "codex-skills",
+    "creative-dna",
+    "electron",
+    "minimax-h3",
+    "prompt-engineering",
+    "seedance-2-0",
+    "video-generation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 59
    }
   },
   {
@@ -66865,6 +67293,42 @@
     "sort": "stars",
     "query_breadth": 18,
     "position": 14
+   }
+  },
+  {
+   "repo": "18534516725/llm-api-setup-guides",
+   "url": "https://github.com/18534516725/llm-api-setup-guides",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 142,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-03",
+   "created_at": "2026-07-14",
+   "stars_per_day_lifetime": 2.58,
+   "topics": [
+    "ai-api",
+    "api-proxy",
+    "api-relay",
+    "api-testing",
+    "cherry-studio",
+    "chinese-tutorial",
+    "claude-api",
+    "claude-code",
+    "cline",
+    "codex-api",
+    "codex-cli",
+    "cursor"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-06-09",
+    "sort": "stars",
+    "query_breadth": 16,
+    "position": 10
    }
   },
   {
@@ -71972,6 +72436,27 @@
    }
   },
   {
+   "repo": "mofahuizhang/Gn",
+   "url": "https://github.com/mofahuizhang/Gn",
+   "first_seen": "2026-09-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-07",
+   "stars": 0,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "pushed_at": "2026-09-06",
+   "created_at": "2026-09-06",
+   "stars_per_day_lifetime": 0.0,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 大模型 in:name,description",
+    "sort": "stars",
+    "query_breadth": 34,
+    "position": 27
+   }
+  },
+  {
    "repo": "noct6/tcm-cough-diagnosis",
    "url": "https://github.com/noct6/tcm-cough-diagnosis",
    "first_seen": "2026-08-05",
@@ -72069,7 +72554,7 @@
    }
   }
  ],
- "updated": "2026-09-06",
+ "updated": "2026-09-07",
  "status_enum": [
   "pending",
   "debated",
