@@ -17976,6 +17976,31 @@
    }
   },
   {
+   "repo": "pditommaso/awesome-pipeline",
+   "url": "https://github.com/pditommaso/awesome-pipeline",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 6625,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-07",
+   "created_at": "2014-07-19",
+   "stars_per_day_lifetime": 1.49,
+   "topics": [
+    "awesome-list",
+    "workflow"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 43
+   }
+  },
+  {
    "repo": "shuaibiyy/awesome-tf",
    "url": "https://github.com/shuaibiyy/awesome-tf",
    "first_seen": "2026-08-25",
@@ -18230,6 +18255,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 34
+   }
+  },
+  {
+   "repo": "georgezouq/awesome-ai-in-finance",
+   "url": "https://github.com/georgezouq/awesome-ai-in-finance",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 6495,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-08",
+   "created_at": "2018-08-29",
+   "stars_per_day_lifetime": 2.22,
+   "topics": [
+    "analysis",
+    "awesome",
+    "awesome-list",
+    "cryptocurrency",
+    "deep-learning",
+    "financial",
+    "neural-network",
+    "quant",
+    "quantitative-finance",
+    "reinforcement-learning",
+    "stock-market",
+    "technology-analysis"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
    }
   },
   {
@@ -21654,6 +21714,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 43
+   }
+  },
+  {
+   "repo": "icip-cas/PPTAgent",
+   "url": "https://github.com/icip-cas/PPTAgent",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 4997,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-07",
+   "created_at": "2025-01-04",
+   "stars_per_day_lifetime": 8.17,
+   "topics": [
+    "agent",
+    "agentic-ai",
+    "llm",
+    "mcp",
+    "openclaw",
+    "presentation",
+    "slide"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 93
    }
   },
   {
@@ -25167,6 +25258,35 @@
    }
   },
   {
+   "repo": "jghoman/awesome-apache-airflow",
+   "url": "https://github.com/jghoman/awesome-apache-airflow",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 3926,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Shell",
+   "pushed_at": "2026-09-08",
+   "created_at": "2018-01-11",
+   "stars_per_day_lifetime": 1.24,
+   "topics": [
+    "airflow",
+    "apache-airflow",
+    "awesome",
+    "awesome-list",
+    "workflow-management"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 14
+   }
+  },
+  {
    "repo": "gramantin/awesome-rails",
    "url": "https://github.com/gramantin/awesome-rails",
    "first_seen": "2026-08-17",
@@ -28182,6 +28302,42 @@
    }
   },
   {
+   "repo": "Keycapsss/awesome-mechanical-keyboard",
+   "url": "https://github.com/Keycapsss/awesome-mechanical-keyboard",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 3312,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Astro",
+   "pushed_at": "2026-09-07",
+   "created_at": "2018-06-15",
+   "stars_per_day_lifetime": 1.1,
+   "topics": [
+    "3d-printing",
+    "awesome",
+    "awesome-list",
+    "gridsome-website",
+    "hacktoberfest",
+    "keyboard",
+    "keyboard-layout",
+    "list",
+    "mechanical-keyboard",
+    "mechanical-keyboards",
+    "pcb",
+    "qmk"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 53
+   }
+  },
+  {
    "repo": "Renhuai123/ziwei-doushu",
    "url": "https://github.com/Renhuai123/ziwei-doushu",
    "first_seen": "2026-07-26",
@@ -28583,6 +28739,40 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 86
+   }
+  },
+  {
+   "repo": "Sumanth077/Hands-On-AI-Engineering",
+   "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 3247,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-08",
+   "created_at": "2025-02-24",
+   "stars_per_day_lifetime": 5.79,
+   "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "generative-ai",
+    "llms",
+    "mcp",
+    "ocr",
+    "python",
+    "rag"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 3
    }
   },
   {
@@ -32400,6 +32590,42 @@
    }
   },
   {
+   "repo": "oritera/Cairn",
+   "url": "https://github.com/oritera/Cairn",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 2652,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-04-19",
+   "stars_per_day_lifetime": 18.68,
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-cybersecurity",
+    "ai-hacker",
+    "ai-hacking",
+    "blackbox-testing",
+    "ctf",
+    "ctf-tools",
+    "llm",
+    "penetration-testing",
+    "pentesting",
+    "red-teaming"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 55
+   }
+  },
+  {
    "repo": "docsifyjs/awesome-docsify",
    "url": "https://github.com/docsifyjs/awesome-docsify",
    "first_seen": "2026-08-30",
@@ -33883,6 +34109,42 @@
    }
   },
   {
+   "repo": "hello245m/free-stockdb",
+   "url": "https://github.com/hello245m/free-stockdb",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 2514,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-08",
+   "created_at": "2026-05-08",
+   "stars_per_day_lifetime": 20.44,
+   "topics": [
+    "a-share",
+    "algorithmic-trading",
+    "backtesting",
+    "china-stock-market",
+    "kline",
+    "local-first",
+    "market-data",
+    "mcp",
+    "quant-research",
+    "quantitative-finance",
+    "stock-data",
+    "stock-market"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 40
+   }
+  },
+  {
    "repo": "aaron-he-zhu/aaron-marketing-skills",
    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
    "first_seen": "2026-08-02",
@@ -34663,6 +34925,34 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 9
+   }
+  },
+  {
+   "repo": "Justineo/vue-awesome",
+   "url": "https://github.com/Justineo/vue-awesome",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 2425,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-05",
+   "created_at": "2016-04-01",
+   "stars_per_day_lifetime": 0.64,
+   "topics": [
+    "font-awesome",
+    "icon",
+    "svg",
+    "vue"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
    }
   },
   {
@@ -36451,6 +36741,35 @@
    }
   },
   {
+   "repo": "daodao97/chatmcp",
+   "url": "https://github.com/daodao97/chatmcp",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 2224,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Dart",
+   "pushed_at": "2026-09-07",
+   "created_at": "2024-12-08",
+   "stars_per_day_lifetime": 3.48,
+   "topics": [
+    "ai",
+    "chat",
+    "client",
+    "mcp",
+    "mcp-client"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 72
+   }
+  },
+  {
    "repo": "NanoNets/Graft",
    "url": "https://github.com/NanoNets/Graft",
    "first_seen": "2026-08-13",
@@ -37226,6 +37545,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 0
+   }
+  },
+  {
+   "repo": "ScrapeCreators/social-media-research-skills",
+   "url": "https://github.com/ScrapeCreators/social-media-research-skills",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 2153,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-08-26",
+   "created_at": "2026-06-06",
+   "stars_per_day_lifetime": 22.9,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "competitor-analysis",
+    "content-marketing",
+    "cursor",
+    "influencer-marketing",
+    "market-research",
+    "social-media",
+    "social-media-research",
+    "workflow-automation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skills in:name stars:>500 pushed:>2026-06-10",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 97
    }
   },
   {
@@ -42993,6 +43348,42 @@
    }
   },
   {
+   "repo": "redhat-et/ripwire",
+   "url": "https://github.com/redhat-et/ripwire",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 1459,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "C++",
+   "pushed_at": "2026-09-08",
+   "created_at": "2026-07-29",
+   "stars_per_day_lifetime": 35.59,
+   "topics": [
+    "ai-agents",
+    "call-graph",
+    "claude",
+    "claude-code",
+    "cli",
+    "code-navigation",
+    "codex",
+    "coding-agents",
+    "context-engineering",
+    "cpp",
+    "developer-tools",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 17
+   }
+  },
+  {
    "repo": "lgazo/drawio-mcp-server",
    "url": "https://github.com/lgazo/drawio-mcp-server",
    "first_seen": "2026-09-02",
@@ -46599,6 +46990,42 @@
    }
   },
   {
+   "repo": "2akouwu/reverify",
+   "url": "https://github.com/2akouwu/reverify",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 1022,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-08-31",
+   "stars_per_day_lifetime": 127.75,
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "anti-hallucination",
+    "binary-analysis",
+    "context-engineering",
+    "ctf",
+    "developer-tools",
+    "disassembler",
+    "grounding",
+    "hallucination",
+    "hallucination-detection"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 61
+   }
+  },
+  {
    "repo": "gaboolic/rime-shuangpin-fuzhuma",
    "url": "https://github.com/gaboolic/rime-shuangpin-fuzhuma",
    "first_seen": "2026-07-29",
@@ -49956,6 +50383,38 @@
    }
   },
   {
+   "repo": "feichanggege/ecommerce-visual-copywriting-skill",
+   "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 713,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-04-15",
+   "stars_per_day_lifetime": 4.88,
+   "topics": [
+    "agent-skills",
+    "ai-image-generation-api",
+    "amazon",
+    "copywriting",
+    "ecommerce",
+    "prompt-engineering",
+    "shopify",
+    "tiktok-shop-affiliate"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 95
+   }
+  },
+  {
    "repo": "pengjunchi0/codex-visio-paper-figure-skill",
    "url": "https://github.com/pengjunchi0/codex-visio-paper-figure-skill",
    "first_seen": "2026-08-16",
@@ -51420,6 +51879,42 @@
     "sort": "updated",
     "query_breadth": 56,
     "position": 54
+   }
+  },
+  {
+   "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+   "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 612,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Shell",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-08-29",
+   "stars_per_day_lifetime": 61.2,
+   "topics": [
+    "ai-seo",
+    "backlinks",
+    "claude",
+    "claude-skills",
+    "dataforseo",
+    "generative-engine-optimization",
+    "geo",
+    "keyword-research",
+    "mcp",
+    "mcp-server",
+    "open-source-seo",
+    "rank-tracking"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
    }
   },
   {
@@ -54545,6 +55040,35 @@
    }
   },
   {
+   "repo": "BruceLanLan/augur",
+   "url": "https://github.com/BruceLanLan/augur",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 470,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-07-28",
+   "created_at": "2026-04-07",
+   "stars_per_day_lifetime": 3.05,
+   "topics": [
+    "ai-agents",
+    "investment-analysis",
+    "multi-agent",
+    "stock-analysis",
+    "value-investing"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 98
+   }
+  },
+  {
    "repo": "zenstory-ai/video-recap-skills",
    "url": "https://github.com/zenstory-ai/video-recap-skills",
    "first_seen": "2026-08-25",
@@ -55968,6 +56492,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 99
+   }
+  },
+  {
+   "repo": "yang0/handraw-style",
+   "url": "https://github.com/yang0/handraw-style",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 428,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "HTML",
+   "pushed_at": "2026-09-05",
+   "created_at": "2026-09-05",
+   "stars_per_day_lifetime": 142.67,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-10",
+    "sort": "stars",
+    "query_breadth": 58,
+    "position": 38
    }
   },
   {
@@ -59630,6 +60176,40 @@
    }
   },
   {
+   "repo": "kennyzir/7deer_skills",
+   "url": "https://github.com/kennyzir/7deer_skills",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 311,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-08",
+   "created_at": "2026-04-03",
+   "stars_per_day_lifetime": 1.97,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "backlinks",
+    "codex",
+    "content-automation",
+    "keyword-research",
+    "nextjs",
+    "open-source",
+    "roblox",
+    "seo"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 29
+   }
+  },
+  {
    "repo": "realasfngl/Grok-Api",
    "url": "https://github.com/realasfngl/Grok-Api",
    "first_seen": "2026-08-19",
@@ -61600,6 +62180,42 @@
     "sort": "stars",
     "query_breadth": 29,
     "position": 16
+   }
+  },
+  {
+   "repo": "rrezartprebreza/spring-boot-skills",
+   "url": "https://github.com/rrezartprebreza/spring-boot-skills",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 261,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Java",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-04-14",
+   "stars_per_day_lifetime": 1.78,
+   "topics": [
+    "ai-coding-agent",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "claude-plugin",
+    "claude-skill",
+    "claude-skills",
+    "codex",
+    "codex-skills",
+    "developer-tools",
+    "java",
+    "mcp"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 63
    }
   },
   {
@@ -63783,6 +64399,28 @@
    }
   },
   {
+   "repo": "skydoves/android-skills-mcp",
+   "url": "https://github.com/skydoves/android-skills-mcp",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 217,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-04-15",
+   "stars_per_day_lifetime": 1.49,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 55
+   }
+  },
+  {
    "repo": "MakotoArai-CN/Mieru-OCR",
    "url": "https://github.com/MakotoArai-CN/Mieru-OCR",
    "first_seen": "2026-07-29",
@@ -64600,6 +65238,28 @@
    }
   },
   {
+   "repo": "BZDmathclub/bzd-math-modeling-skills",
+   "url": "https://github.com/BZDmathclub/bzd-math-modeling-skills",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 207,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "HTML",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-08-13",
+   "stars_per_day_lifetime": 7.96,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
+   }
+  },
+  {
    "repo": "OrangeViolin/content-pipeline",
    "url": "https://github.com/OrangeViolin/content-pipeline",
    "first_seen": "2026-07-29",
@@ -64638,6 +65298,28 @@
     "sort": "stars",
     "query_breadth": 47,
     "position": 33
+   }
+  },
+  {
+   "repo": "apcamargo/typst-skills",
+   "url": "https://github.com/apcamargo/typst-skills",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 207,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Typst",
+   "pushed_at": "2026-09-08",
+   "created_at": "2025-12-22",
+   "stars_per_day_lifetime": 0.8,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 6
    }
   },
   {
@@ -65423,6 +66105,34 @@
     "sort": "stars",
     "query_breadth": 18,
     "position": 14
+   }
+  },
+  {
+   "repo": "zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
+   "url": "https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 202,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-08-16",
+   "created_at": "2026-08-16",
+   "stars_per_day_lifetime": 8.78,
+   "topics": [
+    "ai-agent",
+    "bluebook",
+    "harness",
+    "workbuddy",
+    "zhijian-ai"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-10",
+    "sort": "stars",
+    "query_breadth": 58,
+    "position": 57
    }
   },
   {
@@ -69824,6 +70534,27 @@
    }
   },
   {
+   "repo": "AIPMAndy/FreeToken",
+   "url": "https://github.com/AIPMAndy/FreeToken",
+   "first_seen": "2026-09-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-08",
+   "stars": 102,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-06-21",
+   "created_at": "2026-05-04",
+   "stars_per_day_lifetime": 0.8,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-06-10",
+    "sort": "stars",
+    "query_breadth": 35,
+    "position": 34
+   }
+  },
+  {
    "repo": "SailingLoong/LoongPort",
    "url": "https://github.com/SailingLoong/LoongPort",
    "first_seen": "2026-08-29",
@@ -72554,7 +73285,7 @@
    }
   }
  ],
- "updated": "2026-09-07",
+ "updated": "2026-09-08",
  "status_enum": [
   "pending",
   "debated",
