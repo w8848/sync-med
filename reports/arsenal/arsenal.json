@@ -32100,6 +32100,41 @@
    }
   },
   {
+   "repo": "ciembor/agent-rules-books",
+   "url": "https://github.com/ciembor/agent-rules-books",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 2738,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-09",
+   "created_at": "2026-04-16",
+   "stars_per_day_lifetime": 18.63,
+   "topics": [
+    "agent-rules",
+    "agent-skills",
+    "agent-skills-manager",
+    "agents-md",
+    "agents-rules",
+    "agents-skills",
+    "agentsmd",
+    "ai-agent",
+    "ai-skills",
+    "claude-code",
+    "claude-code-skills",
+    "code-quality"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
+   }
+  },
+  {
    "repo": "insthync/awesome-unity3d",
    "url": "https://github.com/insthync/awesome-unity3d",
    "first_seen": "2026-08-26",
@@ -34279,6 +34314,32 @@
    }
   },
   {
+   "repo": "sollyu/AndroidStudioChineseLanguagePack",
+   "url": "https://github.com/sollyu/AndroidStudioChineseLanguagePack",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 2496,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-09",
+   "created_at": "2022-03-21",
+   "stars_per_day_lifetime": 1.53,
+   "topics": [
+    "android-studio",
+    "chinese",
+    "plugins"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-08-11",
+    "sort": "updated",
+    "query_breadth": 71,
+    "position": 18
+   }
+  },
+  {
    "repo": "aaron-he-zhu/aaron-marketing-skills",
    "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
    "first_seen": "2026-08-02",
@@ -35018,6 +35079,40 @@
    }
   },
   {
+   "repo": "ningzimu/image-to-editable-ppt-skill",
+   "url": "https://github.com/ningzimu/image-to-editable-ppt-skill",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 2429,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-10",
+   "created_at": "2026-05-21",
+   "stars_per_day_lifetime": 21.69,
+   "topics": [
+    "codex",
+    "codex-skill",
+    "editable-ppt",
+    "image-to-ppt",
+    "imagegen",
+    "multi-agent",
+    "pdf-to-pptx",
+    "powerpoint",
+    "pptx",
+    "presentation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
+   }
+  },
+  {
    "repo": "Bitterbot-AI/bitterbot-desktop",
    "url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
    "first_seen": "2026-07-26",
@@ -35087,6 +35182,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 92
+   }
+  },
+  {
+   "repo": "Player-YN/PawWork_ZhuaZhua",
+   "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 2421,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-09",
+   "created_at": "2026-08-28",
+   "stars_per_day_lifetime": 186.23,
+   "topics": [
+    "ai-agent",
+    "browser-agent",
+    "byok",
+    "chrome-extension",
+    "llm",
+    "pptx",
+    "tldraw",
+    "univer"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 51
    }
   },
   {
@@ -35933,6 +36060,34 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 13
+   }
+  },
+  {
+   "repo": "wenhwu/awesome-remote-sensing-change-detection",
+   "url": "https://github.com/wenhwu/awesome-remote-sensing-change-detection",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 2325,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-09",
+   "created_at": "2018-11-03",
+   "stars_per_day_lifetime": 0.81,
+   "topics": [
+    "awesome",
+    "change-detection",
+    "dataset",
+    "deep-learning",
+    "remote-sensing"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 37
    }
   },
   {
@@ -52094,6 +52249,41 @@
    }
   },
   {
+   "repo": "cometcanaryview7/canva-pro",
+   "url": "https://github.com/cometcanaryview7/canva-pro",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 619,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-09",
+   "created_at": "2026-08-04",
+   "stars_per_day_lifetime": 16.73,
+   "topics": [
+    "canva",
+    "canva-bulk-create",
+    "canva-editor-tools",
+    "canva-export-tools",
+    "canva-free",
+    "canva-full",
+    "canva-hack",
+    "canva-pro",
+    "canva-pro-for-life-time",
+    "canva-pro-team-2026",
+    "figma-alternative",
+    "figma-design"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "content automation in:name,description stars:>500 pushed:>2026-06-12",
+    "sort": "stars",
+    "query_breadth": 5,
+    "position": 3
+   }
+  },
+  {
    "repo": "boyang-hu/website-rebuild-skill",
    "url": "https://github.com/boyang-hu/website-rebuild-skill",
    "first_seen": "2026-09-01",
@@ -57954,6 +58144,40 @@
    }
   },
   {
+   "repo": "dickwu/apple-design-skill",
+   "url": "https://github.com/dickwu/apple-design-skill",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 389,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-09",
+   "created_at": "2026-02-27",
+   "stars_per_day_lifetime": 1.99,
+   "topics": [
+    "apple-hig",
+    "claude-code",
+    "codex",
+    "cursor",
+    "design-system",
+    "electron",
+    "flutter",
+    "liquid-glass",
+    "tauri",
+    "ui-ux"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "for-the-zero/Free-LLM-Collection",
    "url": "https://github.com/for-the-zero/Free-LLM-Collection",
    "first_seen": "2026-07-26",
@@ -59999,6 +60223,34 @@
     "sort": "stars",
     "query_breadth": 18,
     "position": 10
+   }
+  },
+  {
+   "repo": "zibo-chen/ocr-rs",
+   "url": "https://github.com/zibo-chen/ocr-rs",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 326,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-09-09",
+   "created_at": "2025-04-12",
+   "stars_per_day_lifetime": 0.63,
+   "topics": [
+    "ocr",
+    "ocr-rs",
+    "paddleocr",
+    "tesseract-ocr"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "OCR 识别 in:name,description stars:>100 pushed:>2026-06-12",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 11
    }
   },
   {
@@ -65146,6 +65398,27 @@
    }
   },
   {
+   "repo": "DeckardGer/tanstack-agent-skills",
+   "url": "https://github.com/DeckardGer/tanstack-agent-skills",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 213,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-09",
+   "created_at": "2026-01-16",
+   "stars_per_day_lifetime": 0.9,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
+   }
+  },
+  {
    "repo": "Sac-Y/identity-skill",
    "url": "https://github.com/Sac-Y/identity-skill",
    "first_seen": "2026-07-30",
@@ -66815,6 +67088,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 70
+   }
+  },
+  {
+   "repo": "rfhdw0102/YouDaoNoteLM",
+   "url": "https://github.com/rfhdw0102/YouDaoNoteLM",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 201,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Go",
+   "pushed_at": "2026-08-25",
+   "created_at": "2026-06-14",
+   "stars_per_day_lifetime": 2.28,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "RAG 知识库 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 22,
+    "position": 21
    }
   },
   {
@@ -71352,6 +71647,39 @@
    }
   },
   {
+   "repo": "CYBIRD-D/FREE-LLM-API-Provider",
+   "url": "https://github.com/CYBIRD-D/FREE-LLM-API-Provider",
+   "first_seen": "2026-09-10",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-10",
+   "stars": 101,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-07",
+   "created_at": "2025-11-03",
+   "stars_per_day_lifetime": 0.32,
+   "topics": [
+    "api",
+    "free",
+    "freetier",
+    "gemini-api",
+    "groq",
+    "llm",
+    "llm-interface",
+    "nvidia",
+    "ollama",
+    "openrouter"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-06-12",
+    "sort": "stars",
+    "query_breadth": 36,
+    "position": 35
+   }
+  },
+  {
    "repo": "JinLingxi/MathCyclus---Lingxi-Question-Bank-Assistant",
    "url": "https://github.com/JinLingxi/MathCyclus---Lingxi-Question-Bank-Assistant",
    "first_seen": "2026-08-16",
@@ -73842,7 +74170,7 @@
    }
   }
  ],
- "updated": "2026-09-09",
+ "updated": "2026-09-10",
  "status_enum": [
   "pending",
   "debated",
