@@ -10065,6 +10065,27 @@
    }
   },
   {
+   "repo": "rothgar/awesome-tuis",
+   "url": "https://github.com/rothgar/awesome-tuis",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 20575,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-13",
+   "created_at": "2019-03-31",
+   "stars_per_day_lifetime": 7.56,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 6
+   }
+  },
+  {
    "repo": "bojieli/ai-agent-book",
    "url": "https://github.com/bojieli/ai-agent-book",
    "first_seen": "2026-07-26",
@@ -11409,6 +11430,42 @@
     "query": "skill in:name stars:>200 pushed:>2026-07-05",
     "sort": "updated",
     "query_breadth": 100,
+    "position": 12
+   }
+  },
+  {
+   "repo": "tradecatlabs/vibe-coding-cn",
+   "url": "https://github.com/tradecatlabs/vibe-coding-cn",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 16183,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-12",
+   "created_at": "2025-11-23",
+   "stars_per_day_lifetime": 55.04,
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-coding",
+    "ai-programming",
+    "chinese",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "gemini-cli",
+    "glue-coding"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 69,
     "position": 12
    }
   },
@@ -14586,6 +14643,32 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 28
+   }
+  },
+  {
+   "repo": "rothgar/awesome-tmux",
+   "url": "https://github.com/rothgar/awesome-tmux",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 10336,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-13",
+   "created_at": "2016-04-04",
+   "stars_per_day_lifetime": 2.71,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "tmux"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 2
    }
   },
   {
@@ -24702,6 +24785,36 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 45
+   }
+  },
+  {
+   "repo": "XiaoDuoYa/codex-with-chatgpt",
+   "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 4134,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-13",
+   "created_at": "2026-08-28",
+   "stars_per_day_lifetime": 258.38,
+   "topics": [
+    "ai-agents",
+    "chatgpt",
+    "codex",
+    "mcp",
+    "model-context-protocol",
+    "oauth"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 31
    }
   },
   {
@@ -40362,6 +40475,34 @@
    }
   },
   {
+   "repo": "ratatui/awesome-ratatui",
+   "url": "https://github.com/ratatui/awesome-ratatui",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 2001,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-12",
+   "created_at": "2023-12-06",
+   "stars_per_day_lifetime": 1.98,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "ratatui",
+    "rust",
+    "tui"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 45
+   }
+  },
+  {
    "repo": "liangdabiao/Seedance2-Storyboard-Generator",
    "url": "https://github.com/liangdabiao/Seedance2-Storyboard-Generator",
    "first_seen": "2026-08-02",
@@ -41319,6 +41460,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 33
+   }
+  },
+  {
+   "repo": "aipoch/medical-research-skills",
+   "url": "https://github.com/aipoch/medical-research-skills",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 1870,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-12",
+   "created_at": "2026-02-04",
+   "stars_per_day_lifetime": 8.46,
+   "topics": [
+    "ai",
+    "bioinformatics",
+    "biology",
+    "cancer-genomics",
+    "computational-biology",
+    "data-analysis",
+    "data-visualization",
+    "differential-expression",
+    "genomics",
+    "medical",
+    "medical-ai",
+    "medical-research"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 53
    }
   },
   {
@@ -48433,6 +48610,28 @@
    }
   },
   {
+   "repo": "microsoft/work-iq",
+   "url": "https://github.com/microsoft/work-iq",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 1002,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "PowerShell",
+   "pushed_at": "2026-09-12",
+   "created_at": "2026-01-20",
+   "stars_per_day_lifetime": 4.25,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "deanpeters/product-manager-prompts",
    "url": "https://github.com/deanpeters/product-manager-prompts",
    "first_seen": "2026-07-26",
@@ -49029,6 +49228,34 @@
     "sort": "updated",
     "query_breadth": 58,
     "position": 28
+   }
+  },
+  {
+   "repo": "Adkid-Zephyr/anti-defensive-writing-Skill",
+   "url": "https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 931,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-12",
+   "created_at": "2026-08-11",
+   "stars_per_day_lifetime": 28.21,
+   "topics": [
+    "academic-writing",
+    "ai-writing",
+    "claude-skill",
+    "paper-writing",
+    "prompt"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
    }
   },
   {
@@ -53898,6 +54125,42 @@
     "sort": "stars",
     "query_breadth": 47,
     "position": 22
+   }
+  },
+  {
+   "repo": "minhnv0807/ai-business-skills",
+   "url": "https://github.com/minhnv0807/ai-business-skills",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 574,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "PowerShell",
+   "pushed_at": "2026-09-12",
+   "created_at": "2026-04-15",
+   "stars_per_day_lifetime": 3.8,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-avatar",
+    "anthropic",
+    "chatgpt",
+    "claude-code",
+    "claude-plugin",
+    "content-marketing",
+    "copilot",
+    "cursor",
+    "dropshipping",
+    "gemini"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 74
    }
   },
   {
@@ -67728,6 +67991,28 @@
    }
   },
   {
+   "repo": "firefly-hefeng/VESTI-SKILLS",
+   "url": "https://github.com/firefly-hefeng/VESTI-SKILLS",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 203,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-12",
+   "created_at": "2026-07-19",
+   "stars_per_day_lifetime": 3.62,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 93
+   }
+  },
+  {
    "repo": "oil-oil/video-publisher-skill",
    "url": "https://github.com/oil-oil/video-publisher-skill",
    "first_seen": "2026-09-07",
@@ -67783,6 +68068,37 @@
     "sort": "stars",
     "query_breadth": 53,
     "position": 52
+   }
+  },
+  {
+   "repo": "Dest1ny-Sec/Des-CTF-Knowledge",
+   "url": "https://github.com/Dest1ny-Sec/Des-CTF-Knowledge",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 202,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-08-29",
+   "created_at": "2026-05-30",
+   "stars_per_day_lifetime": 1.91,
+   "topics": [
+    "ai",
+    "ctf",
+    "ctf-challenges",
+    "ctf-writeups",
+    "knowledge-base",
+    "networking-security",
+    "rag-chatbot"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "RAG 知识库 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 24,
+    "position": 22
    }
   },
   {
@@ -71537,6 +71853,28 @@
    }
   },
   {
+   "repo": "MontageAI/niwo-render-everything",
+   "url": "https://github.com/MontageAI/niwo-render-everything",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 108,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-04",
+   "created_at": "2026-08-10",
+   "stars_per_day_lifetime": 3.18,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-06-15",
+    "sort": "stars",
+    "query_breadth": 51,
+    "position": 48
+   }
+  },
+  {
    "repo": "tyang816/MedChatZH",
    "url": "https://github.com/tyang816/MedChatZH",
    "first_seen": "2026-08-16",
@@ -73116,6 +73454,42 @@
     "sort": "stars",
     "query_breadth": 60,
     "position": 59
+   }
+  },
+  {
+   "repo": "toki-plus/ai-highlight-clip",
+   "url": "https://github.com/toki-plus/ai-highlight-clip",
+   "first_seen": "2026-09-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-13",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-08-08",
+   "created_at": "2025-12-10",
+   "stars_per_day_lifetime": 0.36,
+   "topics": [
+    "ai-content-creation",
+    "automation",
+    "content-creation",
+    "ffmpeg",
+    "llm",
+    "nlp",
+    "openai-whisper",
+    "pyqt5",
+    "python",
+    "short-video",
+    "video-editing",
+    "video-processing"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-06-15",
+    "sort": "stars",
+    "query_breadth": 51,
+    "position": 50
    }
   },
   {
@@ -75249,7 +75623,7 @@
    }
   }
  ],
- "updated": "2026-09-12",
+ "updated": "2026-09-13",
  "status_enum": [
   "pending",
   "debated",
