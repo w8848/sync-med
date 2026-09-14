@@ -15306,6 +15306,36 @@
    }
   },
   {
+   "repo": "fenixsoft/awesome-fenix",
+   "url": "https://github.com/fenixsoft/awesome-fenix",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 9445,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Vue",
+   "pushed_at": "2026-09-14",
+   "created_at": "2019-12-23",
+   "stars_per_day_lifetime": 3.84,
+   "topics": [
+    "architecture",
+    "cloud-native",
+    "istio",
+    "kubernetes",
+    "microservice",
+    "springcloud"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
+   }
+  },
+  {
    "repo": "cobusgreyling/loop-engineering",
    "url": "https://github.com/cobusgreyling/loop-engineering",
    "first_seen": "2026-07-26",
@@ -16464,6 +16494,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 48
+   }
+  },
+  {
+   "repo": "lewislulu/html-ppt-skill",
+   "url": "https://github.com/lewislulu/html-ppt-skill",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 8347,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-13",
+   "created_at": "2026-04-15",
+   "stars_per_day_lifetime": 54.91,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>500 pushed:>2026-06-16",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 45
    }
   },
   {
@@ -21748,6 +21800,35 @@
    }
   },
   {
+   "repo": "qmonnet/awesome-ebpf",
+   "url": "https://github.com/qmonnet/awesome-ebpf",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 5163,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-13",
+   "created_at": "2017-11-05",
+   "stars_per_day_lifetime": 1.6,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "bcc",
+    "bpf",
+    "ebpf",
+    "xdp"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 29
+   }
+  },
+  {
    "repo": "cugu/awesome-forensics",
    "url": "https://github.com/cugu/awesome-forensics",
    "first_seen": "2026-08-24",
@@ -23149,6 +23230,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 47
+   }
+  },
+  {
+   "repo": "makenotion/notion-mcp-server",
+   "url": "https://github.com/makenotion/notion-mcp-server",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 4632,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-13",
+   "created_at": "2025-03-10",
+   "stars_per_day_lifetime": 8.38,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
    }
   },
   {
@@ -27628,6 +27731,40 @@
    }
   },
   {
+   "repo": "brootware/awesome-cyber-security-university",
+   "url": "https://github.com/brootware/awesome-cyber-security-university",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 3523,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-14",
+   "created_at": "2022-03-31",
+   "stars_per_day_lifetime": 2.16,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "courses",
+    "curriculum",
+    "cyber-security",
+    "cybersecurity",
+    "education",
+    "educational-project",
+    "free",
+    "hacking",
+    "learning-by-doing"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 10
+   }
+  },
+  {
    "repo": "6boris/awesome-golang-algorithm",
    "url": "https://github.com/6boris/awesome-golang-algorithm",
    "first_seen": "2026-08-25",
@@ -29081,6 +29218,35 @@
    }
   },
   {
+   "repo": "shiyutim/tickets",
+   "url": "https://github.com/shiyutim/tickets",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 3278,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-09-13",
+   "created_at": "2023-06-04",
+   "stars_per_day_lifetime": 2.74,
+   "topics": [
+    "bilibili",
+    "damai",
+    "rust",
+    "tauri",
+    "vue"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "微调 in:name,description stars:>300 pushed:>2026-06-16",
+    "sort": "stars",
+    "query_breadth": 21,
+    "position": 9
+   }
+  },
+  {
    "repo": "toplap/awesome-livecoding",
    "url": "https://github.com/toplap/awesome-livecoding",
    "first_seen": "2026-08-27",
@@ -29413,6 +29579,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 2
+   }
+  },
+  {
+   "repo": "Physton/sd-webui-prompt-all-in-one",
+   "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 3233,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-13",
+   "created_at": "2023-05-08",
+   "stars_per_day_lifetime": 2.64,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-16",
+    "sort": "stars",
+    "query_breadth": 61,
+    "position": 10
    }
   },
   {
@@ -30916,6 +31104,42 @@
    "found_by": {
     "dimension": "category",
     "query": "awesome in:name stars:>2000 pushed:>2026-07-16",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 24
+   }
+  },
+  {
+   "repo": "Tiger3807861189/J-Space-Cognition-Suite",
+   "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 3009,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-14",
+   "created_at": "2026-07-22",
+   "stars_per_day_lifetime": 55.72,
+   "topics": [
+    "agent-skills",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "cognitive-enhancement",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-15",
     "sort": "updated",
     "query_breadth": 100,
     "position": 24
@@ -36418,6 +36642,40 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 89
+   }
+  },
+  {
+   "repo": "totec448-spec/chat-on-steroids",
+   "url": "https://github.com/totec448-spec/chat-on-steroids",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 2365,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-14",
+   "created_at": "2026-08-22",
+   "stars_per_day_lifetime": 102.83,
+   "topics": [
+    "automation",
+    "chatgpt",
+    "chrome-extension",
+    "electron",
+    "linux",
+    "local-first",
+    "macos",
+    "mcp",
+    "multi-agent",
+    "windows"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 61
    }
   },
   {
@@ -44536,6 +44794,32 @@
    }
   },
   {
+   "repo": "skills-directory/skill-codex",
+   "url": "https://github.com/skills-directory/skill-codex",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 1434,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-13",
+   "created_at": "2025-10-21",
+   "stars_per_day_lifetime": 4.37,
+   "topics": [
+    "claude",
+    "claude-code",
+    "codex"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
+   }
+  },
+  {
    "repo": "datawhalechina/deepagents-in-action",
    "url": "https://github.com/datawhalechina/deepagents-in-action",
    "first_seen": "2026-08-07",
@@ -51980,6 +52264,28 @@
    }
   },
   {
+   "repo": "jwangkun/hermes-agent-guide",
+   "url": "https://github.com/jwangkun/hermes-agent-guide",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 698,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-09-14",
+   "created_at": "2026-04-22",
+   "stars_per_day_lifetime": 4.81,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "知识图谱 in:name,description stars:>200 pushed:>2026-06-16",
+    "sort": "stars",
+    "query_breadth": 14,
+    "position": 5
+   }
+  },
+  {
    "repo": "ndpvt-web/latex-document-skill",
    "url": "https://github.com/ndpvt-web/latex-document-skill",
    "first_seen": "2026-08-07",
@@ -58739,6 +59045,42 @@
    }
   },
   {
+   "repo": "getopenpost/openpost",
+   "url": "https://github.com/getopenpost/openpost",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 404,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-14",
+   "created_at": "2026-03-21",
+   "stars_per_day_lifetime": 2.28,
+   "topics": [
+    "automation",
+    "buffer-alternative",
+    "content-creation",
+    "cross-posting",
+    "golang",
+    "mcp-server",
+    "self-hosted",
+    "single-binary",
+    "social-media",
+    "social-media-automation",
+    "social-media-management",
+    "social-media-scheduler"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:social-media-automation stars:>300 pushed:>2026-06-16",
+    "sort": "stars",
+    "query_breadth": 5,
+    "position": 4
+   }
+  },
+  {
    "repo": "tourmind-com/Tourmind-Booking-Skills",
    "url": "https://github.com/tourmind-com/Tourmind-Booking-Skills",
    "first_seen": "2026-08-27",
@@ -59713,6 +60055,28 @@
    }
   },
   {
+   "repo": "zamesin/Next-Move-Theory-Canon-and-Skills",
+   "url": "https://github.com/zamesin/Next-Move-Theory-Canon-and-Skills",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 370,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "PowerShell",
+   "pushed_at": "2026-09-13",
+   "created_at": "2026-06-01",
+   "stars_per_day_lifetime": 3.52,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 67
+   }
+  },
+  {
    "repo": "LukasNiessen/kubernetes-skill",
    "url": "https://github.com/LukasNiessen/kubernetes-skill",
    "first_seen": "2026-08-17",
@@ -60684,6 +61048,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 33
+   }
+  },
+  {
+   "repo": "zenstory-ai/oh-story-dsh",
+   "url": "https://github.com/zenstory-ai/oh-story-dsh",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 341,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-13",
+   "created_at": "2026-08-19",
+   "stars_per_day_lifetime": 13.12,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-novel-writing",
+    "ai-writing",
+    "claude-code",
+    "creative-writing",
+    "deepseek",
+    "deepseek-harness",
+    "drama-skills",
+    "dsh-plugin",
+    "fiction-writing",
+    "novel-writing"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-06-16",
+    "sort": "stars",
+    "query_breadth": 52,
+    "position": 22
    }
   },
   {
@@ -66123,6 +66523,37 @@
    }
   },
   {
+   "repo": "88lin/computer-repair-skill",
+   "url": "https://github.com/88lin/computer-repair-skill",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 219,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-09-14",
+   "created_at": "2026-07-26",
+   "stars_per_day_lifetime": 4.38,
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "computer-diagnostics",
+    "linux",
+    "macos",
+    "windows"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
+   }
+  },
+  {
    "repo": "HisMax/awesome-openclaw-ob",
    "url": "https://github.com/HisMax/awesome-openclaw-ob",
    "first_seen": "2026-07-28",
@@ -66945,6 +67376,40 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 56
+   }
+  },
+  {
+   "repo": "naodeng/awesome-qa-skills",
+   "url": "https://github.com/naodeng/awesome-qa-skills",
+   "first_seen": "2026-09-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-14",
+   "stars": 211,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-09-14",
+   "created_at": "2026-02-04",
+   "stars_per_day_lifetime": 0.95,
+   "topics": [
+    "agent-skills",
+    "ai-qa",
+    "ai-skills",
+    "ai-testing",
+    "ai-tools",
+    "awesome-list",
+    "prompt-engineering",
+    "qa",
+    "qa-skills",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 2
    }
   },
   {
@@ -75623,7 +76088,7 @@
    }
   }
  ],
- "updated": "2026-09-13",
+ "updated": "2026-09-14",
  "status_enum": [
   "pending",
   "debated",
