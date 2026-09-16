@@ -13019,6 +13019,42 @@
    }
   },
   {
+   "repo": "seleniumbase/SeleniumBase",
+   "url": "https://github.com/seleniumbase/SeleniumBase",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 13015,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-16",
+   "created_at": "2014-03-04",
+   "stars_per_day_lifetime": 2.84,
+   "topics": [
+    "anti-detection",
+    "bot-detection",
+    "chromedriver",
+    "chromium",
+    "data",
+    "e2e-testing",
+    "end-to-end-testing",
+    "playwright",
+    "pytest",
+    "python",
+    "python-scraper",
+    "selenium"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 15
+   }
+  },
+  {
    "repo": "greensock/gsap-skills",
    "url": "https://github.com/greensock/gsap-skills",
    "first_seen": "2026-08-04",
@@ -14420,6 +14456,40 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 27
+   }
+  },
+  {
+   "repo": "x-hw/amazing-qr",
+   "url": "https://github.com/x-hw/amazing-qr",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 10816,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-09-16",
+   "created_at": "2016-08-25",
+   "stars_per_day_lifetime": 2.94,
+   "topics": [
+    "amazing",
+    "gif",
+    "mcp",
+    "picture",
+    "qr",
+    "qr-code",
+    "qr-generator",
+    "qrcode",
+    "qrcode-generator",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 23
    }
   },
   {
@@ -21335,6 +21405,35 @@
     "sort": "updated",
     "query_breadth": 56,
     "position": 51
+   }
+  },
+  {
+   "repo": "nanbingxyz/5ire",
+   "url": "https://github.com/nanbingxyz/5ire",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 5348,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-14",
+   "created_at": "2024-01-06",
+   "stars_per_day_lifetime": 5.43,
+   "topics": [
+    "knowledge-base",
+    "llms",
+    "mcp",
+    "mcp-client",
+    "model-context-protocol"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 90
    }
   },
   {
@@ -38355,6 +38454,40 @@
    }
   },
   {
+   "repo": "AnotiaWang/deep-research-web-ui",
+   "url": "https://github.com/AnotiaWang/deep-research-web-ui",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 2209,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-16",
+   "created_at": "2025-02-10",
+   "stars_per_day_lifetime": 3.79,
+   "topics": [
+    "ai-agent",
+    "citations",
+    "deep-research",
+    "docker",
+    "llm",
+    "nuxtjs",
+    "rag",
+    "research-assistant",
+    "self-hosted",
+    "web-search"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 30
+   }
+  },
+  {
    "repo": "orbitalindex/awesome-space",
    "url": "https://github.com/orbitalindex/awesome-space",
    "first_seen": "2026-08-12",
@@ -46497,6 +46630,28 @@
    }
   },
   {
+   "repo": "huangkiki/dailypaper-skills",
+   "url": "https://github.com/huangkiki/dailypaper-skills",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 1232,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-15",
+   "created_at": "2026-02-26",
+   "stars_per_day_lifetime": 6.1,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 66
+   }
+  },
+  {
    "repo": "yuanxiaosc/Entity-Relation-Extraction",
    "url": "https://github.com/yuanxiaosc/Entity-Relation-Extraction",
    "first_seen": "2026-08-15",
@@ -47652,6 +47807,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 6
+   }
+  },
+  {
+   "repo": "alibaba-flyai/flyai-skill",
+   "url": "https://github.com/alibaba-flyai/flyai-skill",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 1140,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-16",
+   "created_at": "2026-03-19",
+   "stars_per_day_lifetime": 6.3,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 20
    }
   },
   {
@@ -56657,6 +56833,35 @@
    }
   },
   {
+   "repo": "youngyangyang04/llm-master",
+   "url": "https://github.com/youngyangyang04/llm-master",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 501,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-13",
+   "created_at": "2026-09-12",
+   "stars_per_day_lifetime": 125.25,
+   "topics": [
+    "agent",
+    "large-language-models",
+    "llm",
+    "llm-learning",
+    "llm-tutorial",
+    "rag"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "微调 in:name,description stars:>300 pushed:>2026-06-18",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 16
+   }
+  },
+  {
    "repo": "ZeroPointRepo/youtube-skills",
    "url": "https://github.com/ZeroPointRepo/youtube-skills",
    "first_seen": "2026-08-10",
@@ -61214,6 +61419,28 @@
    }
   },
   {
+   "repo": "wechatpay-apiv3/wechatpay-skills",
+   "url": "https://github.com/wechatpay-apiv3/wechatpay-skills",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 352,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-16",
+   "created_at": "2026-03-23",
+   "stars_per_day_lifetime": 1.99,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 22
+   }
+  },
+  {
    "repo": "jamditis/claude-skills-journalism",
    "url": "https://github.com/jamditis/claude-skills-journalism",
    "first_seen": "2026-08-02",
@@ -62826,6 +63053,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 3
+   }
+  },
+  {
+   "repo": "gzxx-2025/aid-studio",
+   "url": "https://github.com/gzxx-2025/aid-studio",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 314,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Java",
+   "pushed_at": "2026-09-15",
+   "created_at": "2026-07-19",
+   "stars_per_day_lifetime": 5.32,
+   "topics": [
+    "ai",
+    "ai-anime-art",
+    "ai-comic-creator",
+    "ai-comic-drama",
+    "ai-comics",
+    "ai-drama",
+    "ai-short-drama",
+    "ai-short-drama-agent",
+    "ai-storyboard",
+    "ai-video",
+    "ai-video-editing",
+    "ai-video-editor"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-06-18",
+    "sort": "stars",
+    "query_breadth": 51,
+    "position": 23
    }
   },
   {
@@ -65847,6 +66110,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 65
+   }
+  },
+  {
+   "repo": "yjz211/vivid-figures-skill",
+   "url": "https://github.com/yjz211/vivid-figures-skill",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 245,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "HTML",
+   "pushed_at": "2026-09-15",
+   "created_at": "2026-09-10",
+   "stars_per_day_lifetime": 40.83,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 72
    }
   },
   {
@@ -72976,6 +73261,28 @@
    }
   },
   {
+   "repo": "kunpengtalk/OmniStudio",
+   "url": "https://github.com/kunpengtalk/OmniStudio",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 108,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-16",
+   "created_at": "2026-09-09",
+   "stars_per_day_lifetime": 15.43,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "OCR 识别 in:name,description stars:>100 pushed:>2026-06-18",
+    "sort": "stars",
+    "query_breadth": 21,
+    "position": 20
+   }
+  },
+  {
    "repo": "tyang816/MedChatZH",
    "url": "https://github.com/tyang816/MedChatZH",
    "first_seen": "2026-08-16",
@@ -76606,6 +76913,28 @@
    }
   },
   {
+   "repo": "lucky-Luor/tcm-elderly-care-system",
+   "url": "https://github.com/lucky-Luor/tcm-elderly-care-system",
+   "first_seen": "2026-09-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-16",
+   "stars": 0,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-16",
+   "created_at": "2026-09-16",
+   "stars_per_day_lifetime": 0.0,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 大模型 in:name,description",
+    "sort": "stars",
+    "query_breadth": 36,
+    "position": 31
+   }
+  },
+  {
    "repo": "mofahuizhang/Gn",
    "url": "https://github.com/mofahuizhang/Gn",
    "first_seen": "2026-09-07",
@@ -76724,7 +77053,7 @@
    }
   }
  ],
- "updated": "2026-09-15",
+ "updated": "2026-09-16",
  "status_enum": [
   "pending",
   "debated",
