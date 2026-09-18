@@ -23401,6 +23401,27 @@
    }
   },
   {
+   "repo": "joe-shenouda/awesome-cyber-skills",
+   "url": "https://github.com/joe-shenouda/awesome-cyber-skills",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 4678,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-17",
+   "created_at": "2017-01-04",
+   "stars_per_day_lifetime": 1.32,
+   "found_by": {
+    "dimension": "category",
+    "query": "skills in:name stars:>500 pushed:>2026-06-20",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 50
+   }
+  },
+  {
    "repo": "markusschanta/awesome-jupyter",
    "url": "https://github.com/markusschanta/awesome-jupyter",
    "first_seen": "2026-08-05",
@@ -41309,6 +41330,42 @@
    }
   },
   {
+   "repo": "can4hou6joeng4/boss-agent-cli",
+   "url": "https://github.com/can4hou6joeng4/boss-agent-cli",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 2002,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-03-20",
+   "stars_per_day_lifetime": 11.0,
+   "topics": [
+    "agent-skill",
+    "agent-tools",
+    "ai-agent",
+    "boss-zhipin",
+    "claude",
+    "cli",
+    "command-line",
+    "job-hunting",
+    "job-search",
+    "mcp",
+    "model-context-protocol",
+    "python"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 28
+   }
+  },
+  {
    "repo": "12britz/awesome-free-models",
    "url": "https://github.com/12britz/awesome-free-models",
    "first_seen": "2026-08-31",
@@ -49340,6 +49397,42 @@
    }
   },
   {
+   "repo": "Anil-matcha/awesome-vibecoded-saas",
+   "url": "https://github.com/Anil-matcha/awesome-vibecoded-saas",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 1013,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-17",
+   "created_at": "2023-05-06",
+   "stars_per_day_lifetime": 0.82,
+   "topics": [
+    "ai-apps",
+    "ai-tools",
+    "awesome",
+    "awesome-list",
+    "content-creation",
+    "creative-tools",
+    "generative-ai",
+    "marketing-tools",
+    "open-source",
+    "open-source-alternatives",
+    "open-source-apps",
+    "productivity-tools"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:content-creation stars:>1000 pushed:>2026-06-20",
+    "sort": "stars",
+    "query_breadth": 19,
+    "position": 18
+   }
+  },
+  {
    "repo": "skillsgate/skillsgate",
    "url": "https://github.com/skillsgate/skillsgate",
    "first_seen": "2026-08-09",
@@ -51894,6 +51987,34 @@
    }
   },
   {
+   "repo": "modelbus/one-api-pro",
+   "url": "https://github.com/modelbus/one-api-pro",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 791,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Go",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-07-24",
+   "stars_per_day_lifetime": 14.12,
+   "topics": [
+    "one-api",
+    "one-api-pro",
+    "oneapi",
+    "openai"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-06-20",
+    "sort": "stars",
+    "query_breadth": 16,
+    "position": 4
+   }
+  },
+  {
    "repo": "Widdit/now-playing-service",
    "url": "https://github.com/Widdit/now-playing-service",
    "first_seen": "2026-08-07",
@@ -53644,6 +53765,27 @@
    }
   },
   {
+   "repo": "spf13/go-skills",
+   "url": "https://github.com/spf13/go-skills",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 653,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-03-23",
+   "stars_per_day_lifetime": 3.65,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 25
+   }
+  },
+  {
    "repo": "shanleiguang/vYinn",
    "url": "https://github.com/shanleiguang/vYinn",
    "first_seen": "2026-07-26",
@@ -55091,6 +55233,28 @@
     "sort": "stars",
     "query_breadth": 3,
     "position": 2
+   }
+  },
+  {
+   "repo": "yi1108/printfilm",
+   "url": "https://github.com/yi1108/printfilm",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 579,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-09-10",
+   "stars_per_day_lifetime": 72.38,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-06-20",
+    "sort": "stars",
+    "query_breadth": 52,
+    "position": 19
    }
   },
   {
@@ -61705,6 +61869,33 @@
    }
   },
   {
+   "repo": "Minara-AI/minara-skills",
+   "url": "https://github.com/Minara-AI/minara-skills",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 351,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Shell",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-02-02",
+   "stars_per_day_lifetime": 1.54,
+   "topics": [
+    "agent-skills",
+    "codex",
+    "dsh-plugin"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
+   }
+  },
+  {
    "repo": "jamditis/claude-skills-journalism",
    "url": "https://github.com/jamditis/claude-skills-journalism",
    "first_seen": "2026-08-02",
@@ -62208,6 +62399,28 @@
    }
   },
   {
+   "repo": "my-take-dev/inspired-mino-design-skills",
+   "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 336,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-07-15",
+   "stars_per_day_lifetime": 5.17,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 67
+   }
+  },
+  {
    "repo": "njzjz/nsfc-agent-skills",
    "url": "https://github.com/njzjz/nsfc-agent-skills",
    "first_seen": "2026-08-27",
@@ -62277,6 +62490,27 @@
     "sort": "stars",
     "query_breadth": 21,
     "position": 9
+   }
+  },
+  {
+   "repo": "pixijs/pixijs-skills",
+   "url": "https://github.com/pixijs/pixijs-skills",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 334,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-04-01",
+   "stars_per_day_lifetime": 1.96,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 96
    }
   },
   {
@@ -64136,6 +64370,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 9
+   }
+  },
+  {
+   "repo": "Jakeschincariol/linkedin-agent-skill",
+   "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 298,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-09-07",
+   "stars_per_day_lifetime": 27.09,
+   "topics": [
+    "agent-skills",
+    "ai-humanizer",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "content-marketing",
+    "linkedin"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 79
    }
   },
   {
@@ -66533,6 +66798,28 @@
    }
   },
   {
+   "repo": "intercom/2x-skills",
+   "url": "https://github.com/intercom/2x-skills",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 240,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Shell",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-06-30",
+   "stars_per_day_lifetime": 3.0,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 66
+   }
+  },
+  {
    "repo": "jidouqie/redbeacon",
    "url": "https://github.com/jidouqie/redbeacon",
    "first_seen": "2026-08-09",
@@ -67021,6 +67308,42 @@
    }
   },
   {
+   "repo": "BaYue-SYJ/shuixian-prompts",
+   "url": "https://github.com/BaYue-SYJ/shuixian-prompts",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 230,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-08-01",
+   "stars_per_day_lifetime": 4.79,
+   "topics": [
+    "ai-art",
+    "ai-drawing",
+    "aigc",
+    "chinese",
+    "cloudflare-pages",
+    "dataset",
+    "gallery",
+    "midjourney",
+    "prompt-engineering",
+    "prompt-gallery",
+    "prompt-library",
+    "prompts"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-20",
+    "sort": "stars",
+    "query_breadth": 63,
+    "position": 57
+   }
+  },
+  {
    "repo": "EverMind-AI/SkillCorpus",
    "url": "https://github.com/EverMind-AI/SkillCorpus",
    "first_seen": "2026-08-27",
@@ -67344,6 +67667,28 @@
     "sort": "stars",
     "query_breadth": 43,
     "position": 41
+   }
+  },
+  {
+   "repo": "dracohu2025-cloud/draco-skills-collection",
+   "url": "https://github.com/dracohu2025-cloud/draco-skills-collection",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 226,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-04-03",
+   "stars_per_day_lifetime": 1.35,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 68
    }
   },
   {
@@ -69833,6 +70178,28 @@
     "sort": "stars",
     "query_breadth": 51,
     "position": 50
+   }
+  },
+  {
+   "repo": "ab604/claude-code-r-skills",
+   "url": "https://github.com/ab604/claude-code-r-skills",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 202,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-17",
+   "created_at": "2026-01-29",
+   "stars_per_day_lifetime": 0.87,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 69
    }
   },
   {
@@ -73702,6 +74069,28 @@
    }
   },
   {
+   "repo": "Andonywang123/Epost",
+   "url": "https://github.com/Andonywang123/Epost",
+   "first_seen": "2026-09-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-18",
+   "stars": 107,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-06",
+   "created_at": "2026-09-06",
+   "stars_per_day_lifetime": 8.92,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "自动 发布 in:name,description stars:>100 pushed:>2026-06-20",
+    "sort": "stars",
+    "query_breadth": 26,
+    "position": 25
+   }
+  },
+  {
    "repo": "SheepFJ/Shortcuts",
    "url": "https://github.com/SheepFJ/Shortcuts",
    "first_seen": "2026-08-07",
@@ -77461,7 +77850,7 @@
    }
   }
  ],
- "updated": "2026-09-17",
+ "updated": "2026-09-18",
  "status_enum": [
   "pending",
   "debated",
