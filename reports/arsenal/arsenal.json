@@ -15317,6 +15317,39 @@
    }
   },
   {
+   "repo": "frankbria/ralph-claude-code",
+   "url": "https://github.com/frankbria/ralph-claude-code",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 9638,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Shell",
+   "pushed_at": "2026-09-19",
+   "created_at": "2025-08-27",
+   "stars_per_day_lifetime": 24.84,
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-development",
+    "ai-development-tools",
+    "claude-code",
+    "claude-code-cli",
+    "development-tools",
+    "development-workflow"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 24
+   }
+  },
+  {
    "repo": "ashishb/android-security-awesome",
    "url": "https://github.com/ashishb/android-security-awesome",
    "first_seen": "2026-08-20",
@@ -30965,6 +30998,27 @@
    }
   },
   {
+   "repo": "ahkscript/awesome-AutoHotkey",
+   "url": "https://github.com/ahkscript/awesome-AutoHotkey",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 3087,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-18",
+   "created_at": "2014-08-04",
+   "stars_per_day_lifetime": 0.7,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 39
+   }
+  },
+  {
    "repo": "xcomptek/awesome-saas-boilerplates",
    "url": "https://github.com/xcomptek/awesome-saas-boilerplates",
    "first_seen": "2026-08-30",
@@ -37337,6 +37391,27 @@
    }
   },
   {
+   "repo": "44bits/awesome-opensource-documents",
+   "url": "https://github.com/44bits/awesome-opensource-documents",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 2329,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "pushed_at": "2026-09-19",
+   "created_at": "2015-05-14",
+   "stars_per_day_lifetime": 0.56,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 7
+   }
+  },
+  {
    "repo": "TheJambo/awesome-testing",
    "url": "https://github.com/TheJambo/awesome-testing",
    "first_seen": "2026-08-06",
@@ -40236,6 +40311,41 @@
    }
   },
   {
+   "repo": "ai-for-developers/awesome-ai-coding-tools",
+   "url": "https://github.com/ai-for-developers/awesome-ai-coding-tools",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 2082,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-18",
+   "created_at": "2025-06-27",
+   "stars_per_day_lifetime": 4.64,
+   "topics": [
+    "ai-code-generation",
+    "ai-code-generator",
+    "ai-coding",
+    "ai-coding-assistant",
+    "ai-coding-tools",
+    "ai-developer",
+    "ai-developer-tools",
+    "ai-development",
+    "ai-development-tools",
+    "ai-devtools",
+    "ai-ide",
+    "ai-security"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
+   }
+  },
+  {
    "repo": "cporter202/social-media-scraping-apis",
    "url": "https://github.com/cporter202/social-media-scraping-apis",
    "first_seen": "2026-07-26",
@@ -41167,6 +41277,33 @@
    }
   },
   {
+   "repo": "ayangweb/Awesome-BongoCat",
+   "url": "https://github.com/ayangweb/Awesome-BongoCat",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 2005,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-18",
+   "created_at": "2025-05-29",
+   "stars_per_day_lifetime": 4.19,
+   "topics": [
+    "awesome-bongo-cat",
+    "awesome-bongocat",
+    "bongo-cat",
+    "bongocat"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
+   }
+  },
+  {
    "repo": "OpenCoworkAI/open-cowork",
    "url": "https://github.com/OpenCoworkAI/open-cowork",
    "first_seen": "2026-08-11",
@@ -41290,6 +41427,40 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 26
+   }
+  },
+  {
+   "repo": "Pinvou/pinvou-agent",
+   "url": "https://github.com/Pinvou/pinvou-agent",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 2003,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-09-19",
+   "created_at": "2026-07-24",
+   "stars_per_day_lifetime": 35.14,
+   "topics": [
+    "ai-agent",
+    "automation",
+    "desktop-app",
+    "llm",
+    "local-first",
+    "mcp",
+    "open-source",
+    "react",
+    "rust",
+    "tauri"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 0
    }
   },
   {
@@ -44292,6 +44463,42 @@
     "sort": "stars",
     "query_breadth": 37,
     "position": 6
+   }
+  },
+  {
+   "repo": "mukul975/cve-mcp-server",
+   "url": "https://github.com/mukul975/cve-mcp-server",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 1578,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-04-14",
+   "stars_per_day_lifetime": 9.99,
+   "topics": [
+    "cisa-kev",
+    "claude-ai",
+    "cve",
+    "cybersecurity",
+    "devsecops",
+    "epss",
+    "fastmcp",
+    "mcp",
+    "mitre-attack",
+    "model-context-protocol",
+    "nvd",
+    "osv"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 50
    }
   },
   {
@@ -51303,6 +51510,41 @@
     "sort": "stars",
     "query_breadth": 37,
     "position": 11
+   }
+  },
+  {
+   "repo": "WJZ-P/gemini-skill",
+   "url": "https://github.com/WJZ-P/gemini-skill",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 831,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-03-12",
+   "stars_per_day_lifetime": 4.35,
+   "topics": [
+    "automation",
+    "browser-automation",
+    "drawing",
+    "gemini",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "openclaw",
+    "openclaw-agent",
+    "openclaw-skills",
+    "openclawskill"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 62
    }
   },
   {
@@ -63391,6 +63633,40 @@
    }
   },
   {
+   "repo": "modelscope/ms-cookbook",
+   "url": "https://github.com/modelscope/ms-cookbook",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 318,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-09-11",
+   "stars_per_day_lifetime": 39.75,
+   "topics": [
+    "ai-agents",
+    "cookbook",
+    "diffusion-models",
+    "fine-tuning",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "model-evaluation",
+    "modelscope",
+    "rag"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "微调 in:name,description stars:>300 pushed:>2026-06-21",
+    "sort": "stars",
+    "query_breadth": 21,
+    "position": 19
+   }
+  },
+  {
    "repo": "xr843/Master-skill",
    "url": "https://github.com/xr843/Master-skill",
    "first_seen": "2026-08-12",
@@ -67959,6 +68235,28 @@
    }
   },
   {
+   "repo": "LetMeHappyCode/auto-video-agent",
+   "url": "https://github.com/LetMeHappyCode/auto-video-agent",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 220,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-14",
+   "created_at": "2026-09-07",
+   "stars_per_day_lifetime": 18.33,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-21",
+    "sort": "stars",
+    "query_breadth": 64,
+    "position": 60
+   }
+  },
+  {
    "repo": "devcxl/mattpocock-skills-zh",
    "url": "https://github.com/devcxl/mattpocock-skills-zh",
    "first_seen": "2026-08-17",
@@ -68695,6 +68993,28 @@
     "sort": "stars",
     "query_breadth": 38,
     "position": 28
+   }
+  },
+  {
+   "repo": "mars-tw/open-seo-advisor-skill",
+   "url": "https://github.com/mars-tw/open-seo-advisor-skill",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 213,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-07-01",
+   "stars_per_day_lifetime": 2.66,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 63
    }
   },
   {
@@ -70417,6 +70737,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 52
+   }
+  },
+  {
+   "repo": "Prohao42/aimy-skill",
+   "url": "https://github.com/Prohao42/aimy-skill",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-06-02",
+   "stars_per_day_lifetime": 1.84,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 39
    }
   },
   {
@@ -74896,6 +75238,41 @@
    }
   },
   {
+   "repo": "beiyege-01/dsh-voice-ai-girlfriend",
+   "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 103,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-13",
+   "created_at": "2026-08-15",
+   "stars_per_day_lifetime": 2.94,
+   "topics": [
+    "ai-girlfriend",
+    "companion",
+    "deepseek-harness",
+    "digital-human",
+    "dsh",
+    "dsh-plugin",
+    "speech-to-speech",
+    "tts",
+    "voice-assistant",
+    "voice-clone",
+    "whisper"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-06-21",
+    "sort": "stars",
+    "query_breadth": 25,
+    "position": 23
+   }
+  },
+  {
    "repo": "mahavivo/core-books",
    "url": "https://github.com/mahavivo/core-books",
    "first_seen": "2026-07-26",
@@ -75124,6 +75501,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 78
+   }
+  },
+  {
+   "repo": "toki-plus/ai-video-workflow",
+   "url": "https://github.com/toki-plus/ai-video-workflow",
+   "first_seen": "2026-09-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-19",
+   "stars": 102,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-08-08",
+   "created_at": "2025-12-10",
+   "stars_per_day_lifetime": 0.36,
+   "topics": [
+    "ai-content-creation",
+    "aigc",
+    "automation",
+    "bot",
+    "content-creation",
+    "ffmpeg",
+    "llm",
+    "pyqt5",
+    "python",
+    "short-video",
+    "tiktok",
+    "video-processing"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-06-21",
+    "sort": "stars",
+    "query_breadth": 52,
+    "position": 50
    }
   },
   {
@@ -77850,7 +78263,7 @@
    }
   }
  ],
- "updated": "2026-09-18",
+ "updated": "2026-09-19",
  "status_enum": [
   "pending",
   "debated",
