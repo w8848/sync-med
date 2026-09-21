@@ -25812,6 +25812,42 @@
    }
   },
   {
+   "repo": "bostrot/wslmanager",
+   "url": "https://github.com/bostrot/wslmanager",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 4005,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Dart",
+   "pushed_at": "2026-09-20",
+   "created_at": "2021-09-17",
+   "stars_per_day_lifetime": 2.19,
+   "topics": [
+    "ai",
+    "developer-tools",
+    "docker",
+    "flutter",
+    "gui",
+    "llm",
+    "macos",
+    "mcp",
+    "model-context-protocol",
+    "rootfs",
+    "turnkey",
+    "virtual-machine"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 27
+   }
+  },
+  {
    "repo": "W00t3k/Awesome-Cellular-Hacking",
    "url": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
    "first_seen": "2026-08-29",
@@ -32560,6 +32596,38 @@
    }
   },
   {
+   "repo": "Player-YN/BrowserKitten",
+   "url": "https://github.com/Player-YN/BrowserKitten",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 2877,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-18",
+   "created_at": "2026-08-28",
+   "stars_per_day_lifetime": 119.88,
+   "topics": [
+    "ai-agent",
+    "browser-agent",
+    "byok",
+    "chrome-extension",
+    "llm",
+    "pptx",
+    "tldraw",
+    "univer"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 88
+   }
+  },
+  {
    "repo": "microsoft/flint-chart",
    "url": "https://github.com/microsoft/flint-chart",
    "first_seen": "2026-08-02",
@@ -32894,6 +32962,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 35
+   }
+  },
+  {
+   "repo": "NarHakobyan/awesome-nest-boilerplate",
+   "url": "https://github.com/NarHakobyan/awesome-nest-boilerplate",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 2828,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-20",
+   "created_at": "2019-02-27",
+   "stars_per_day_lifetime": 1.02,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 58
    }
   },
   {
@@ -38947,6 +39037,34 @@
    }
   },
   {
+   "repo": "sudhakar3697/awesome-electron-alternatives",
+   "url": "https://github.com/sudhakar3697/awesome-electron-alternatives",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 2201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-20",
+   "created_at": "2019-08-27",
+   "stars_per_day_lifetime": 0.85,
+   "topics": [
+    "awesome-list",
+    "cross-platform-desktop-app-dev",
+    "electron",
+    "electron-alternatives",
+    "pwa"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 42
+   }
+  },
+  {
    "repo": "ForceInjection/AI-fundamentals",
    "url": "https://github.com/ForceInjection/AI-fundamentals",
    "first_seen": "2026-08-12",
@@ -40262,6 +40380,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 31
+   }
+  },
+  {
+   "repo": "blackholll/loonflow",
+   "url": "https://github.com/blackholll/loonflow",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 2090,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-20",
+   "created_at": "2018-02-08",
+   "stars_per_day_lifetime": 0.66,
+   "topics": [
+    "devops",
+    "django",
+    "mcp",
+    "python",
+    "ticket",
+    "workflow",
+    "workflow-engine"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 87
    }
   },
   {
@@ -43408,6 +43557,28 @@
     "sort": "stars",
     "query_breadth": 27,
     "position": 7
+   }
+  },
+  {
+   "repo": "huang-sir1/radiology-skills",
+   "url": "https://github.com/huang-sir1/radiology-skills",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 1754,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-21",
+   "created_at": "2026-06-18",
+   "stars_per_day_lifetime": 18.46,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 5
    }
   },
   {
@@ -65067,6 +65238,28 @@
    }
   },
   {
+   "repo": "kerpopule/hermes-jev-skills",
+   "url": "https://github.com/kerpopule/hermes-jev-skills",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 297,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-20",
+   "created_at": "2026-09-18",
+   "stars_per_day_lifetime": 99.0,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 57
+   }
+  },
+  {
    "repo": "MemTensor/skills-vote",
    "url": "https://github.com/MemTensor/skills-vote",
    "first_seen": "2026-08-05",
@@ -66711,6 +66904,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 29
+   }
+  },
+  {
+   "repo": "voidforall/fengshui.skill",
+   "url": "https://github.com/voidforall/fengshui.skill",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 255,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-20",
+   "created_at": "2026-04-11",
+   "stars_per_day_lifetime": 1.56,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 51
    }
   },
   {
@@ -68563,6 +68777,27 @@
    }
   },
   {
+   "repo": "huangbai-AI/post-production-skill",
+   "url": "https://github.com/huangbai-AI/post-production-skill",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 223,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-19",
+   "created_at": "2026-09-19",
+   "stars_per_day_lifetime": 111.5,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-23",
+    "sort": "stars",
+    "query_breadth": 67,
+    "position": 59
+   }
+  },
+  {
    "repo": "Minglink/dsh-infinite-gen-2",
    "url": "https://github.com/Minglink/dsh-infinite-gen-2",
    "first_seen": "2026-08-25",
@@ -68589,6 +68824,34 @@
     "sort": "stars",
     "query_breadth": 48,
     "position": 46
+   }
+  },
+  {
+   "repo": "minorun365/minorun-marp-skill",
+   "url": "https://github.com/minorun365/minorun-marp-skill",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 222,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-20",
+   "created_at": "2026-09-20",
+   "stars_per_day_lifetime": 222.0,
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "marp",
+    "presentation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 61
    }
   },
   {
@@ -68990,6 +69253,28 @@
     "sort": "stars",
     "query_breadth": 19,
     "position": 13
+   }
+  },
+  {
+   "repo": "kitze/skillbox",
+   "url": "https://github.com/kitze/skillbox",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 217,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-19",
+   "created_at": "2026-09-17",
+   "stars_per_day_lifetime": 54.25,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 99
    }
   },
   {
@@ -69994,6 +70279,28 @@
    }
   },
   {
+   "repo": "newljs/Layerive",
+   "url": "https://github.com/newljs/Layerive",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 208,
+   "license": "LGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-21",
+   "created_at": "2026-08-30",
+   "stars_per_day_lifetime": 9.45,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-23",
+    "sort": "stars",
+    "query_breadth": 67,
+    "position": 64
+   }
+  },
+  {
    "repo": "xiao24bei/xiaobei-skill",
    "url": "https://github.com/xiao24bei/xiaobei-skill",
    "first_seen": "2026-08-28",
@@ -70301,6 +70608,28 @@
     "sort": "stars",
     "query_breadth": 9,
     "position": 8
+   }
+  },
+  {
+   "repo": "wuyoscar/jev-skill",
+   "url": "https://github.com/wuyoscar/jev-skill",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 206,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-20",
+   "created_at": "2026-09-20",
+   "stars_per_day_lifetime": 206.0,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
    }
   },
   {
@@ -71200,6 +71529,33 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 59
+   }
+  },
+  {
+   "repo": "VDERR/echocat-skill-panel",
+   "url": "https://github.com/VDERR/echocat-skill-panel",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-21",
+   "created_at": "2026-09-18",
+   "stars_per_day_lifetime": 67.0,
+   "topics": [
+    "cordis",
+    "deepseek-harness",
+    "dsh-plugin"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 2
    }
   },
   {
@@ -76638,6 +76994,42 @@
    }
   },
   {
+   "repo": "ybh-ybh/know-where",
+   "url": "https://github.com/ybh-ybh/know-where",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 101,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-21",
+   "created_at": "2026-08-28",
+   "stars_per_day_lifetime": 4.21,
+   "topics": [
+    "ai-summarization",
+    "bilibili",
+    "content-archive",
+    "douyin",
+    "feishu",
+    "feishu-bot",
+    "knowledge-base",
+    "knowledge-management",
+    "lark",
+    "llm",
+    "rss",
+    "rsshub"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "topic:xiaohongshu stars:>100",
+    "sort": "stars",
+    "query_breadth": 63,
+    "position": 62
+   }
+  },
+  {
    "repo": "jangviktor-web/likeskill",
    "url": "https://github.com/jangviktor-web/likeskill",
    "first_seen": "2026-08-18",
@@ -77873,6 +78265,28 @@
    }
   },
   {
+   "repo": "dhicoc/chinese-traditional-wisdom-skill",
+   "url": "https://github.com/dhicoc/chinese-traditional-wisdom-skill",
+   "first_seen": "2026-09-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-21",
+   "stars": 21,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-08-27",
+   "created_at": "2026-06-28",
+   "stars_per_day_lifetime": 0.25,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "古籍 in:name,description stars:>20",
+    "sort": "stars",
+    "query_breadth": 44,
+    "position": 43
+   }
+  },
+  {
    "repo": "zhaoyanh/taohongjing",
    "url": "https://github.com/zhaoyanh/taohongjing",
    "first_seen": "2026-08-02",
@@ -78816,7 +79230,7 @@
    }
   }
  ],
- "updated": "2026-09-20",
+ "updated": "2026-09-21",
  "status_enum": [
   "pending",
   "debated",
