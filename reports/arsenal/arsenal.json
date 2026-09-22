@@ -7051,6 +7051,42 @@
    }
   },
   {
+   "repo": "feder-cr/aihawk_mcp_server",
+   "url": "https://github.com/feder-cr/aihawk_mcp_server",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 31621,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-22",
+   "created_at": "2024-08-04",
+   "stars_per_day_lifetime": 40.59,
+   "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-automation",
+    "autonomous-agents",
+    "browser",
+    "browser-agent",
+    "claude-code-plugin",
+    "computer-use",
+    "gemini-cli-extension",
+    "job-hunting",
+    "job-search",
+    "lead-generation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 7
+   }
+  },
+  {
    "repo": "datawhalechina/self-llm",
    "url": "https://github.com/datawhalechina/self-llm",
    "first_seen": "2026-07-30",
@@ -7749,6 +7785,36 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 1
+   }
+  },
+  {
+   "repo": "Z-Siqi/Clash-for-Windows_Chinese",
+   "url": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 28566,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-22",
+   "created_at": "2021-04-19",
+   "stars_per_day_lifetime": 14.41,
+   "topics": [
+    "chinese",
+    "clash",
+    "clash-chinese",
+    "shadowsocks",
+    "windows",
+    "zh-cn"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 74,
+    "position": 15
    }
   },
   {
@@ -15468,6 +15534,34 @@
    }
   },
   {
+   "repo": "kyrolabs/awesome-langchain",
+   "url": "https://github.com/kyrolabs/awesome-langchain",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 9540,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-22",
+   "created_at": "2023-02-28",
+   "stars_per_day_lifetime": 7.33,
+   "topics": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "langchain",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
+   }
+  },
+  {
    "repo": "awslabs/mcp",
    "url": "https://github.com/awslabs/mcp",
    "first_seen": "2026-08-01",
@@ -17348,6 +17442,27 @@
    }
   },
   {
+   "repo": "meirwah/awesome-workflow-engines",
+   "url": "https://github.com/meirwah/awesome-workflow-engines",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 7932,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-21",
+   "created_at": "2015-05-20",
+   "stars_per_day_lifetime": 1.91,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 51
+   }
+  },
+  {
    "repo": "adongwanai/AgentGuide",
    "url": "https://github.com/adongwanai/AgentGuide",
    "first_seen": "2026-08-04",
@@ -17717,6 +17832,42 @@
     "sort": "stars",
     "query_breadth": 55,
     "position": 6
+   }
+  },
+  {
+   "repo": "devlikeapro/waha",
+   "url": "https://github.com/devlikeapro/waha",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 7434,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-22",
+   "created_at": "2020-10-20",
+   "stars_per_day_lifetime": 3.44,
+   "topics": [
+    "ai-bot",
+    "bot",
+    "http-api",
+    "mcp",
+    "mcp-server",
+    "mcp-whatsapp",
+    "python-bot",
+    "whatsapp",
+    "whatsapp-api",
+    "whatsapp-automation",
+    "whatsapp-bot",
+    "whatsapp-chat"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
    }
   },
   {
@@ -41266,6 +41417,42 @@
    }
   },
   {
+   "repo": "A9T9/RPA",
+   "url": "https://github.com/A9T9/RPA",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 2025,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-21",
+   "created_at": "2017-08-04",
+   "stars_per_day_lifetime": 0.61,
+   "topics": [
+    "ai-agents",
+    "browser-automation",
+    "browser-automation-ai-api",
+    "browser-extension",
+    "computer-use",
+    "desktop-automation",
+    "image-recognition",
+    "macro-recorder",
+    "mcp",
+    "mcp-server",
+    "ocr",
+    "selenium-ide"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 28
+   }
+  },
+  {
    "repo": "Stack-Cairn/LiveAgent",
    "url": "https://github.com/Stack-Cairn/LiveAgent",
    "first_seen": "2026-09-12",
@@ -45928,6 +46115,28 @@
    }
   },
   {
+   "repo": "rjs/shaping-skills",
+   "url": "https://github.com/rjs/shaping-skills",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 1439,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Shell",
+   "pushed_at": "2026-09-21",
+   "created_at": "2026-01-29",
+   "stars_per_day_lifetime": 6.1,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 61
+   }
+  },
+  {
    "repo": "skills-directory/skill-codex",
    "url": "https://github.com/skills-directory/skill-codex",
    "first_seen": "2026-09-14",
@@ -49208,6 +49417,40 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 14
+   }
+  },
+  {
+   "repo": "uvwt/agentdock",
+   "url": "https://github.com/uvwt/agentdock",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 1064,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-09-22",
+   "created_at": "2026-05-25",
+   "stars_per_day_lifetime": 8.87,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "automation",
+    "devops",
+    "docker",
+    "mcp",
+    "model-context-protocol",
+    "remote-control",
+    "self-hosted",
+    "tool-calling"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 5
    }
   },
   {
@@ -54437,6 +54680,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 25
+   }
+  },
+  {
+   "repo": "Londeren/hh-skill-verifications-quizzes",
+   "url": "https://github.com/Londeren/hh-skill-verifications-quizzes",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 652,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "pushed_at": "2026-09-21",
+   "created_at": "2024-08-07",
+   "stars_per_day_lifetime": 0.84,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
    }
   },
   {
@@ -66869,6 +67133,41 @@
    }
   },
   {
+   "repo": "emotixco/claude-skills-founder",
+   "url": "https://github.com/emotixco/claude-skills-founder",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 257,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-21",
+   "created_at": "2026-03-10",
+   "stars_per_day_lifetime": 1.31,
+   "topics": [
+    "ai",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "competitor-analysis",
+    "founder",
+    "go-to-market",
+    "pitch-deck",
+    "product-management",
+    "skills",
+    "slash-commands",
+    "startup"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 40
+   }
+  },
+  {
    "repo": "niaka3dayo/agent-skills-vrc-udon",
    "url": "https://github.com/niaka3dayo/agent-skills-vrc-udon",
    "first_seen": "2026-08-14",
@@ -71363,6 +71662,28 @@
    }
   },
   {
+   "repo": "tl2012tl/comfyUI-llama-TE",
+   "url": "https://github.com/tl2012tl/comfyUI-llama-TE",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 202,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-08-28",
+   "created_at": "2026-04-18",
+   "stars_per_day_lifetime": 1.29,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-06-24",
+    "sort": "stars",
+    "query_breadth": 68,
+    "position": 67
+   }
+  },
+  {
    "repo": "zhangcbb/yolov14",
    "url": "https://github.com/zhangcbb/yolov14",
    "first_seen": "2026-07-30",
@@ -71789,6 +72110,35 @@
     "sort": "stars",
     "query_breadth": 25,
     "position": 24
+   }
+  },
+  {
+   "repo": "yan-labs/yan-skills",
+   "url": "https://github.com/yan-labs/yan-skills",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-22",
+   "created_at": "2026-07-05",
+   "stars_per_day_lifetime": 2.54,
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "google-trends",
+    "seo",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 26
    }
   },
   {
@@ -76082,6 +76432,27 @@
    }
   },
   {
+   "repo": "LancelotRar/best-cf-domains",
+   "url": "https://github.com/LancelotRar/best-cf-domains",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 103,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-15",
+   "created_at": "2026-09-05",
+   "stars_per_day_lifetime": 6.06,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-06-24",
+    "sort": "stars",
+    "query_breadth": 34,
+    "position": 33
+   }
+  },
+  {
    "repo": "XiakeMan777/xiakeman-ai-short-drama",
    "url": "https://github.com/XiakeMan777/xiakeman-ai-short-drama",
    "first_seen": "2026-08-28",
@@ -77705,6 +78076,27 @@
    }
   },
   {
+   "repo": "mswnlz/chinese-traditional",
+   "url": "https://github.com/mswnlz/chinese-traditional",
+   "first_seen": "2026-09-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-22",
+   "stars": 63,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-07-27",
+   "created_at": "2025-05-13",
+   "stars_per_day_lifetime": 0.13,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 in:name,description stars:>50",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 96
+   }
+  },
+  {
    "repo": "small-bears/medical",
    "url": "https://github.com/small-bears/medical",
    "first_seen": "2026-08-20",
@@ -79230,7 +79622,7 @@
    }
   }
  ],
- "updated": "2026-09-21",
+ "updated": "2026-09-22",
  "status_enum": [
   "pending",
   "debated",
