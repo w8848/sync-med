@@ -7051,6 +7051,42 @@
    }
   },
   {
+   "repo": "feder-cr/invisible_playwright_mcp",
+   "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 31631,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-23",
+   "created_at": "2024-08-04",
+   "stars_per_day_lifetime": 40.55,
+   "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-automation",
+    "autonomous-agents",
+    "browser",
+    "claude-code-plugin",
+    "crawler",
+    "gemini-cli-extension",
+    "job-hunting",
+    "job-search",
+    "lead-generation",
+    "llm-agent"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-08-24",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 12
+   }
+  },
+  {
    "repo": "feder-cr/aihawk_mcp_server",
    "url": "https://github.com/feder-cr/aihawk_mcp_server",
    "first_seen": "2026-09-22",
@@ -8850,6 +8886,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 96
+   }
+  },
+  {
+   "repo": "tayllan/awesome-algorithms",
+   "url": "https://github.com/tayllan/awesome-algorithms",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 25569,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-22",
+   "created_at": "2014-07-16",
+   "stars_per_day_lifetime": 5.74,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 27
    }
   },
   {
@@ -11516,6 +11573,41 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 19
+   }
+  },
+  {
+   "repo": "bharathgs/Awesome-pytorch-list",
+   "url": "https://github.com/bharathgs/Awesome-pytorch-list",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 16678,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-22",
+   "created_at": "2017-03-01",
+   "stars_per_day_lifetime": 4.77,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "computer-vision",
+    "cv",
+    "data-science",
+    "deep-learning",
+    "facebook",
+    "machine-learning",
+    "natural-language-processing",
+    "neural-network",
+    "nlp",
+    "nlp-library"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 49
    }
   },
   {
@@ -14385,6 +14477,42 @@
    }
   },
   {
+   "repo": "EKKOLearnAI/ekko-studio",
+   "url": "https://github.com/EKKOLearnAI/ekko-studio",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 11182,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-23",
+   "created_at": "2026-04-11",
+   "stars_per_day_lifetime": 67.77,
+   "topics": [
+    "agent",
+    "ai-agent",
+    "chat-ui",
+    "coding-agents",
+    "dashboard",
+    "ekko-studio",
+    "hermes",
+    "hermes-agent",
+    "hermes-web-ui",
+    "llm",
+    "multi-agent",
+    "multi-model"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 25
+   }
+  },
+  {
    "repo": "edoardottt/awesome-hacker-search-engines",
    "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
    "first_seen": "2026-09-02",
@@ -15935,6 +16063,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 80
+   }
+  },
+  {
+   "repo": "We5ter/Scanners-Box",
+   "url": "https://github.com/We5ter/Scanners-Box",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 9056,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-22",
+   "created_at": "2016-12-24",
+   "stars_per_day_lifetime": 2.54,
+   "topics": [
+    "agent-security-audit",
+    "agent-security-benchmark",
+    "agent-security-red-teaming",
+    "agent-security-tools",
+    "ai",
+    "ai-security",
+    "apk-analysis",
+    "binary-analysis",
+    "code-analyzer",
+    "devsecops",
+    "exploitation-framework",
+    "malware-analysis"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 9
    }
   },
   {
@@ -18913,6 +19076,41 @@
     "sort": "stars",
     "query_breadth": 43,
     "position": 5
+   }
+  },
+  {
+   "repo": "decalage2/awesome-security-hardening",
+   "url": "https://github.com/decalage2/awesome-security-hardening",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 6556,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-22",
+   "created_at": "2019-04-29",
+   "stars_per_day_lifetime": 2.42,
+   "topics": [
+    "awesome-list",
+    "best-practices",
+    "blue-team",
+    "blueteam",
+    "cis-benchmarks",
+    "computer-security",
+    "cyber-security",
+    "cybersecurity",
+    "infosec",
+    "linux-hardening",
+    "security",
+    "security-hardening"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 26
    }
   },
   {
@@ -31929,6 +32127,41 @@
    }
   },
   {
+   "repo": "cdleon/awesome-terminals",
+   "url": "https://github.com/cdleon/awesome-terminals",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 2999,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-22",
+   "created_at": "2018-10-07",
+   "stars_per_day_lifetime": 1.03,
+   "topics": [
+    "bash",
+    "c",
+    "command-line",
+    "cpp",
+    "golang",
+    "haskell",
+    "node",
+    "powershell",
+    "python",
+    "ruby",
+    "rust",
+    "shell"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 25
+   }
+  },
+  {
    "repo": "google-antigravity/antigravity-sdk-python",
    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
    "first_seen": "2026-08-14",
@@ -37809,6 +38042,41 @@
    }
   },
   {
+   "repo": "superdesigndev/treg",
+   "url": "https://github.com/superdesigndev/treg",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 2311,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-09-23",
+   "created_at": "2026-07-15",
+   "stars_per_day_lifetime": 33.01,
+   "topics": [
+    "agents",
+    "api-keys",
+    "cli",
+    "credentials",
+    "developer-tools",
+    "dsh-plugin",
+    "mcp",
+    "proxy",
+    "python",
+    "registry",
+    "secrets"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
+   }
+  },
+  {
    "repo": "ChenHsing/Awesome-Video-Diffusion-Models",
    "url": "https://github.com/ChenHsing/Awesome-Video-Diffusion-Models",
    "first_seen": "2026-08-13",
@@ -38254,6 +38522,37 @@
     "sort": "stars",
     "query_breadth": 57,
     "position": 38
+   }
+  },
+  {
+   "repo": "MarkPDFdown/markpdfdown",
+   "url": "https://github.com/MarkPDFdown/markpdfdown",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 2272,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-23",
+   "created_at": "2025-03-14",
+   "stars_per_day_lifetime": 4.07,
+   "topics": [
+    "llm",
+    "markdown",
+    "pdf",
+    "pdf-converter",
+    "pdf-markdown",
+    "pdf2markdown",
+    "pdf2md"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "大模型 in:name,description stars:>1000 pushed:>2026-08-24",
+    "sort": "stars",
+    "query_breadth": 59,
+    "position": 41
    }
   },
   {
@@ -56497,6 +56796,39 @@
    }
   },
   {
+   "repo": "guobao2333/DeepLX-Serverless",
+   "url": "https://github.com/guobao2333/DeepLX-Serverless",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 558,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-21",
+   "created_at": "2024-08-08",
+   "stars_per_day_lifetime": 0.72,
+   "topics": [
+    "api",
+    "deepl",
+    "deeplx",
+    "free-api",
+    "i18n",
+    "javascript",
+    "nodejs",
+    "serverless",
+    "translation"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:free-api stars:>300 pushed:>2026-06-25",
+    "sort": "stars",
+    "query_breadth": 12,
+    "position": 6
+   }
+  },
+  {
    "repo": "meodai/skill.color-expert",
    "url": "https://github.com/meodai/skill.color-expert",
    "first_seen": "2026-08-23",
@@ -57098,6 +57430,28 @@
     "sort": "stars",
     "query_breadth": 44,
     "position": 25
+   }
+  },
+  {
+   "repo": "ArtemXTech/personal-os-skills",
+   "url": "https://github.com/ArtemXTech/personal-os-skills",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 536,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-22",
+   "created_at": "2025-12-23",
+   "stars_per_day_lifetime": 1.96,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
    }
   },
   {
@@ -59914,6 +60268,34 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 6
+   }
+  },
+  {
+   "repo": "nimrodfisher/data-analytics-skills",
+   "url": "https://github.com/nimrodfisher/data-analytics-skills",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 443,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-22",
+   "created_at": "2026-01-11",
+   "stars_per_day_lifetime": 1.74,
+   "topics": [
+    "claude-code",
+    "codex",
+    "data-analytics",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 85
    }
   },
   {
@@ -66520,6 +66902,37 @@
    }
   },
   {
+   "repo": "kuaidi100-api/java-demo",
+   "url": "https://github.com/kuaidi100-api/java-demo",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 272,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Java",
+   "pushed_at": "2026-09-23",
+   "created_at": "2020-07-21",
+   "stars_per_day_lifetime": 0.12,
+   "topics": [
+    "java",
+    "kuaidi100",
+    "lable",
+    "lableprint",
+    "saas-api",
+    "shipping-api",
+    "tracking-api"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-06-25",
+    "sort": "stars",
+    "query_breadth": 35,
+    "position": 22
+   }
+  },
+  {
    "repo": "sorker/ai-shotlive",
    "url": "https://github.com/sorker/ai-shotlive",
    "first_seen": "2026-08-05",
@@ -69181,6 +69594,41 @@
     "sort": "stars",
     "query_breadth": 29,
     "position": 20
+   }
+  },
+  {
+   "repo": "op7418/guizang-product-video-skill",
+   "url": "https://github.com/op7418/guizang-product-video-skill",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 221,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-09-22",
+   "created_at": "2026-09-18",
+   "stars_per_day_lifetime": 44.2,
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "codepilot",
+    "codex",
+    "hyperframes",
+    "motion-design",
+    "product-video",
+    "release-notes",
+    "skill",
+    "skills",
+    "video-generation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 93
    }
   },
   {
@@ -71850,6 +72298,33 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 59
+   }
+  },
+  {
+   "repo": "VDERR/dsh-echocat-skill-panel",
+   "url": "https://github.com/VDERR/dsh-echocat-skill-panel",
+   "first_seen": "2026-09-23",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-23",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-22",
+   "created_at": "2026-09-18",
+   "stars_per_day_lifetime": 40.2,
+   "topics": [
+    "cordis",
+    "deepseek-harness",
+    "dsh-plugin"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 66
    }
   },
   {
@@ -79622,7 +80097,7 @@
    }
   }
  ],
- "updated": "2026-09-22",
+ "updated": "2026-09-23",
  "status_enum": [
   "pending",
   "debated",
