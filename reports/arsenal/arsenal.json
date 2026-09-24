@@ -7624,6 +7624,41 @@
    }
   },
   {
+   "repo": "ahujasid/mcp-for-blender",
+   "url": "https://github.com/ahujasid/mcp-for-blender",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 29268,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-24",
+   "created_at": "2025-03-07",
+   "stars_per_day_lifetime": 51.71,
+   "topics": [
+    "3d-modeling",
+    "ai",
+    "blender",
+    "blender-addon",
+    "blender-mcp",
+    "claude",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "python"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 5
+   }
+  },
+  {
    "repo": "Ebazhanov/linkedin-skill-assessments-quizzes",
    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
    "first_seen": "2026-08-13",
@@ -19383,6 +19418,37 @@
    }
   },
   {
+   "repo": "getsentry/MobileBuildMCP",
+   "url": "https://github.com/getsentry/MobileBuildMCP",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 6416,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-23",
+   "created_at": "2025-03-09",
+   "stars_per_day_lifetime": 11.38,
+   "topics": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "model-context-protocol-servers",
+    "tag-non-production",
+    "xcode",
+    "xcodebuild"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 41
+   }
+  },
+  {
    "repo": "op7418/CodePilot",
    "url": "https://github.com/op7418/CodePilot",
    "first_seen": "2026-08-14",
@@ -26723,6 +26789,31 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 43
+   }
+  },
+  {
+   "repo": "marmelab/awesome-rest",
+   "url": "https://github.com/marmelab/awesome-rest",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 3916,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-23",
+   "created_at": "2015-05-07",
+   "stars_per_day_lifetime": 0.94,
+   "topics": [
+    "awesome",
+    "rest"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 37
    }
   },
   {
@@ -35130,6 +35221,38 @@
    }
   },
   {
+   "repo": "HenryQW/Awesome-TTRSS",
+   "url": "https://github.com/HenryQW/Awesome-TTRSS",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 2591,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "PHP",
+   "pushed_at": "2026-09-24",
+   "created_at": "2017-07-13",
+   "stars_per_day_lifetime": 0.77,
+   "topics": [
+    "docker",
+    "feedly",
+    "fever",
+    "mercury-parser",
+    "rss-feed",
+    "rss-reader",
+    "tt-rss",
+    "ttrss"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 17
+   }
+  },
+  {
    "repo": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
    "url": "https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
    "first_seen": "2026-08-30",
@@ -39919,6 +40042,35 @@
    }
   },
   {
+   "repo": "michelpereira/awesome-games-of-coding",
+   "url": "https://github.com/michelpereira/awesome-games-of-coding",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 2158,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-23",
+   "created_at": "2017-02-04",
+   "stars_per_day_lifetime": 0.61,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "game",
+    "guido-van-robot",
+    "programming-language",
+    "robocode"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 34
+   }
+  },
+  {
    "repo": "tractorjuice/arc-kit",
    "url": "https://github.com/tractorjuice/arc-kit",
    "first_seen": "2026-08-14",
@@ -41484,6 +41636,42 @@
    }
   },
   {
+   "repo": "rynfar/meridian",
+   "url": "https://github.com/rynfar/meridian",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 2045,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-01-20",
+   "stars_per_day_lifetime": 8.28,
+   "topics": [
+    "ai-agents",
+    "ai-coding",
+    "aider",
+    "anthropic",
+    "antigravity",
+    "bun",
+    "claude",
+    "claude-agent-sdk",
+    "claude-max",
+    "cline",
+    "crush-cli",
+    "gemini"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 11
+   }
+  },
+  {
    "repo": "CYB3RMX/Qu1cksc0pe",
    "url": "https://github.com/CYB3RMX/Qu1cksc0pe",
    "first_seen": "2026-08-15",
@@ -41749,6 +41937,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 28
+   }
+  },
+  {
+   "repo": "vmoranv/jshookmcp",
+   "url": "https://github.com/vmoranv/jshookmcp",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 2019,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-02-21",
+   "stars_per_day_lifetime": 9.39,
+   "topics": [
+    "browser-automation",
+    "debugging",
+    "deobfuscation",
+    "js-reverse",
+    "mcp",
+    "network-analysis",
+    "reverse-engineering",
+    "security-analysis"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 62
    }
   },
   {
@@ -58246,6 +58466,41 @@
    }
   },
   {
+   "repo": "Karovia/fullstack-ai-agent-roadmap",
+   "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 502,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-07",
+   "created_at": "2026-06-19",
+   "stars_per_day_lifetime": 5.18,
+   "topics": [
+    "ai",
+    "ai-agent",
+    "chinese",
+    "claude",
+    "fastapi",
+    "fullstack",
+    "javascript",
+    "langgraph",
+    "learning-roadmap",
+    "llm",
+    "mcp",
+    "obsidian"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 73,
+    "position": 58
+   }
+  },
+  {
    "repo": "ai-evals-course/evals-skills",
    "url": "https://github.com/ai-evals-course/evals-skills",
    "first_seen": "2026-09-01",
@@ -58558,6 +58813,35 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 26
+   }
+  },
+  {
+   "repo": "iart-ai/motion-skills",
+   "url": "https://github.com/iart-ai/motion-skills",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 498,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-23",
+   "created_at": "2026-06-22",
+   "stars_per_day_lifetime": 5.3,
+   "topics": [
+    "ai-agents",
+    "claude-code",
+    "motion-graphics",
+    "remotion",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 85
    }
   },
   {
@@ -62510,6 +62794,28 @@
     "sort": "stars",
     "query_breadth": 22,
     "position": 20
+   }
+  },
+  {
+   "repo": "DragonJAR/Android-Pentesting-Skill",
+   "url": "https://github.com/DragonJAR/Android-Pentesting-Skill",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 371,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-23",
+   "created_at": "2026-03-31",
+   "stars_per_day_lifetime": 2.1,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 44
    }
   },
   {
@@ -72355,6 +72661,28 @@
    }
   },
   {
+   "repo": "artwist-polyakov/polyakov-claude-skills",
+   "url": "https://github.com/artwist-polyakov/polyakov-claude-skills",
+   "first_seen": "2026-09-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-24",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-23",
+   "created_at": "2025-11-07",
+   "stars_per_day_lifetime": 0.63,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-25",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 98
+   }
+  },
+  {
    "repo": "davidliuk/graph-of-skills",
    "url": "https://github.com/davidliuk/graph-of-skills",
    "first_seen": "2026-08-17",
@@ -80097,7 +80425,7 @@
    }
   }
  ],
- "updated": "2026-09-23",
+ "updated": "2026-09-24",
  "status_enum": [
   "pending",
   "debated",
