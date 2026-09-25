@@ -11646,6 +11646,34 @@
    }
   },
   {
+   "repo": "browser-use/web-ui",
+   "url": "https://github.com/browser-use/web-ui",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 16585,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-25",
+   "created_at": "2025-01-02",
+   "stars_per_day_lifetime": 26.28,
+   "topics": [
+    "ai-agent",
+    "browser-automation",
+    "browser-use-box",
+    "cloud-browser"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 15
+   }
+  },
+  {
    "repo": "udecode/plate",
    "url": "https://github.com/udecode/plate",
    "first_seen": "2026-08-16",
@@ -13721,6 +13749,42 @@
    }
   },
   {
+   "repo": "krillinai/OpenCreator",
+   "url": "https://github.com/krillinai/OpenCreator",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 12343,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-24",
+   "created_at": "2024-12-17",
+   "stars_per_day_lifetime": 19.08,
+   "topics": [
+    "agent-skills",
+    "codex-cli",
+    "deskop-app",
+    "dubbing",
+    "image-generation",
+    "localization",
+    "skills",
+    "tts",
+    "video-editing",
+    "video-generation",
+    "video-transcription",
+    "video-translation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 33,
+    "position": 3
+   }
+  },
+  {
    "repo": "DayBreak-u/chineseocr_lite",
    "url": "https://github.com/DayBreak-u/chineseocr_lite",
    "first_seen": "2026-07-27",
@@ -13921,6 +13985,36 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 46
+   }
+  },
+  {
+   "repo": "helloianneo/ian-xiaohei-illustrations",
+   "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 12068,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-05-27",
+   "stars_per_day_lifetime": 99.74,
+   "topics": [
+    "ai-agent",
+    "chinese",
+    "codex-skill",
+    "handdrawn",
+    "illustration",
+    "image-generation",
+    "xiaohei"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 73,
+    "position": 12
    }
   },
   {
@@ -14742,6 +14836,42 @@
    }
   },
   {
+   "repo": "TykTechnologies/tyk",
+   "url": "https://github.com/TykTechnologies/tyk",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 10832,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Go",
+   "pushed_at": "2026-09-24",
+   "created_at": "2014-05-07",
+   "stars_per_day_lifetime": 2.39,
+   "topics": [
+    "ai",
+    "ai-gateway",
+    "api",
+    "api-gateway",
+    "api-management",
+    "cloudnative",
+    "go",
+    "graphql",
+    "grpc",
+    "k8s",
+    "kubernetes",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
+   }
+  },
+  {
    "repo": "mrexodia/ida-pro-mcp",
    "url": "https://github.com/mrexodia/ida-pro-mcp",
    "first_seen": "2026-07-28",
@@ -15506,6 +15636,36 @@
     "sort": "stars",
     "query_breadth": 31,
     "position": 3
+   }
+  },
+  {
+   "repo": "Companion-Inc/feynman",
+   "url": "https://github.com/Companion-Inc/feynman",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 9781,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-25",
+   "created_at": "2026-03-19",
+   "stars_per_day_lifetime": 51.48,
+   "topics": [
+    "ai-agent",
+    "arxiv",
+    "cli",
+    "literature-review",
+    "pi-coding-agent",
+    "research"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 20
    }
   },
   {
@@ -19146,6 +19306,34 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 26
+   }
+  },
+  {
+   "repo": "anus-dev/ANUS",
+   "url": "https://github.com/anus-dev/ANUS",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 6543,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-24",
+   "created_at": "2025-03-09",
+   "stars_per_day_lifetime": 11.58,
+   "topics": [
+    "ai-agent",
+    "autonomous-agent",
+    "self-maintaining-repository",
+    "spec-driven-company"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 55
    }
   },
   {
@@ -28196,6 +28384,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 1
+   }
+  },
+  {
+   "repo": "MashiroSaber03/Saber-Translator",
+   "url": "https://github.com/MashiroSaber03/Saber-Translator",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 3604,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-09-25",
+   "created_at": "2025-02-20",
+   "stars_per_day_lifetime": 6.19,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 20
    }
   },
   {
@@ -40942,6 +41152,42 @@
    }
   },
   {
+   "repo": "agentset-ai/agentset",
+   "url": "https://github.com/agentset-ai/agentset",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 2096,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-24",
+   "created_at": "2025-03-10",
+   "stars_per_day_lifetime": 3.72,
+   "topics": [
+    "agentic-rag",
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "chatbots",
+    "embeddings",
+    "genai",
+    "llms",
+    "memory",
+    "memory-management",
+    "rag",
+    "vercel-ai-sdk"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 65
+   }
+  },
+  {
    "repo": "study8677/awesome-architecture",
    "url": "https://github.com/study8677/awesome-architecture",
    "first_seen": "2026-08-13",
@@ -42334,6 +42580,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 14
+   }
+  },
+  {
+   "repo": "andyrewlee/awesome-agent-orchestrators",
+   "url": "https://github.com/andyrewlee/awesome-agent-orchestrators",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 2004,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-25",
+   "created_at": "2026-01-20",
+   "stars_per_day_lifetime": 8.08,
+   "topics": [
+    "agent-coordination",
+    "agent-orchestration",
+    "agent-swarm",
+    "agentic-ai",
+    "ai-agents",
+    "ai-coding",
+    "ai-orchestration",
+    "awesome",
+    "awesome-list",
+    "claude-code",
+    "codex",
+    "coding-agents"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 10
    }
   },
   {
@@ -46634,6 +46915,35 @@
    }
   },
   {
+   "repo": "helloianneo/ian-handdrawn-ppt",
+   "url": "https://github.com/helloianneo/ian-handdrawn-ppt",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 1442,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-04-25",
+   "stars_per_day_lifetime": 9.42,
+   "topics": [
+    "ai-agent",
+    "chinese",
+    "codex-skill",
+    "handdrawn",
+    "image-generation",
+    "ppt"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 73,
+    "position": 11
+   }
+  },
+  {
    "repo": "rjs/shaping-skills",
    "url": "https://github.com/rjs/shaping-skills",
    "first_seen": "2026-09-22",
@@ -49435,6 +49745,27 @@
    }
   },
   {
+   "repo": "jaw9c/awesome-remote-mcp-servers",
+   "url": "https://github.com/jaw9c/awesome-remote-mcp-servers",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 1119,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-24",
+   "created_at": "2025-04-06",
+   "stars_per_day_lifetime": 2.08,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 58
+   }
+  },
+  {
    "repo": "saidsurucu/yargi-mcp",
    "url": "https://github.com/saidsurucu/yargi-mcp",
    "first_seen": "2026-09-07",
@@ -51922,6 +52253,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 57
+   }
+  },
+  {
+   "repo": "mikehasa/golive-skill",
+   "url": "https://github.com/mikehasa/golive-skill",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 894,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-25",
+   "created_at": "2026-09-23",
+   "stars_per_day_lifetime": 447.0,
+   "topics": [
+    "agent-skill",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "cloudflare",
+    "codex",
+    "database",
+    "deployment",
+    "developer-tools",
+    "devops",
+    "dns",
+    "godaddy"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 33
    }
   },
   {
@@ -66006,6 +66373,42 @@
    }
   },
   {
+   "repo": "agents-universe/agents-universe",
+   "url": "https://github.com/agents-universe/agents-universe",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 299,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-25",
+   "created_at": "2026-09-10",
+   "stars_per_day_lifetime": 19.93,
+   "topics": [
+    "agent",
+    "agent-framework",
+    "agent-orchestration",
+    "agent-skill",
+    "agentic-ai",
+    "ai-agents",
+    "ai-governance",
+    "ai-tools",
+    "deepseek-harness",
+    "harness",
+    "harness-engineering",
+    "harness-framework"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-06-27",
+    "sort": "stars",
+    "query_breadth": 25,
+    "position": 12
+   }
+  },
+  {
    "repo": "bkywksj/knowledge-base",
    "url": "https://github.com/bkywksj/knowledge-base",
    "first_seen": "2026-07-28",
@@ -71131,6 +71534,42 @@
     "sort": "stars",
     "query_breadth": 8,
     "position": 7
+   }
+  },
+  {
+   "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+   "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+   "first_seen": "2026-09-25",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-25",
+   "stars": 209,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-25",
+   "created_at": "2026-06-15",
+   "stars_per_day_lifetime": 2.05,
+   "topics": [
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "ai-video",
+    "artificial-intelligence",
+    "awesome-list",
+    "bytedance",
+    "generative-ai",
+    "image-to-video",
+    "multimodal",
+    "prompt-engineering",
+    "prompts"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-26",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 18
    }
   },
   {
@@ -80425,7 +80864,7 @@
    }
   }
  ],
- "updated": "2026-09-24",
+ "updated": "2026-09-25",
  "status_enum": [
   "pending",
   "debated",
