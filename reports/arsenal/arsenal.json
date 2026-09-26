@@ -35348,6 +35348,42 @@
    }
   },
   {
+   "repo": "Natively-AI-assistant/natively-cluely-ai-assistant",
+   "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 2597,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-26",
+   "created_at": "2026-01-27",
+   "stars_per_day_lifetime": 10.73,
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "ai-tools",
+    "cheating",
+    "claude-code",
+    "claude-skills",
+    "cluely",
+    "cluely-alternative",
+    "cluely-clone",
+    "final-round-ai"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
+   }
+  },
+  {
    "repo": "jeremylongshore/claude-code-plugins-plus-skills",
    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
    "first_seen": "2026-08-04",
@@ -36409,6 +36445,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 40
+   }
+  },
+  {
+   "repo": "irinabuht12-oss/google-ads-meta-ads-mcp",
+   "url": "https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 2497,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-25",
+   "created_at": "2026-04-06",
+   "stars_per_day_lifetime": 14.43,
+   "topics": [
+    "advertising",
+    "chatgpt",
+    "claude",
+    "cursor",
+    "facebook-ads",
+    "facebook-ads-mcp",
+    "ga4",
+    "google-ads",
+    "google-ads-mcp",
+    "google-ads-mcp-server",
+    "google-analytics",
+    "google-analytics-mcp"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 20
    }
   },
   {
@@ -37948,6 +38019,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 74
+   }
+  },
+  {
+   "repo": "beenuar/AiSOC",
+   "url": "https://github.com/beenuar/AiSOC",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 2368,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-26",
+   "created_at": "2026-05-02",
+   "stars_per_day_lifetime": 16.11,
+   "topics": [
+    "agentic-ai",
+    "ai-security",
+    "alert-triage",
+    "blue-team",
+    "cybersecurity",
+    "detection-engineering",
+    "incident-response",
+    "langgraph",
+    "llm-agents",
+    "mcp",
+    "mitre-attack",
+    "model-context-protocol"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 4
    }
   },
   {
@@ -45279,6 +45386,38 @@
    }
   },
   {
+   "repo": "patrickchugh/terravision",
+   "url": "https://github.com/patrickchugh/terravision",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 1639,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-09-25",
+   "created_at": "2022-03-13",
+   "stars_per_day_lifetime": 0.99,
+   "topics": [
+    "agent-skill",
+    "architecture-diagram",
+    "cloud-architecture",
+    "diagrams-as-code",
+    "docs-as-code",
+    "drawio",
+    "llm-tools",
+    "mcp-server"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "XiaomingX/1000-chinese-independent-developer-plus",
    "url": "https://github.com/XiaomingX/1000-chinese-independent-developer-plus",
    "first_seen": "2026-07-26",
@@ -51567,6 +51706,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 43
+   }
+  },
+  {
+   "repo": "aiming-lab/SkillRL",
+   "url": "https://github.com/aiming-lab/SkillRL",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 984,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-25",
+   "created_at": "2026-02-08",
+   "stars_per_day_lifetime": 4.28,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 65
    }
   },
   {
@@ -66115,6 +66276,41 @@
    }
   },
   {
+   "repo": "TripoGrowthLab/awesome-astra-prompts",
+   "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 303,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-26",
+   "created_at": "2026-09-05",
+   "stars_per_day_lifetime": 14.43,
+   "topics": [
+    "3d",
+    "ai-prompts",
+    "astra-prompts",
+    "awesome-list",
+    "blender",
+    "game-development",
+    "gpt-6-astra",
+    "multilingual",
+    "prompt-engineering",
+    "threejs",
+    "tripo"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "prompts in:name stars:>300 pushed:>2026-08-27",
+    "sort": "updated",
+    "query_breadth": 21,
+    "position": 0
+   }
+  },
+  {
    "repo": "Anil-matcha/awesome-seedance-2.5-api-prompts",
    "url": "https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts",
    "first_seen": "2026-08-18",
@@ -66306,6 +66502,41 @@
     "sort": "stars",
     "query_breadth": 6,
     "position": 5
+   }
+  },
+  {
+   "repo": "kldhsh123/Afterglow",
+   "url": "https://github.com/kldhsh123/Afterglow",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 301,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-09-22",
+   "created_at": "2026-05-22",
+   "stars_per_day_lifetime": 2.37,
+   "topics": [
+    "afterglow",
+    "ai-companion",
+    "digital-companion",
+    "lancedb",
+    "llm",
+    "python",
+    "qq-chat",
+    "rag",
+    "semantic-search",
+    "vector-database",
+    "vue"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "微调 in:name,description stars:>300 pushed:>2026-06-28",
+    "sort": "stars",
+    "query_breadth": 22,
+    "position": 21
    }
   },
   {
@@ -75462,6 +75693,40 @@
    }
   },
   {
+   "repo": "zouyuxuan122/dsh-our-free-model",
+   "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+   "first_seen": "2026-09-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-26",
+   "stars": 136,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-26",
+   "created_at": "2026-09-24",
+   "stars_per_day_lifetime": 68.0,
+   "topics": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "free-model",
+    "llm",
+    "model-provider",
+    "openai-compatible"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-06-28",
+    "sort": "stars",
+    "query_breadth": 35,
+    "position": 31
+   }
+  },
+  {
    "repo": "qitry/Qimi-API",
    "url": "https://github.com/qitry/Qimi-API",
    "first_seen": "2026-08-03",
@@ -80864,7 +81129,7 @@
    }
   }
  ],
- "updated": "2026-09-25",
+ "updated": "2026-09-26",
  "status_enum": [
   "pending",
   "debated",
