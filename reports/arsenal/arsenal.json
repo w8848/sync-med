@@ -25893,6 +25893,40 @@
    }
   },
   {
+   "repo": "haris-musa/excel-mcp-server",
+   "url": "https://github.com/haris-musa/excel-mcp-server",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 4205,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-28",
+   "created_at": "2025-02-12",
+   "stars_per_day_lifetime": 7.08,
+   "topics": [
+    "ai",
+    "automation",
+    "excel",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "sse",
+    "stdio",
+    "streamable-http",
+    "toolcalling"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 61
+   }
+  },
+  {
    "repo": "homeassistant-ai/ha-mcp",
    "url": "https://github.com/homeassistant-ai/ha-mcp",
    "first_seen": "2026-08-01",
@@ -42574,6 +42608,42 @@
    }
   },
   {
+   "repo": "yyjeqhc/webcodex",
+   "url": "https://github.com/yyjeqhc/webcodex",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 2035,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-09-29",
+   "created_at": "2026-05-28",
+   "stars_per_day_lifetime": 16.41,
+   "topics": [
+    "agent",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "gemini",
+    "gpt-actions",
+    "grok",
+    "mcp",
+    "rust",
+    "self-hosted"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 11
+   }
+  },
+  {
    "repo": "A9T9/RPA",
    "url": "https://github.com/A9T9/RPA",
    "first_seen": "2026-09-22",
@@ -51902,6 +51972,28 @@
    }
   },
   {
+   "repo": "Softeria/ms-365-mcp-server",
+   "url": "https://github.com/Softeria/ms-365-mcp-server",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 1001,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-29",
+   "created_at": "2025-04-02",
+   "stars_per_day_lifetime": 1.84,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "deanpeters/product-manager-prompts",
    "url": "https://github.com/deanpeters/product-manager-prompts",
    "first_seen": "2026-07-26",
@@ -54877,6 +54969,37 @@
    }
   },
   {
+   "repo": "yaojingang/yao-geo-skills",
+   "url": "https://github.com/yaojingang/yao-geo-skills",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 760,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-28",
+   "created_at": "2026-04-10",
+   "stars_per_day_lifetime": 4.42,
+   "topics": [
+    "ai-agent",
+    "automation",
+    "cli",
+    "codex",
+    "geoflow",
+    "skills",
+    "workflow"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 82
+   }
+  },
+  {
    "repo": "yunshu0909/yunshu_skillshub",
    "url": "https://github.com/yunshu0909/yunshu_skillshub",
    "first_seen": "2026-09-20",
@@ -56090,6 +56213,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 58
+   }
+  },
+  {
+   "repo": "81NewArk/AntiCAP",
+   "url": "https://github.com/81NewArk/AntiCAP",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 659,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-28",
+   "created_at": "2025-03-30",
+   "stars_per_day_lifetime": 1.2,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "OCR 识别 in:name,description stars:>100 pushed:>2026-07-01",
+    "sort": "stars",
+    "query_breadth": 22,
+    "position": 6
    }
   },
   {
@@ -64371,6 +64516,27 @@
    }
   },
   {
+   "repo": "FloWritesCode/fwc-swiftui-skills",
+   "url": "https://github.com/FloWritesCode/fwc-swiftui-skills",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 356,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-28",
+   "created_at": "2026-06-15",
+   "stars_per_day_lifetime": 3.36,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 72
+   }
+  },
+  {
    "repo": "ai-dashboad/flutter-skill",
    "url": "https://github.com/ai-dashboad/flutter-skill",
    "first_seen": "2026-08-22",
@@ -65001,6 +65167,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 7
+   }
+  },
+  {
+   "repo": "quodsoler/unreal-engine-skills",
+   "url": "https://github.com/quodsoler/unreal-engine-skills",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 347,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-28",
+   "created_at": "2026-03-01",
+   "stars_per_day_lifetime": 1.64,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 76
    }
   },
   {
@@ -65699,6 +65886,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 99
+   }
+  },
+  {
+   "repo": "intel/intel-performance-skills",
+   "url": "https://github.com/intel/intel-performance-skills",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 328,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-09-28",
+   "created_at": "2026-05-19",
+   "stars_per_day_lifetime": 2.47,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 77
    }
   },
   {
@@ -72590,6 +72799,28 @@
    }
   },
   {
+   "repo": "KunoLu/640-skills",
+   "url": "https://github.com/KunoLu/640-skills",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 208,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-29",
+   "created_at": "2026-05-20",
+   "stars_per_day_lifetime": 1.58,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
+   }
+  },
+  {
    "repo": "SenmuuuuW/universal-diagnostic-tutor-skill",
    "url": "https://github.com/SenmuuuuW/universal-diagnostic-tutor-skill",
    "first_seen": "2026-09-15",
@@ -77233,6 +77464,39 @@
    }
   },
   {
+   "repo": "YeJe-cpu/SeeCut",
+   "url": "https://github.com/YeJe-cpu/SeeCut",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 118,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-28",
+   "created_at": "2026-09-25",
+   "stars_per_day_lifetime": 29.5,
+   "topics": [
+    "agent-skill",
+    "ai-avatar",
+    "ai-video",
+    "claude-code",
+    "gemini",
+    "heygen",
+    "hyperframes",
+    "talking-head",
+    "video-editing"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-01",
+    "sort": "stars",
+    "query_breadth": 27,
+    "position": 24
+   }
+  },
+  {
    "repo": "6830920/gmzyjc",
    "url": "https://github.com/6830920/gmzyjc",
    "first_seen": "2026-08-16",
@@ -81011,6 +81275,27 @@
    }
   },
   {
+   "repo": "open-guji/guji-resource-index",
+   "url": "https://github.com/open-guji/guji-resource-index",
+   "first_seen": "2026-09-29",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-29",
+   "stars": 21,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-22",
+   "created_at": "2026-02-05",
+   "stars_per_day_lifetime": 0.09,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "古籍 in:name,description stars:>20",
+    "sort": "stars",
+    "query_breadth": 45,
+    "position": 44
+   }
+  },
+  {
    "repo": "zhaoyanh/taohongjing",
    "url": "https://github.com/zhaoyanh/taohongjing",
    "first_seen": "2026-08-02",
@@ -81954,7 +82239,7 @@
    }
   }
  ],
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "status_enum": [
   "pending",
   "debated",
