@@ -13653,6 +13653,32 @@
    }
   },
   {
+   "repo": "mzlogin/awesome-adb",
+   "url": "https://github.com/mzlogin/awesome-adb",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 12461,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-29",
+   "created_at": "2016-07-19",
+   "stars_per_day_lifetime": 3.35,
+   "topics": [
+    "android",
+    "android-adb",
+    "android-debug-bridge"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-08-31",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 53
+   }
+  },
+  {
    "repo": "langgptai/LangGPT",
    "url": "https://github.com/langgptai/LangGPT",
    "first_seen": "2026-08-06",
@@ -20085,6 +20111,28 @@
    }
   },
   {
+   "repo": "dontriskit/awesome-ai-system-prompts",
+   "url": "https://github.com/dontriskit/awesome-ai-system-prompts",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 6227,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-29",
+   "created_at": "2025-03-05",
+   "stars_per_day_lifetime": 10.85,
+   "found_by": {
+    "dimension": "category",
+    "query": "prompts in:name stars:>300 pushed:>2026-08-31",
+    "sort": "updated",
+    "query_breadth": 22,
+    "position": 7
+   }
+  },
+  {
    "repo": "Sylinko/Everywhere",
    "url": "https://github.com/Sylinko/Everywhere",
    "first_seen": "2026-08-10",
@@ -24371,6 +24419,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 11
+   }
+  },
+  {
+   "repo": "Anil-matcha/open-dots",
+   "url": "https://github.com/Anil-matcha/open-dots",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 4583,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-29",
+   "created_at": "2023-05-25",
+   "stars_per_day_lifetime": 3.74,
+   "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-assistant",
+    "ai-workspace",
+    "approval-workflows",
+    "browser-automation",
+    "computer-use",
+    "computer-use-agent",
+    "fastapi",
+    "llm",
+    "local-first",
+    "nextjs"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-08-31",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 45
    }
   },
   {
@@ -48705,6 +48789,28 @@
    }
   },
   {
+   "repo": "shack2/SuperSQLInjectionV1",
+   "url": "https://github.com/shack2/SuperSQLInjectionV1",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 1268,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "C#",
+   "pushed_at": "2026-09-29",
+   "created_at": "2017-03-21",
+   "stars_per_day_lifetime": 0.36,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-02",
+    "sort": "stars",
+    "query_breadth": 29,
+    "position": 6
+   }
+  },
+  {
    "repo": "via007/bilibili-rag",
    "url": "https://github.com/via007/bilibili-rag",
    "first_seen": "2026-07-28",
@@ -54418,6 +54524,41 @@
    }
   },
   {
+   "repo": "darkrishabh/agent-skills-eval",
+   "url": "https://github.com/darkrishabh/agent-skills-eval",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 798,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-29",
+   "created_at": "2026-05-06",
+   "stars_per_day_lifetime": 5.43,
+   "topics": [
+    "agent-evals",
+    "agent-skills",
+    "agentskills",
+    "ai-agents",
+    "cli",
+    "jsonl",
+    "llm-evals",
+    "llm-evaluation",
+    "openai-compatible",
+    "typescript",
+    "yaml"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-31",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 94
+   }
+  },
+  {
    "repo": "wk42worldworld/cybercode",
    "url": "https://github.com/wk42worldworld/cybercode",
    "first_seen": "2026-08-17",
@@ -58813,6 +58954,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 52
+   }
+  },
+  {
+   "repo": "butterbase-ai/butterbase-skills",
+   "url": "https://github.com/butterbase-ai/butterbase-skills",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 533,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-29",
+   "created_at": "2026-04-13",
+   "stars_per_day_lifetime": 3.14,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "backend-as-a-service",
+    "butterbase",
+    "claude",
+    "claude-code",
+    "mcp",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-31",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
    }
   },
   {
@@ -64059,6 +64231,35 @@
    }
   },
   {
+   "repo": "justinwetch/HIGAgentSkills",
+   "url": "https://github.com/justinwetch/HIGAgentSkills",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 371,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-29",
+   "created_at": "2026-03-15",
+   "stars_per_day_lifetime": 1.86,
+   "topics": [
+    "agent",
+    "apple",
+    "design",
+    "designsystem",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-31",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
+   }
+  },
+  {
    "repo": "risesoft-y9/Email",
    "url": "https://github.com/risesoft-y9/Email",
    "first_seen": "2026-07-29",
@@ -65324,6 +65525,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 7
+   }
+  },
+  {
+   "repo": "yuturuishi/ytlabel",
+   "url": "https://github.com/yuturuishi/ytlabel",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 339,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-09-30",
+   "created_at": "2025-02-17",
+   "stars_per_day_lifetime": 0.57,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-02",
+    "sort": "stars",
+    "query_breadth": 71,
+    "position": 52
    }
   },
   {
@@ -72946,6 +73169,42 @@
    }
   },
   {
+   "repo": "sergebulaev/instagram-skills",
+   "url": "https://github.com/sergebulaev/instagram-skills",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 208,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-30",
+   "created_at": "2026-07-02",
+   "stars_per_day_lifetime": 2.31,
+   "topics": [
+    "agent-skill",
+    "ai-agents",
+    "ai-marketing",
+    "captions",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "content-creation",
+    "content-engineering",
+    "hashtags",
+    "instagram",
+    "instagram-marketing"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-08-31",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
+   }
+  },
+  {
    "repo": "xiao24bei/xiaobei-skill",
    "url": "https://github.com/xiao24bei/xiaobei-skill",
    "first_seen": "2026-08-28",
@@ -78430,6 +78689,41 @@
    }
   },
   {
+   "repo": "j4c8dobolsuo8m2m/seedance-api-cn",
+   "url": "https://github.com/j4c8dobolsuo8m2m/seedance-api-cn",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 106,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Shell",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-09-24",
+   "stars_per_day_lifetime": 17.67,
+   "topics": [
+    "ai-api-aggregator",
+    "ai-api-gateway",
+    "api-docs",
+    "api-pricing",
+    "apimart",
+    "cheapest-llm-api",
+    "llm-api-gateway",
+    "openai-compatible",
+    "openrouter-alternative",
+    "pay-as-you-go",
+    "per-image-pricing"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-07-02",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 15
+   }
+  },
+  {
    "repo": "study8677/OpenCMO",
    "url": "https://github.com/study8677/OpenCMO",
    "first_seen": "2026-07-28",
@@ -79261,6 +79555,28 @@
    }
   },
   {
+   "repo": "anliyuan/FeatherTalk",
+   "url": "https://github.com/anliyuan/FeatherTalk",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 102,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-04",
+   "created_at": "2026-07-08",
+   "stars_per_day_lifetime": 1.21,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-02",
+    "sort": "stars",
+    "query_breadth": 29,
+    "position": 27
+   }
+  },
+  {
    "repo": "renmengwen/MuseDock",
    "url": "https://github.com/renmengwen/MuseDock",
    "first_seen": "2026-09-05",
@@ -79728,6 +80044,40 @@
    }
   },
   {
+   "repo": "hd42567u/grokimagine2.0-grok-imagine-2.0-api-cn",
+   "url": "https://github.com/hd42567u/grokimagine2.0-grok-imagine-2.0-api-cn",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 101,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Shell",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-09-24",
+   "stars_per_day_lifetime": 16.83,
+   "topics": [
+    "api-docs",
+    "apimart",
+    "cn",
+    "grok-imagine-2-0",
+    "grok-imagine-2-0-api",
+    "grokimagine2-0",
+    "grokimagine2-0-api",
+    "model-cn",
+    "openai-compatible",
+    "pay-as-you-go"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-07-02",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 19
+   }
+  },
+  {
    "repo": "huanmin123/juhe-ai",
    "url": "https://github.com/huanmin123/juhe-ai",
    "first_seen": "2026-08-20",
@@ -79790,6 +80140,74 @@
     "sort": "stars",
     "query_breadth": 51,
     "position": 49
+   }
+  },
+  {
+   "repo": "k6hdkoe76rybli/flux2-flux-2-api-cn",
+   "url": "https://github.com/k6hdkoe76rybli/flux2-flux-2-api-cn",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 101,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Shell",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-09-24",
+   "stars_per_day_lifetime": 16.83,
+   "topics": [
+    "api-docs",
+    "apimart",
+    "cn",
+    "flux-2",
+    "flux-2-api",
+    "flux2",
+    "flux2-api",
+    "model-cn",
+    "openai-compatible",
+    "pay-as-you-go"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-07-02",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 17
+   }
+  },
+  {
+   "repo": "oy8jfpo2qa8075/qwenimage3.0-qwen-image-3.0-api-cn",
+   "url": "https://github.com/oy8jfpo2qa8075/qwenimage3.0-qwen-image-3.0-api-cn",
+   "first_seen": "2026-09-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-09-30",
+   "stars": 101,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Shell",
+   "pushed_at": "2026-09-24",
+   "created_at": "2026-09-24",
+   "stars_per_day_lifetime": 16.83,
+   "topics": [
+    "api-docs",
+    "apimart",
+    "cn",
+    "model-cn",
+    "openai-compatible",
+    "pay-as-you-go",
+    "qwen-image-3-0",
+    "qwen-image-3-0-api",
+    "qwenimage3-0",
+    "qwenimage3-0-api"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-07-02",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 18
    }
   },
   {
@@ -82239,7 +82657,7 @@
    }
   }
  ],
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "status_enum": [
   "pending",
   "debated",
