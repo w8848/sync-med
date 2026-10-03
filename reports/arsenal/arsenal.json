@@ -12959,6 +12959,42 @@
    }
   },
   {
+   "repo": "browseros-ai/BrowserOS",
+   "url": "https://github.com/browseros-ai/BrowserOS",
+   "first_seen": "2026-10-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-03",
+   "stars": 13802,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-03",
+   "created_at": "2025-05-18",
+   "stars_per_day_lifetime": 27.44,
+   "topics": [
+    "agent",
+    "ai-agents",
+    "automation",
+    "browser",
+    "browser-automation",
+    "browseros",
+    "chromium",
+    "claude",
+    "linux",
+    "llm",
+    "lmstudio",
+    "macos"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 4
+   }
+  },
+  {
    "repo": "datawhalechina/llm-universe",
    "url": "https://github.com/datawhalechina/llm-universe",
    "first_seen": "2026-08-09",
@@ -36708,6 +36744,32 @@
    }
   },
   {
+   "repo": "sfermigier/awesome-functional-python",
+   "url": "https://github.com/sfermigier/awesome-functional-python",
+   "first_seen": "2026-10-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-03",
+   "stars": 2559,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-02",
+   "created_at": "2016-12-14",
+   "stars_per_day_lifetime": 0.71,
+   "topics": [
+    "awesome",
+    "functional-programming",
+    "python"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 33
+   }
+  },
+  {
    "repo": "tradermonty/claude-trading-skills",
    "url": "https://github.com/tradermonty/claude-trading-skills",
    "first_seen": "2026-08-04",
@@ -38121,6 +38183,33 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 51
+   }
+  },
+  {
+   "repo": "mojoaxel/awesome-regression-testing",
+   "url": "https://github.com/mojoaxel/awesome-regression-testing",
+   "first_seen": "2026-10-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-03",
+   "stars": 2417,
+   "license": "CC-BY-SA-4.0",
+   "license_family": "unknown",
+   "pushed_at": "2026-10-02",
+   "created_at": "2017-06-28",
+   "stars_per_day_lifetime": 0.71,
+   "topics": [
+    "awesome",
+    "test-automation",
+    "testing",
+    "testing-tools"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 30
    }
   },
   {
@@ -42946,6 +43035,42 @@
    }
   },
   {
+   "repo": "Syngnat/GoNavi",
+   "url": "https://github.com/Syngnat/GoNavi",
+   "first_seen": "2026-10-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-03",
+   "stars": 2042,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-03",
+   "created_at": "2026-01-31",
+   "stars_per_day_lifetime": 8.33,
+   "topics": [
+    "ai",
+    "cross-platform",
+    "database-client",
+    "database-gui",
+    "desktop-app",
+    "developer-tools",
+    "golang",
+    "kafka",
+    "mcp",
+    "model-context-protocol",
+    "mongodb",
+    "mqtt"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 27
+   }
+  },
+  {
    "repo": "BetaStreetOmnis/xhs_ai_publisher",
    "url": "https://github.com/BetaStreetOmnis/xhs_ai_publisher",
    "first_seen": "2026-07-26",
@@ -43320,6 +43445,42 @@
     "sort": "stars",
     "query_breadth": 18,
     "position": 1
+   }
+  },
+  {
+   "repo": "youngfish42/Awesome-FL",
+   "url": "https://github.com/youngfish42/Awesome-FL",
+   "first_seen": "2026-10-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-03",
+   "stars": 2014,
+   "license": "CC-BY-SA-4.0",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-10-03",
+   "created_at": "2022-05-21",
+   "stars_per_day_lifetime": 1.26,
+   "topics": [
+    "artificial-intelligence",
+    "awesome",
+    "computer-vision",
+    "data-mining",
+    "database",
+    "deep-learning",
+    "efficiency",
+    "federated-learning",
+    "federated-learning-framework",
+    "graph",
+    "graph-neural-networks",
+    "information-retrieval"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 6
    }
   },
   {
@@ -55287,6 +55448,35 @@
     "sort": "stars",
     "query_breadth": 37,
     "position": 12
+   }
+  },
+  {
+   "repo": "lawve-ai/awesome-legal-skills",
+   "url": "https://github.com/lawve-ai/awesome-legal-skills",
+   "first_seen": "2026-10-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-03",
+   "stars": 778,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-10-02",
+   "created_at": "2025-12-18",
+   "stars_per_day_lifetime": 2.69,
+   "topics": [
+    "agent-skills",
+    "automation",
+    "law",
+    "legal-work",
+    "workflows"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-03",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 43
    }
   },
   {
@@ -74739,6 +74929,28 @@
    }
   },
   {
+   "repo": "gnipbao/minimax-h3-video-reverse-skill",
+   "url": "https://github.com/gnipbao/minimax-h3-video-reverse-skill",
+   "first_seen": "2026-10-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-03",
+   "stars": 204,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-02",
+   "created_at": "2026-09-20",
+   "stars_per_day_lifetime": 15.69,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-05",
+    "sort": "stars",
+    "query_breadth": 72,
+    "position": 71
+   }
+  },
+  {
    "repo": "kaomei/hand-drawn-video-prompts",
    "url": "https://github.com/kaomei/hand-drawn-video-prompts",
    "first_seen": "2026-09-11",
@@ -83628,7 +83840,7 @@
    }
   }
  ],
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "status_enum": [
   "pending",
   "debated",
