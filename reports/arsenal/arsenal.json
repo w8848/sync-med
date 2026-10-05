@@ -3918,6 +3918,42 @@
    }
   },
   {
+   "repo": "unclecode/crawl4ai",
+   "url": "https://github.com/unclecode/crawl4ai",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 84763,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-05",
+   "created_at": "2024-05-09",
+   "stars_per_day_lifetime": 96.43,
+   "topics": [
+    "ai",
+    "ai-agents",
+    "crawler",
+    "data-extraction",
+    "llm",
+    "markdown",
+    "mcp",
+    "open-source",
+    "playwright",
+    "python",
+    "rag",
+    "scraper"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-05",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 19
+   }
+  },
+  {
    "repo": "fighting41love/funNLP",
    "url": "https://github.com/fighting41love/funNLP",
    "first_seen": "2026-07-26",
@@ -13384,6 +13420,36 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 27
+   }
+  },
+  {
+   "repo": "rigtorp/awesome-modern-cpp",
+   "url": "https://github.com/rigtorp/awesome-modern-cpp",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 13170,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "HTML",
+   "pushed_at": "2026-10-05",
+   "created_at": "2016-03-30",
+   "stars_per_day_lifetime": 3.43,
+   "topics": [
+    "cpp",
+    "cpp11",
+    "cpp14",
+    "cpp17",
+    "cpp1z",
+    "cpp20"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-05",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 16
    }
   },
   {
@@ -32375,6 +32441,42 @@
    }
   },
   {
+   "repo": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
+   "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 3095,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-04",
+   "created_at": "2025-08-17",
+   "stars_per_day_lifetime": 7.48,
+   "topics": [
+    "agent-skills",
+    "agentic-coding",
+    "ai-agents",
+    "anthropic",
+    "anthropic-claude",
+    "best-practices",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "claude-code-guide",
+    "claude-code-hooks",
+    "claude-code-skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-05",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
+   }
+  },
+  {
    "repo": "ChaofWang/Awesome-Super-Resolution",
    "url": "https://github.com/ChaofWang/Awesome-Super-Resolution",
    "first_seen": "2026-08-20",
@@ -33919,6 +34021,42 @@
     "dimension": "category",
     "query": "mcp server in:name,description stars:>1000 pushed:>2026-07-17",
     "sort": "updated",
+    "query_breadth": 100,
+    "position": 93
+   }
+  },
+  {
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 2898,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-04",
+   "created_at": "2026-04-14",
+   "stars_per_day_lifetime": 16.66,
+   "topics": [
+    "agent-skills",
+    "ai-agent-tools",
+    "ai-agents",
+    "binary-analysis",
+    "cli",
+    "coding-agent",
+    "coding-agents",
+    "cordis",
+    "decompiler",
+    "disassembler",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-09-05",
+    "sort": "stars",
     "query_breadth": 100,
     "position": 93
    }
@@ -42733,6 +42871,35 @@
     "sort": "stars",
     "query_breadth": 14,
     "position": 5
+   }
+  },
+  {
+   "repo": "rigtorp/awesome-lockfree",
+   "url": "https://github.com/rigtorp/awesome-lockfree",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 2071,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-05",
+   "created_at": "2016-03-31",
+   "stars_per_day_lifetime": 0.54,
+   "topics": [
+    "assembly",
+    "concurrency",
+    "concurrent-programming",
+    "cpp",
+    "lock-free",
+    "wait-free"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-05",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 24
    }
   },
   {
@@ -61415,6 +61582,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 91
+   }
+  },
+  {
+   "repo": "ythx-101/live-panel-skill",
+   "url": "https://github.com/ythx-101/live-panel-skill",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 493,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "HTML",
+   "pushed_at": "2026-10-03",
+   "created_at": "2026-10-03",
+   "stars_per_day_lifetime": 246.5,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-05",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 90
    }
   },
   {
@@ -81025,6 +81214,31 @@
    }
   },
   {
+   "repo": "liangdabiao/smy-seedance-storyboard",
+   "url": "https://github.com/liangdabiao/smy-seedance-storyboard",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 102,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-08-25",
+   "created_at": "2026-08-25",
+   "stars_per_day_lifetime": 2.49,
+   "topics": [
+    "skill",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-07",
+    "sort": "stars",
+    "query_breadth": 53,
+    "position": 52
+   }
+  },
+  {
    "repo": "renmengwen/MuseDock",
    "url": "https://github.com/renmengwen/MuseDock",
    "first_seen": "2026-09-05",
@@ -81426,6 +81640,27 @@
     "sort": "stars",
     "query_breadth": 20,
     "position": 19
+   }
+  },
+  {
+   "repo": "alchaincyf/paul-graham-skill",
+   "url": "https://github.com/alchaincyf/paul-graham-skill",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-08-25",
+   "created_at": "2026-04-06",
+   "stars_per_day_lifetime": 0.55,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "女娲 in:name,description stars:>100",
+    "sort": "stars",
+    "query_breadth": 21,
+    "position": 20
    }
   },
   {
@@ -82620,6 +82855,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 97
+   }
+  },
+  {
+   "repo": "3150214587/niehaixia",
+   "url": "https://github.com/3150214587/niehaixia",
+   "first_seen": "2026-10-05",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-05",
+   "stars": 62,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "HTML",
+   "pushed_at": "2026-07-19",
+   "created_at": "2026-07-19",
+   "stars_per_day_lifetime": 0.79,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 in:name,description stars:>50",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 99
    }
   },
   {
@@ -84141,7 +84398,7 @@
    }
   }
  ],
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "status_enum": [
   "pending",
   "debated",
