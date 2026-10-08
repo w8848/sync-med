@@ -7112,6 +7112,42 @@
    }
   },
   {
+   "repo": "feder-cr/invisible_dots",
+   "url": "https://github.com/feder-cr/invisible_dots",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 31819,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-08",
+   "created_at": "2024-08-04",
+   "stars_per_day_lifetime": 40.02,
+   "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "antidetect-browser",
+    "automation",
+    "autonomous-agents",
+    "browser-automation",
+    "claude-cowork",
+    "computer-use",
+    "computer-use-agent"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
+   }
+  },
+  {
    "repo": "github/github-mcp-server",
    "url": "https://github.com/github/github-mcp-server",
    "first_seen": "2026-07-26",
@@ -25023,6 +25059,27 @@
    }
   },
   {
+   "repo": "xialeiliu/Awesome-Incremental-Learning",
+   "url": "https://github.com/xialeiliu/Awesome-Incremental-Learning",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 4530,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-08",
+   "created_at": "2018-08-28",
+   "stars_per_day_lifetime": 1.53,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
+   }
+  },
+  {
    "repo": "wuyoscar/GPT-Image2-Skill",
    "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
    "first_seen": "2026-08-15",
@@ -34837,6 +34894,38 @@
    }
   },
   {
+   "repo": "yihui-dev/awesome-opus5-5-videos",
+   "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 2823,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-08",
+   "created_at": "2026-09-27",
+   "stars_per_day_lifetime": 256.64,
+   "topics": [
+    "ai-video",
+    "awesome",
+    "awesome-list",
+    "claude",
+    "claude-opus",
+    "creative-coding",
+    "motion-graphics",
+    "prompts",
+    "threejs"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 18
+   }
+  },
+  {
    "repo": "plenaryapp/awesome-rss-feeds",
    "url": "https://github.com/plenaryapp/awesome-rss-feeds",
    "first_seen": "2026-10-06",
@@ -41633,6 +41722,42 @@
    }
   },
   {
+   "repo": "QingYunA/answer-me-with-html",
+   "url": "https://github.com/QingYunA/answer-me-with-html",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 2176,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-08",
+   "created_at": "2026-10-02",
+   "stars_per_day_lifetime": 362.67,
+   "topics": [
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "claude-code-skill",
+    "claude-skill",
+    "claude-skills",
+    "cli",
+    "diagram",
+    "explainer",
+    "html",
+    "llm",
+    "ste100"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 0
+   }
+  },
+  {
    "repo": "mcanouil/awesome-quarto",
    "url": "https://github.com/mcanouil/awesome-quarto",
    "first_seen": "2026-09-11",
@@ -42437,6 +42562,28 @@
    }
   },
   {
+   "repo": "Leanmcp/gateway-skills",
+   "url": "https://github.com/Leanmcp/gateway-skills",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 2110,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-07",
+   "created_at": "2026-03-31",
+   "stars_per_day_lifetime": 11.05,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 66
+   }
+  },
+  {
    "repo": "team9ai/team9",
    "url": "https://github.com/team9ai/team9",
    "first_seen": "2026-08-02",
@@ -43042,6 +43189,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 38
+   }
+  },
+  {
+   "repo": "MemTensor/memmy-agent",
+   "url": "https://github.com/MemTensor/memmy-agent",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 2073,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-08",
+   "created_at": "2026-07-16",
+   "stars_per_day_lifetime": 24.68,
+   "topics": [
+    "agent",
+    "agentic-ai",
+    "ai-agents",
+    "chatgpt",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "desktop-app",
+    "desktop-pet",
+    "dsh-plugin",
+    "hermes-agent"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 18
    }
   },
   {
@@ -44499,6 +44682,39 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 18
+   }
+  },
+  {
+   "repo": "ad-si/awesome-3d-printing",
+   "url": "https://github.com/ad-si/awesome-3d-printing",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 2002,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-07",
+   "created_at": "2016-01-07",
+   "stars_per_day_lifetime": 0.51,
+   "topics": [
+    "3d",
+    "3d-printer",
+    "3d-printing",
+    "3d-scanner",
+    "3d-scanning",
+    "awesome",
+    "awesome-list",
+    "cad",
+    "g-code",
+    "slicer"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 40
    }
   },
   {
@@ -49326,6 +49542,42 @@
    }
   },
   {
+   "repo": "thetahealth/mirobody",
+   "url": "https://github.com/thetahealth/mirobody",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 1361,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-08",
+   "created_at": "2025-11-29",
+   "stars_per_day_lifetime": 4.35,
+   "topics": [
+    "ai-agents",
+    "apple-health",
+    "digital-health",
+    "ehr",
+    "fhir",
+    "genetic-data",
+    "genomics",
+    "health-data",
+    "healthcare-ai",
+    "icpc-3",
+    "lab-reports",
+    "lab-results"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 4
+   }
+  },
+  {
    "repo": "matlab/matlab-mcp-server",
    "url": "https://github.com/matlab/matlab-mcp-server",
    "first_seen": "2026-08-15",
@@ -51579,6 +51831,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 20
+   }
+  },
+  {
+   "repo": "carnot-tech/jinba-consulting-pptx-skill",
+   "url": "https://github.com/carnot-tech/jinba-consulting-pptx-skill",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 1136,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-10-07",
+   "created_at": "2026-09-02",
+   "stars_per_day_lifetime": 31.56,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 45
    }
   },
   {
@@ -60544,6 +60818,32 @@
    }
   },
   {
+   "repo": "Loopera-ai/loopera",
+   "url": "https://github.com/Loopera-ai/loopera",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 536,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "pushed_at": "2026-09-21",
+   "created_at": "2026-09-08",
+   "stars_per_day_lifetime": 17.87,
+   "topics": [
+    "ai",
+    "ai-agent",
+    "quant"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 98
+   }
+  },
+  {
    "repo": "butterbase-ai/butterbase-skills",
    "url": "https://github.com/butterbase-ai/butterbase-skills",
    "first_seen": "2026-09-30",
@@ -61114,6 +61414,42 @@
     "sort": "updated",
     "query_breadth": 72,
     "position": 20
+   }
+  },
+  {
+   "repo": "metasequoiaime/msime",
+   "url": "https://github.com/metasequoiaime/msime",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 511,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Rust",
+   "pushed_at": "2026-10-08",
+   "created_at": "2026-09-02",
+   "stars_per_day_lifetime": 14.19,
+   "topics": [
+    "android",
+    "chinese",
+    "cpp",
+    "harmonyos",
+    "ime",
+    "input-method",
+    "inputmethodkit",
+    "ios",
+    "linux",
+    "macos",
+    "pinyin",
+    "rust"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 69,
+    "position": 0
    }
   },
   {
@@ -62200,6 +62536,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 13
+   }
+  },
+  {
+   "repo": "tuya/tuya-openclaw-skills",
+   "url": "https://github.com/tuya/tuya-openclaw-skills",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 479,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-07",
+   "created_at": "2026-03-12",
+   "stars_per_day_lifetime": 2.28,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 96
    }
   },
   {
@@ -75950,6 +76308,36 @@
    }
   },
   {
+   "repo": "joeseesun/opus-video-prompts",
+   "url": "https://github.com/joeseesun/opus-video-prompts",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 205,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-09-27",
+   "created_at": "2026-09-27",
+   "stars_per_day_lifetime": 18.64,
+   "topics": [
+    "claude",
+    "claude-code",
+    "motion-graphics",
+    "opus",
+    "prompts",
+    "remotion",
+    "video-generation"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-10",
+    "sort": "stars",
+    "query_breadth": 75,
+    "position": 73
+   }
+  },
+  {
    "repo": "lugasia/3gpp-skill",
    "url": "https://github.com/lugasia/3gpp-skill",
    "first_seen": "2026-08-29",
@@ -76567,6 +76955,27 @@
    }
   },
   {
+   "repo": "thomast1906/github-copilot-agent-skills",
+   "url": "https://github.com/thomast1906/github-copilot-agent-skills",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 202,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-07",
+   "created_at": "2026-02-18",
+   "stars_per_day_lifetime": 0.87,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 68
+   }
+  },
+  {
    "repo": "tl2012tl/comfyUI-llama-TE",
    "url": "https://github.com/tl2012tl/comfyUI-llama-TE",
    "first_seen": "2026-09-22",
@@ -76701,6 +77110,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 52
+   }
+  },
+  {
+   "repo": "LMaxRouterCN/LLMwc4n",
+   "url": "https://github.com/LMaxRouterCN/LLMwc4n",
+   "first_seen": "2026-10-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-08",
+   "stars": 201,
+   "license": "MPL-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-09-03",
+   "created_at": "2025-07-14",
+   "stars_per_day_lifetime": 0.45,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-10",
+    "sort": "stars",
+    "query_breadth": 75,
+    "position": 74
    }
   },
   {
@@ -85207,7 +85637,7 @@
    }
   }
  ],
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "status_enum": [
   "pending",
   "debated",
