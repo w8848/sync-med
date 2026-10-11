@@ -13403,6 +13403,40 @@
    }
   },
   {
+   "repo": "ccfos/nightingale",
+   "url": "https://github.com/ccfos/nightingale",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 13327,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-10-10",
+   "created_at": "2020-03-03",
+   "stars_per_day_lifetime": 5.52,
+   "topics": [
+    "alerting",
+    "logs",
+    "metrics",
+    "monitoring",
+    "nightingale",
+    "observability",
+    "sre",
+    "sre-agent",
+    "time-series",
+    "tsdb"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 46
+   }
+  },
+  {
    "repo": "earthtojake/text-to-cad",
    "url": "https://github.com/earthtojake/text-to-cad",
    "first_seen": "2026-08-11",
@@ -15075,6 +15109,28 @@
    }
   },
   {
+   "repo": "LaurieWired/GhidraMCP",
+   "url": "https://github.com/LaurieWired/GhidraMCP",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 10962,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Java",
+   "pushed_at": "2026-10-10",
+   "created_at": "2025-03-23",
+   "stars_per_day_lifetime": 19.33,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 28
+   }
+  },
+  {
    "repo": "Jeffallan/claude-skills",
    "url": "https://github.com/Jeffallan/claude-skills",
    "first_seen": "2026-08-04",
@@ -16560,6 +16616,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 28
+   }
+  },
+  {
+   "repo": "DuarteSantos8/openGym",
+   "url": "https://github.com/DuarteSantos8/openGym",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 9355,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-07-18",
+   "stars_per_day_lifetime": 110.06,
+   "topics": [
+    "bodyweight",
+    "docker",
+    "fitness",
+    "fitness-tracker",
+    "gym",
+    "health",
+    "mcp",
+    "nodejs",
+    "passkeys",
+    "progressive-web-applications",
+    "pwa",
+    "react"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 76
    }
   },
   {
@@ -25422,6 +25514,27 @@
    }
   },
   {
+   "repo": "GT-RIPL/Awesome-LLM-Robotics",
+   "url": "https://github.com/GT-RIPL/Awesome-LLM-Robotics",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 4485,
+   "license": "BSD-3-Clause",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-10",
+   "created_at": "2022-08-12",
+   "stars_per_day_lifetime": 2.95,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "genspark-ai/genoffice",
    "url": "https://github.com/genspark-ai/genoffice",
    "first_seen": "2026-09-03",
@@ -27912,6 +28025,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 37
+   }
+  },
+  {
+   "repo": "siteserver/cms",
+   "url": "https://github.com/siteserver/cms",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 3914,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-11",
+   "created_at": "2017-04-26",
+   "stars_per_day_lifetime": 1.13,
+   "topics": [
+    "c-sharp",
+    "cms",
+    "content-management-system",
+    "dot-net",
+    "siteserver",
+    "siteserver-cms",
+    "ss-cms",
+    "sscms"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-13",
+    "sort": "stars",
+    "query_breadth": 54,
+    "position": 4
    }
   },
   {
@@ -41892,6 +42037,34 @@
    }
   },
   {
+   "repo": "Thinklab-SJTU/awesome-ml4co",
+   "url": "https://github.com/Thinklab-SJTU/awesome-ml4co",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 2175,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-10",
+   "created_at": "2021-03-21",
+   "stars_per_day_lifetime": 1.07,
+   "topics": [
+    "combinatorial-optimization",
+    "machine-learning",
+    "operations-research",
+    "paper-list"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 60
+   }
+  },
+  {
    "repo": "mcanouil/awesome-quarto",
    "url": "https://github.com/mcanouil/awesome-quarto",
    "first_seen": "2026-09-11",
@@ -41917,6 +42090,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 29
+   }
+  },
+  {
+   "repo": "Carlos487/awesome-wpf",
+   "url": "https://github.com/Carlos487/awesome-wpf",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 2171,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "lang": "C#",
+   "pushed_at": "2026-10-10",
+   "created_at": "2020-02-21",
+   "stars_per_day_lifetime": 0.9,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "controls",
+    "dotnet",
+    "dotnet-core",
+    "net",
+    "ui-components",
+    "wpf"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 31
    }
   },
   {
@@ -44331,6 +44536,35 @@
     "sort": "stars",
     "query_breadth": 18,
     "position": 1
+   }
+  },
+  {
+   "repo": "NanmiCoder/dsh-agent-teams",
+   "url": "https://github.com/NanmiCoder/dsh-agent-teams",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 2014,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-08-12",
+   "stars_per_day_lifetime": 33.57,
+   "topics": [
+    "agentteams",
+    "deepseekharness",
+    "dsh",
+    "dsh-agent-teams",
+    "dsh-plugin"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 35
    }
   },
   {
@@ -49472,6 +49706,38 @@
    }
   },
   {
+   "repo": "myhub/tr",
+   "url": "https://github.com/myhub/tr",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 1383,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-11",
+   "created_at": "2019-08-18",
+   "stars_per_day_lifetime": 0.53,
+   "topics": [
+    "crnn",
+    "ctpn",
+    "curved-text",
+    "deeplearning",
+    "ocr",
+    "pixellink",
+    "text-recognition",
+    "transformer"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "OCR 识别 in:name,description stars:>100 pushed:>2026-07-13",
+    "sort": "stars",
+    "query_breadth": 23,
+    "position": 1
+   }
+  },
+  {
    "repo": "OpenOSINT/OpenOSINT",
    "url": "https://github.com/OpenOSINT/OpenOSINT",
    "first_seen": "2026-08-10",
@@ -49822,6 +50088,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 2
+   }
+  },
+  {
+   "repo": "marcelscruz/dev-resources",
+   "url": "https://github.com/marcelscruz/dev-resources",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 1352,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-11",
+   "created_at": "2021-01-25",
+   "stars_per_day_lifetime": 0.65,
+   "topics": [
+    "assets",
+    "awesome",
+    "awesome-list",
+    "courses",
+    "design",
+    "dev-resources",
+    "development",
+    "hacktoberfest",
+    "information",
+    "infrastructure",
+    "jobs",
+    "programming"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 38,
+    "position": 18
    }
   },
   {
@@ -59669,6 +59971,41 @@
     "sort": "stars",
     "query_breadth": 22,
     "position": 17
+   }
+  },
+  {
+   "repo": "Fausto-404/js-reverse-automation--skill",
+   "url": "https://github.com/Fausto-404/js-reverse-automation--skill",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 594,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-10",
+   "created_at": "2026-01-30",
+   "stars_per_day_lifetime": 2.34,
+   "topics": [
+    "ai-tools",
+    "automation",
+    "burp-suite",
+    "javascript",
+    "js",
+    "js-reverse",
+    "reverse",
+    "reverse-engineering",
+    "security-tools",
+    "skills",
+    "web-security"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 69
    }
   },
   {
@@ -73060,6 +73397,39 @@
    }
   },
   {
+   "repo": "shouldnotappearcalm/a-share-skill",
+   "url": "https://github.com/shouldnotappearcalm/a-share-skill",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 243,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-03-17",
+   "stars_per_day_lifetime": 1.17,
+   "topics": [
+    "a-share",
+    "agent-skills",
+    "akshare",
+    "claude-code",
+    "claude-skills",
+    "mcp",
+    "paper-trading",
+    "quant",
+    "stock"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
+   }
+  },
+  {
    "repo": "dososo/blcaptain-lingjian-video",
    "url": "https://github.com/dososo/blcaptain-lingjian-video",
    "first_seen": "2026-08-01",
@@ -74586,6 +74956,28 @@
     "sort": "stars",
     "query_breadth": 13,
     "position": 12
+   }
+  },
+  {
+   "repo": "akitaonrails/my-skills",
+   "url": "https://github.com/akitaonrails/my-skills",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 219,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-07-10",
+   "stars_per_day_lifetime": 2.35,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 14
    }
   },
   {
@@ -77604,6 +77996,28 @@
     "sort": "stars",
     "query_breadth": 75,
     "position": 74
+   }
+  },
+  {
+   "repo": "Luyu2026/Skill-Bible",
+   "url": "https://github.com/Luyu2026/Skill-Bible",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 201,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "HTML",
+   "pushed_at": "2026-10-10",
+   "created_at": "2026-06-01",
+   "stars_per_day_lifetime": 1.52,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-11",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 43
    }
   },
   {
@@ -83557,6 +83971,42 @@
    }
   },
   {
+   "repo": "dav-niu474/huobao-drama-ai",
+   "url": "https://github.com/dav-niu474/huobao-drama-ai",
+   "first_seen": "2026-10-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-11",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-08-28",
+   "created_at": "2026-04-25",
+   "stars_per_day_lifetime": 0.6,
+   "topics": [
+    "ai-creative",
+    "ai-drama",
+    "ai-image-generation",
+    "ai-video-generation",
+    "deepseek",
+    "glm5",
+    "nextjs",
+    "nvidia-nim",
+    "prisma",
+    "seedance",
+    "short-drama",
+    "storyboard"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-13",
+    "sort": "stars",
+    "query_breadth": 54,
+    "position": 53
+   }
+  },
+  {
    "repo": "dodolalorc/astro-navfolio",
    "url": "https://github.com/dodolalorc/astro-navfolio",
    "first_seen": "2026-09-02",
@@ -86347,7 +86797,7 @@
    }
   }
  ],
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "status_enum": [
   "pending",
   "debated",
