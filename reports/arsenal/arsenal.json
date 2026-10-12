@@ -3725,6 +3725,28 @@
    }
   },
   {
+   "repo": "paperclipai/paperclip",
+   "url": "https://github.com/paperclipai/paperclip",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 100501,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-12",
+   "created_at": "2026-03-02",
+   "stars_per_day_lifetime": 448.67,
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
+   }
+  },
+  {
    "repo": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "first_seen": "2026-08-22",
@@ -15128,6 +15150,39 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 28
+   }
+  },
+  {
+   "repo": "webpro/awesome-dotfiles",
+   "url": "https://github.com/webpro/awesome-dotfiles",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 10897,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-11",
+   "created_at": "2014-07-16",
+   "stars_per_day_lifetime": 2.44,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "bash",
+    "dotfiles",
+    "dotfiles-resources",
+    "fish",
+    "list",
+    "shell",
+    "tools",
+    "zsh"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 61
    }
   },
   {
@@ -36680,6 +36735,27 @@
    }
   },
   {
+   "repo": "km1994/LLMs_interview_notes",
+   "url": "https://github.com/km1994/LLMs_interview_notes",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 2614,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-11",
+   "created_at": "2023-09-16",
+   "stars_per_day_lifetime": 2.33,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "大模型 in:name,description stars:>1000 pushed:>2026-09-12",
+    "sort": "stars",
+    "query_breadth": 54,
+    "position": 31
+   }
+  },
+  {
    "repo": "liyupi/yu-ai-agent",
    "url": "https://github.com/liyupi/yu-ai-agent",
    "first_seen": "2026-08-12",
@@ -45693,6 +45769,40 @@
    }
   },
   {
+   "repo": "wy-luke/All-Chinese-Character-Set",
+   "url": "https://github.com/wy-luke/All-Chinese-Character-Set",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 1952,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-11",
+   "created_at": "2021-11-03",
+   "stars_per_day_lifetime": 1.08,
+   "topics": [
+    "character-set",
+    "chinese",
+    "chinese-character",
+    "chinese-characters",
+    "chinese-simplified",
+    "font",
+    "textmeshpro",
+    "unity",
+    "unity-3d",
+    "unity3d"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 66,
+    "position": 20
+   }
+  },
+  {
    "repo": "samuelgursky/davinci-resolve-mcp",
    "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
    "first_seen": "2026-08-02",
@@ -47225,6 +47335,42 @@
     "sort": "updated",
     "query_breadth": 58,
     "position": 32
+   }
+  },
+  {
+   "repo": "dineug/erd-editor",
+   "url": "https://github.com/dineug/erd-editor",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 1723,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-11",
+   "created_at": "2019-09-01",
+   "stars_per_day_lifetime": 0.66,
+   "topics": [
+    "code-generation",
+    "data-modeling",
+    "database",
+    "database-design",
+    "database-schema",
+    "dbml",
+    "ddl",
+    "diagram",
+    "entity-relationship-diagram",
+    "erd",
+    "erd-editor",
+    "graphql"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 45
    }
   },
   {
@@ -50257,6 +50403,37 @@
     "sort": "stars",
     "query_breadth": 18,
     "position": 2
+   }
+  },
+  {
+   "repo": "onvoyage-ai/gtm-engineer-skills",
+   "url": "https://github.com/onvoyage-ai/gtm-engineer-skills",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 1321,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-02-26",
+   "stars_per_day_lifetime": 5.79,
+   "topics": [
+    "aeo",
+    "ai-optimization",
+    "claude-code",
+    "geo",
+    "llms-txt",
+    "seo",
+    "structured-data"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 59
    }
   },
   {
@@ -56028,6 +56205,28 @@
    }
   },
   {
+   "repo": "thedivergentai/Game-Design-Agentic-Skills",
+   "url": "https://github.com/thedivergentai/Game-Design-Agentic-Skills",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 834,
+   "license": "LGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "GDScript",
+   "pushed_at": "2026-10-12",
+   "created_at": "2026-02-07",
+   "stars_per_day_lifetime": 3.38,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 4
+   }
+  },
+  {
    "repo": "WJZ-P/gemini-skill",
    "url": "https://github.com/WJZ-P/gemini-skill",
    "first_seen": "2026-09-19",
@@ -56607,6 +56806,36 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 20
+   }
+  },
+  {
+   "repo": "JourniOne-ai/JourniOne-Planning-Skills",
+   "url": "https://github.com/JourniOne-ai/JourniOne-Planning-Skills",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 802,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-09-16",
+   "stars_per_day_lifetime": 30.85,
+   "topics": [
+    "agent-skills",
+    "ai-agent",
+    "itinerary",
+    "journione",
+    "travel-journal",
+    "travel-planning"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 75
    }
   },
   {
@@ -60520,6 +60749,42 @@
    }
   },
   {
+   "repo": "yasewang1337-svg/winutil-cn",
+   "url": "https://github.com/yasewang1337-svg/winutil-cn",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 566,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "PowerShell",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-06-15",
+   "stars_per_day_lifetime": 4.76,
+   "topics": [
+    "chinese",
+    "chinese-localization",
+    "debloat",
+    "i18n",
+    "localization",
+    "package-manager",
+    "powershell",
+    "system-maintenance",
+    "windows",
+    "windows-10",
+    "windows-11",
+    "windows-utility"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 66,
+    "position": 16
+   }
+  },
+  {
    "repo": "Spark-To-Paper-Skills/spark-to-paper-skills",
    "url": "https://github.com/Spark-To-Paper-Skills/spark-to-paper-skills",
    "first_seen": "2026-08-14",
@@ -64212,6 +64477,33 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 97
+   }
+  },
+  {
+   "repo": "VanGong1999/screen-creative-skills",
+   "url": "https://github.com/VanGong1999/screen-creative-skills",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 449,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-12",
+   "created_at": "2026-01-10",
+   "stars_per_day_lifetime": 1.63,
+   "topics": [
+    "agents",
+    "ai",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
    }
   },
   {
@@ -68339,6 +68631,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 67
+   }
+  },
+  {
+   "repo": "Folkbench/folkbench",
+   "url": "https://github.com/Folkbench/folkbench",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 335,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Rust",
+   "pushed_at": "2026-10-12",
+   "created_at": "2026-10-02",
+   "stars_per_day_lifetime": 33.5,
+   "topics": [
+    "ai",
+    "api-relay",
+    "api-relay-pricing",
+    "benchmark",
+    "benchmarks",
+    "claude",
+    "claude-code",
+    "codex",
+    "folkbench",
+    "llm",
+    "model-evaluation",
+    "openai-api"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-07-14",
+    "sort": "stars",
+    "query_breadth": 19,
+    "position": 7
    }
   },
   {
@@ -75251,6 +75579,40 @@
    }
   },
   {
+   "repo": "charlie947/motion-graphics-skills",
+   "url": "https://github.com/charlie947/motion-graphics-skills",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 217,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Shell",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-09-26",
+   "stars_per_day_lifetime": 13.56,
+   "topics": [
+    "agent-skills",
+    "ai-marketing",
+    "animation",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "hyperframes",
+    "motion-graphics",
+    "video"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 91
+   }
+  },
+  {
    "repo": "kitze/skillbox",
    "url": "https://github.com/kitze/skillbox",
    "first_seen": "2026-09-21",
@@ -77564,6 +77926,35 @@
    }
   },
   {
+   "repo": "yexi-by/dsh-unrestricted",
+   "url": "https://github.com/yexi-by/dsh-unrestricted",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 203,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-09",
+   "created_at": "2026-08-22",
+   "stars_per_day_lifetime": 3.98,
+   "topics": [
+    "deepseek-harness",
+    "dsh",
+    "plugin",
+    "prompt-engineering",
+    "typescript"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-14",
+    "sort": "stars",
+    "query_breadth": 77,
+    "position": 74
+   }
+  },
+  {
    "repo": "yilujian/easy-writing",
    "url": "https://github.com/yilujian/easy-writing",
    "first_seen": "2026-09-03",
@@ -79375,6 +79766,34 @@
     "sort": "stars",
     "query_breadth": 19,
     "position": 15
+   }
+  },
+  {
+   "repo": "wenziai/wenzi-xiaohongshu-workflow",
+   "url": "https://github.com/wenziai/wenzi-xiaohongshu-workflow",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 170,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-12",
+   "created_at": "2026-09-30",
+   "stars_per_day_lifetime": 14.17,
+   "topics": [
+    "agent-skills",
+    "codex-skills",
+    "content-creation",
+    "workbuddy",
+    "xiaohongshu"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "topic:xiaohongshu stars:>100",
+    "sort": "stars",
+    "query_breadth": 72,
+    "position": 56
    }
   },
   {
@@ -82146,6 +82565,28 @@
     "sort": "stars",
     "query_breadth": 51,
     "position": 48
+   }
+  },
+  {
+   "repo": "NotIntoSports/RoleAI",
+   "url": "https://github.com/NotIntoSports/RoleAI",
+   "first_seen": "2026-10-12",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-12",
+   "stars": 108,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-10-12",
+   "created_at": "2026-08-11",
+   "stars_per_day_lifetime": 1.74,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-14",
+    "sort": "stars",
+    "query_breadth": 30,
+    "position": 29
    }
   },
   {
@@ -86797,7 +87238,7 @@
    }
   }
  ],
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "status_enum": [
   "pending",
   "debated",
