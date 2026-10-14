@@ -12462,6 +12462,27 @@
    }
   },
   {
+   "repo": "zhuima/awesome-cloudflare",
+   "url": "https://github.com/zhuima/awesome-cloudflare",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 15530,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-13",
+   "created_at": "2024-04-07",
+   "stars_per_day_lifetime": 16.88,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 56
+   }
+  },
+  {
    "repo": "google/skills",
    "url": "https://github.com/google/skills",
    "first_seen": "2026-08-01",
@@ -16058,6 +16079,42 @@
     "sort": "stars",
     "query_breadth": 19,
     "position": 1
+   }
+  },
+  {
+   "repo": "trailhq/Trail-Code",
+   "url": "https://github.com/trailhq/Trail-Code",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 9977,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-13",
+   "created_at": "2026-07-03",
+   "stars_per_day_lifetime": 96.86,
+   "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "code-graph",
+    "codex",
+    "context-engineering",
+    "cursor",
+    "developer-tools",
+    "gemini",
+    "knowledge-graph",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-09-14",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 40
    }
   },
   {
@@ -23308,6 +23365,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 20
+   }
+  },
+  {
+   "repo": "Jakubantalik/transitions.dev",
+   "url": "https://github.com/Jakubantalik/transitions.dev",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 5239,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "HTML",
+   "pushed_at": "2026-10-13",
+   "created_at": "2026-04-21",
+   "stars_per_day_lifetime": 29.77,
+   "topics": [
+    "design",
+    "motion",
+    "motionskill",
+    "product",
+    "skill",
+    "ui-design",
+    "ux",
+    "ux-design"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "agent skill in:name,description stars:>300 pushed:>2026-07-16",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 98
    }
   },
   {
@@ -53656,6 +53745,32 @@
    }
   },
   {
+   "repo": "wxxxcxx/ms-ra-forwarder",
+   "url": "https://github.com/wxxxcxx/ms-ra-forwarder",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 1059,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-13",
+   "created_at": "2022-01-08",
+   "stars_per_day_lifetime": 0.61,
+   "topics": [
+    "tts",
+    "tts-api"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-07-16",
+    "sort": "stars",
+    "query_breadth": 39,
+    "position": 12
+   }
+  },
+  {
    "repo": "leezythu/maoxuan-skill",
    "url": "https://github.com/leezythu/maoxuan-skill",
    "first_seen": "2026-08-20",
@@ -55305,6 +55420,36 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 49
+   }
+  },
+  {
+   "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+   "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 966,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-10-13",
+   "stars_per_day_lifetime": 966.0,
+   "topics": [
+    "agent-skill",
+    "comfyui",
+    "image-generation",
+    "openclaw",
+    "pose-control",
+    "qwen-image"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-16",
+    "sort": "stars",
+    "query_breadth": 77,
+    "position": 24
    }
   },
   {
@@ -68919,6 +69064,28 @@
    }
   },
   {
+   "repo": "neutree-ai/openapi-to-skills",
+   "url": "https://github.com/neutree-ai/openapi-to-skills",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 342,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-01-24",
+   "stars_per_day_lifetime": 1.3,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 15
+   }
+  },
+  {
    "repo": "zenstory-ai/oh-story-dsh",
    "url": "https://github.com/zenstory-ai/oh-story-dsh",
    "first_seen": "2026-09-14",
@@ -70612,6 +70779,42 @@
    }
   },
   {
+   "repo": "sno-ai/sno-station-skills",
+   "url": "https://github.com/sno-ai/sno-station-skills",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 311,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Shell",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-10-01",
+   "stars_per_day_lifetime": 23.92,
+   "topics": [
+    "agent-handoff",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "claude-code-skills",
+    "code-review",
+    "codex",
+    "codex-skills",
+    "coding-agents",
+    "developer-tools",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
+   }
+  },
+  {
    "repo": "realasfngl/Grok-Api",
    "url": "https://github.com/realasfngl/Grok-Api",
    "first_seen": "2026-08-19",
@@ -71202,6 +71405,34 @@
     "sort": "stars",
     "query_breadth": 6,
     "position": 5
+   }
+  },
+  {
+   "repo": "DexZane/awesome-web-prompts",
+   "url": "https://github.com/DexZane/awesome-web-prompts",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 301,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-07-02",
+   "stars_per_day_lifetime": 2.89,
+   "topics": [
+    "awsome",
+    "awsome-lists",
+    "design",
+    "web"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "prompts in:name stars:>300 pushed:>2026-09-14",
+    "sort": "updated",
+    "query_breadth": 29,
+    "position": 15
    }
   },
   {
@@ -81772,6 +82003,40 @@
    }
   },
   {
+   "repo": "honwee/mynah",
+   "url": "https://github.com/honwee/mynah",
+   "first_seen": "2026-10-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-14",
+   "stars": 134,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-10-12",
+   "created_at": "2026-10-07",
+   "stars_per_day_lifetime": 19.14,
+   "topics": [
+    "asr",
+    "avatar",
+    "digital-human",
+    "golang",
+    "lip-sync",
+    "musetalk",
+    "realtime",
+    "self-hosted",
+    "tts",
+    "webrtc"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-16",
+    "sort": "stars",
+    "query_breadth": 31,
+    "position": 24
+   }
+  },
+  {
    "repo": "ylw1997/touchFish",
    "url": "https://github.com/ylw1997/touchFish",
    "first_seen": "2026-07-30",
@@ -87839,7 +88104,7 @@
    }
   }
  ],
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "status_enum": [
   "pending",
   "debated",
