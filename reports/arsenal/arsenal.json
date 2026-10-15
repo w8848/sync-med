@@ -36739,6 +36739,37 @@
    }
   },
   {
+   "repo": "1c7/Translate-Subtitle-File",
+   "url": "https://github.com/1c7/Translate-Subtitle-File",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 2633,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-15",
+   "created_at": "2017-12-17",
+   "stars_per_day_lifetime": 0.82,
+   "topics": [
+    "ass",
+    "captions",
+    "desktop-app",
+    "electron",
+    "srt",
+    "subtitle",
+    "vtt",
+    "vuejs"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "大模型 in:name,description stars:>1000 pushed:>2026-09-15",
+    "sort": "stars",
+    "query_breadth": 53,
+    "position": 29
+   }
+  },
+  {
    "repo": "spider-rs/spider",
    "url": "https://github.com/spider-rs/spider",
    "first_seen": "2026-07-30",
@@ -38755,6 +38786,39 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 85
+   }
+  },
+  {
+   "repo": "bherbruck/solidcraft",
+   "url": "https://github.com/bherbruck/solidcraft",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 2460,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-10-15",
+   "created_at": "2026-10-07",
+   "stars_per_day_lifetime": 307.5,
+   "topics": [
+    "3d-modeling",
+    "brep",
+    "cad",
+    "egui",
+    "mcp",
+    "parametric-cad",
+    "rust",
+    "step",
+    "wasm"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 7
    }
   },
   {
@@ -42739,6 +42803,39 @@
    }
   },
   {
+   "repo": "onehumanbeing/esp32-iphone-agent",
+   "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 2152,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "C",
+   "pushed_at": "2026-10-15",
+   "created_at": "2026-10-11",
+   "stars_per_day_lifetime": 538.0,
+   "topics": [
+    "ai-agent",
+    "airplay",
+    "automation",
+    "computer-use",
+    "esp32",
+    "esp32-s3",
+    "iphone",
+    "llm",
+    "usb-hid"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 28
+   }
+  },
+  {
    "repo": "NVIDIA-NeMo/DataDesigner",
    "url": "https://github.com/NVIDIA-NeMo/DataDesigner",
    "first_seen": "2026-08-05",
@@ -43516,6 +43613,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 65
+   }
+  },
+  {
+   "repo": "Anil-matcha/open-agent-email",
+   "url": "https://github.com/Anil-matcha/open-agent-email",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 2092,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-15",
+   "created_at": "2023-05-05",
+   "stars_per_day_lifetime": 1.66,
+   "topics": [
+    "agent-email",
+    "agentic-ai",
+    "ai-agents",
+    "aws-ses",
+    "developer-tools",
+    "email-api",
+    "email-automation",
+    "email-infrastructure",
+    "fastapi",
+    "human-in-the-loop",
+    "imap",
+    "mcp"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 43
    }
   },
   {
@@ -55351,6 +55484,42 @@
    }
   },
   {
+   "repo": "Bhanunamikaze/Agentic-SEO-Skill",
+   "url": "https://github.com/Bhanunamikaze/Agentic-SEO-Skill",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 969,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-03-02",
+   "stars_per_day_lifetime": 4.27,
+   "topics": [
+    "ai-skill",
+    "ai-skills",
+    "antigravity-ai",
+    "antigravity-skills",
+    "antigravity-tools",
+    "claude-skill",
+    "claude-skills",
+    "codex-skill",
+    "codex-skills",
+    "seo",
+    "seo-optimization",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 87
+   }
+  },
+  {
    "repo": "sunchaokun/PPT-Design-Skill",
    "url": "https://github.com/sunchaokun/PPT-Design-Skill",
    "first_seen": "2026-08-26",
@@ -56455,6 +56624,28 @@
     "sort": "stars",
     "query_breadth": 11,
     "position": 4
+   }
+  },
+  {
+   "repo": "thedivergentai/Game-Dev-Agentic-Skills",
+   "url": "https://github.com/thedivergentai/Game-Dev-Agentic-Skills",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 854,
+   "license": "LGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "GDScript",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-02-07",
+   "stars_per_day_lifetime": 3.42,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 78
    }
   },
   {
@@ -71884,6 +72075,28 @@
    }
   },
   {
+   "repo": "jtydhr88/comfyui-custom-node-skills",
+   "url": "https://github.com/jtydhr88/comfyui-custom-node-skills",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 298,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-03-05",
+   "stars_per_day_lifetime": 1.33,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 55
+   }
+  },
+  {
    "repo": "kerpopule/hermes-jev-skills",
    "url": "https://github.com/kerpopule/hermes-jev-skills",
    "first_seen": "2026-09-21",
@@ -73055,6 +73268,28 @@
    }
   },
   {
+   "repo": "yunshenwuchuxun/latex-paper-skills",
+   "url": "https://github.com/yunshenwuchuxun/latex-paper-skills",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 269,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TeX",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-03-18",
+   "stars_per_day_lifetime": 1.27,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 93
+   }
+  },
+  {
    "repo": "oxbshw/watch-skill",
    "url": "https://github.com/oxbshw/watch-skill",
    "first_seen": "2026-08-09",
@@ -73708,6 +73943,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 40
+   }
+  },
+  {
+   "repo": "mit-han-lab/ncu-report-skill",
+   "url": "https://github.com/mit-han-lab/ncu-report-skill",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 256,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-04-13",
+   "stars_per_day_lifetime": 1.38,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
    }
   },
   {
@@ -74529,6 +74786,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 12
+   }
+  },
+  {
+   "repo": "skillmds/skillmd",
+   "url": "https://github.com/skillmds/skillmd",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 241,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-08-25",
+   "stars_per_day_lifetime": 4.73,
+   "topics": [
+    "agent-skills",
+    "agent-skills-registry",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "lint",
+    "mcp",
+    "model-context-protocol",
+    "sarif"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 86
    }
   },
   {
@@ -77958,6 +78251,34 @@
    }
   },
   {
+   "repo": "heygen-com/hyperframes-community-skills",
+   "url": "https://github.com/heygen-com/hyperframes-community-skills",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 206,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-08-25",
+   "stars_per_day_lifetime": 4.04,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "hyperframes",
+    "video-automation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 70
+   }
+  },
+  {
    "repo": "jasonbitsmith/muse-skills",
    "url": "https://github.com/jasonbitsmith/muse-skills",
    "first_seen": "2026-10-07",
@@ -79506,6 +79827,28 @@
     "sort": "stars",
     "query_breadth": 65,
     "position": 64
+   }
+  },
+  {
+   "repo": "resend/resend-skills",
+   "url": "https://github.com/resend/resend-skills",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-01-20",
+   "stars_per_day_lifetime": 0.75,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 33
    }
   },
   {
@@ -85581,6 +85924,27 @@
    }
   },
   {
+   "repo": "kirito8/free-newapi",
+   "url": "https://github.com/kirito8/free-newapi",
+   "first_seen": "2026-10-15",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-15",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-15",
+   "created_at": "2026-09-04",
+   "stars_per_day_lifetime": 2.46,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-07-17",
+    "sort": "stars",
+    "query_breadth": 20,
+    "position": 19
+   }
+  },
+  {
    "repo": "oy8jfpo2qa8075/qwenimage3.0-qwen-image-3.0-api-cn",
    "url": "https://github.com/oy8jfpo2qa8075/qwenimage3.0-qwen-image-3.0-api-cn",
    "first_seen": "2026-09-30",
@@ -88104,7 +88468,7 @@
    }
   }
  ],
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "status_enum": [
   "pending",
   "debated",
