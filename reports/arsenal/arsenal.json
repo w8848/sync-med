@@ -6580,6 +6580,42 @@
    }
   },
   {
+   "repo": "DayuanJiang/next-ai-draw-io",
+   "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 36266,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-16",
+   "created_at": "2025-03-23",
+   "stars_per_day_lifetime": 63.4,
+   "topics": [
+    "ai",
+    "architecture-diagram",
+    "claude-code",
+    "diagram-generator",
+    "diagrams",
+    "draw-io",
+    "drawio",
+    "electron",
+    "flowchart",
+    "llm",
+    "mcp",
+    "mcp-server"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 2
+   }
+  },
+  {
    "repo": "PDFMathTranslate/PDFMathTranslate",
    "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
    "first_seen": "2026-08-19",
@@ -16910,6 +16946,35 @@
    }
   },
   {
+   "repo": "davidsonfellipe/awesome-wpo",
+   "url": "https://github.com/davidsonfellipe/awesome-wpo",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 9121,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-16",
+   "created_at": "2014-10-14",
+   "stars_per_day_lifetime": 2.08,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "list",
+    "webperf",
+    "webperf-metrics",
+    "webperformance"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 6
+   }
+  },
+  {
    "repo": "zhouxiaoka/autoclip",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "first_seen": "2026-10-02",
@@ -18655,6 +18720,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 84
+   }
+  },
+  {
+   "repo": "flyteorg/flyte",
+   "url": "https://github.com/flyteorg/flyte",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 7706,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-10-16",
+   "created_at": "2019-10-21",
+   "stars_per_day_lifetime": 3.02,
+   "topics": [
+    "agent-runtime",
+    "agents",
+    "ai-runtime",
+    "kubernetes-cluster",
+    "machine-learning",
+    "mcp",
+    "mlops",
+    "model-serving",
+    "model-training",
+    "python",
+    "reinforcement-learning",
+    "scale"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 68
    }
   },
   {
@@ -42767,6 +42868,42 @@
    }
   },
   {
+   "repo": "kaomei/stickman-video-director",
+   "url": "https://github.com/kaomei/stickman-video-director",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 2155,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-15",
+   "created_at": "2026-08-03",
+   "stars_per_day_lifetime": 29.12,
+   "topics": [
+    "agent-skills",
+    "ai-animation",
+    "ai-video",
+    "animation-prompts",
+    "codex-skill",
+    "content-creation",
+    "gemini",
+    "google-flow",
+    "stick-figure-animation",
+    "stickman-animation",
+    "storyboard",
+    "video-prompts"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:content-creation stars:>1000 pushed:>2026-07-18",
+    "sort": "stars",
+    "query_breadth": 16,
+    "position": 10
+   }
+  },
+  {
    "repo": "ScrapeCreators/social-media-research-skills",
    "url": "https://github.com/ScrapeCreators/social-media-research-skills",
    "first_seen": "2026-09-08",
@@ -43829,6 +43966,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 42
+   }
+  },
+  {
+   "repo": "brabadu/awesome-fonts",
+   "url": "https://github.com/brabadu/awesome-fonts",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 2083,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-15",
+   "created_at": "2015-01-10",
+   "stars_per_day_lifetime": 0.48,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "fonts",
+    "free-fonts",
+    "google-fonts",
+    "icon-font",
+    "list",
+    "programming-fonts"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
    }
   },
   {
@@ -44916,6 +45084,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 28
+   }
+  },
+  {
+   "repo": "vonzosten/awesome-LangGraph",
+   "url": "https://github.com/vonzosten/awesome-LangGraph",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 2025,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-15",
+   "created_at": "2024-11-02",
+   "stars_per_day_lifetime": 2.84,
+   "topics": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llm-agents"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 44
    }
   },
   {
@@ -70201,6 +70400,28 @@
    }
   },
   {
+   "repo": "knoxgraeme/skillfish",
+   "url": "https://github.com/knoxgraeme/skillfish",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 324,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-15",
+   "created_at": "2026-01-21",
+   "stars_per_day_lifetime": 1.21,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 47
+   }
+  },
+  {
    "repo": "suki0dayo/AI_film_studio",
    "url": "https://github.com/suki0dayo/AI_film_studio",
    "first_seen": "2026-08-25",
@@ -71155,6 +71376,34 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 57
+   }
+  },
+  {
+   "repo": "NanmiCoder/open-image-prompts",
+   "url": "https://github.com/NanmiCoder/open-image-prompts",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 306,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-16",
+   "created_at": "2026-07-23",
+   "stars_per_day_lifetime": 3.6,
+   "topics": [
+    "image-skill",
+    "imagesprompts",
+    "open-image-prompts",
+    "openimages"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "prompts in:name stars:>300 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 32,
+    "position": 7
    }
   },
   {
@@ -72465,6 +72714,42 @@
    }
   },
   {
+   "repo": "Licoy/Quosparr",
+   "url": "https://github.com/Licoy/Quosparr",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 289,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Go",
+   "pushed_at": "2026-10-16",
+   "created_at": "2026-06-29",
+   "stars_per_day_lifetime": 2.65,
+   "topics": [
+    "anthropic",
+    "chatgpt",
+    "claude-code",
+    "codex-reset",
+    "developer-tools",
+    "grok",
+    "grok-build",
+    "linux",
+    "macos",
+    "menu-bar",
+    "openai",
+    "openai-codex"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-07-18",
+    "sort": "stars",
+    "query_breadth": 21,
+    "position": 9
+   }
+  },
+  {
    "repo": "tianjiangqiji/nova-image-studio",
    "url": "https://github.com/tianjiangqiji/nova-image-studio",
    "first_seen": "2026-08-10",
@@ -72865,6 +73150,38 @@
     "query": "RAG 知识库 in:name,description stars:>200",
     "sort": "stars",
     "query_breadth": 18,
+    "position": 14
+   }
+  },
+  {
+   "repo": "xjli360/sealeap-amazon-skills",
+   "url": "https://github.com/xjli360/sealeap-amazon-skills",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 278,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-16",
+   "created_at": "2026-08-21",
+   "stars_per_day_lifetime": 4.96,
+   "topics": [
+    "advertising",
+    "agent-skills",
+    "ai-agents",
+    "amazon-ads",
+    "amazon-seller",
+    "codex",
+    "ecommerce",
+    "marketing-automation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-16",
+    "sort": "updated",
+    "query_breadth": 100,
     "position": 14
    }
   },
@@ -80608,6 +80925,37 @@
    }
   },
   {
+   "repo": "coflyn/Mori",
+   "url": "https://github.com/coflyn/Mori",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 177,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-15",
+   "created_at": "2026-04-10",
+   "stars_per_day_lifetime": 0.94,
+   "topics": [
+    "capacitor",
+    "client-side",
+    "downloader",
+    "mori",
+    "scraper",
+    "social-media",
+    "tauri"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 40,
+    "position": 34
+   }
+  },
+  {
    "repo": "lonerge/xhs-auto",
    "url": "https://github.com/lonerge/xhs-auto",
    "first_seen": "2026-07-29",
@@ -85543,6 +85891,28 @@
    }
   },
   {
+   "repo": "LycheeAILab/avatar-forge",
+   "url": "https://github.com/LycheeAILab/avatar-forge",
+   "first_seen": "2026-10-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-16",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-10",
+   "created_at": "2026-08-12",
+   "stars_per_day_lifetime": 1.55,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-18",
+    "sort": "stars",
+    "query_breadth": 32,
+    "position": 31
+   }
+  },
+  {
    "repo": "MoFox-Studio/Neo-MoFox",
    "url": "https://github.com/MoFox-Studio/Neo-MoFox",
    "first_seen": "2026-09-03",
@@ -88468,7 +88838,7 @@
    }
   }
  ],
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "status_enum": [
   "pending",
   "debated",
