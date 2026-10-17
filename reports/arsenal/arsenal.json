@@ -32761,6 +32761,42 @@
    }
   },
   {
+   "repo": "textbee/textbee",
+   "url": "https://github.com/textbee/textbee",
+   "first_seen": "2026-10-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-17",
+   "stars": 3178,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-16",
+   "created_at": "2022-03-18",
+   "stars_per_day_lifetime": 1.9,
+   "topics": [
+    "android",
+    "android-sms",
+    "android-sms-gateway",
+    "android-sms-sender",
+    "api",
+    "foss",
+    "gateway",
+    "mcp-server",
+    "open-source",
+    "self-hosted",
+    "send-sms",
+    "sim"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-09-17",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 91
+   }
+  },
+  {
    "repo": "FireRedTeam/FireRed-OpenStoryline",
    "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
    "first_seen": "2026-07-31",
@@ -44579,6 +44615,40 @@
    }
   },
   {
+   "repo": "zereight/gitlab-mcp",
+   "url": "https://github.com/zereight/gitlab-mcp",
+   "first_seen": "2026-10-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-17",
+   "stars": 2047,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-17",
+   "created_at": "2025-02-11",
+   "stars_per_day_lifetime": 3.34,
+   "topics": [
+    "ai",
+    "claude",
+    "cursor",
+    "devtools",
+    "gitlab",
+    "gitlab-api",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 19
+   }
+  },
+  {
    "repo": "lessweb/deepcode-cli",
    "url": "https://github.com/lessweb/deepcode-cli",
    "first_seen": "2026-08-02",
@@ -50330,6 +50400,28 @@
     "sort": "stars",
     "query_breadth": 55,
     "position": 43
+   }
+  },
+  {
+   "repo": "FANzR-arch/Numerologist_skills",
+   "url": "https://github.com/FANzR-arch/Numerologist_skills",
+   "first_seen": "2026-10-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-17",
+   "stars": 1444,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-16",
+   "created_at": "2026-03-25",
+   "stars_per_day_lifetime": 7.01,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 78
    }
   },
   {
@@ -70400,6 +70492,37 @@
    }
   },
   {
+   "repo": "BeamusWayne/simp-skill",
+   "url": "https://github.com/BeamusWayne/simp-skill",
+   "first_seen": "2026-10-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-17",
+   "stars": 324,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-16",
+   "created_at": "2026-04-05",
+   "stars_per_day_lifetime": 1.66,
+   "topics": [
+    "anthropic",
+    "chinese",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "dating",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 59
+   }
+  },
+  {
    "repo": "knoxgraeme/skillfish",
    "url": "https://github.com/knoxgraeme/skillfish",
    "first_seen": "2026-10-16",
@@ -75597,6 +75720,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 39
+   }
+  },
+  {
+   "repo": "xgwangdl/AI-Interview",
+   "url": "https://github.com/xgwangdl/AI-Interview",
+   "first_seen": "2026-10-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-17",
+   "stars": 234,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Java",
+   "pushed_at": "2026-10-17",
+   "created_at": "2025-02-18",
+   "stars_per_day_lifetime": 0.39,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-19",
+    "sort": "stars",
+    "query_breadth": 33,
+    "position": 22
    }
   },
   {
@@ -88838,7 +88983,7 @@
    }
   }
  ],
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "status_enum": [
   "pending",
   "debated",
