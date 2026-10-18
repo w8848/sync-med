@@ -16946,6 +16946,28 @@
    }
   },
   {
+   "repo": "eze-is/web-access",
+   "url": "https://github.com/eze-is/web-access",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 9168,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-03-18",
+   "stars_per_day_lifetime": 42.84,
+   "found_by": {
+    "dimension": "category",
+    "query": "agent skill in:name,description stars:>300 pushed:>2026-07-20",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 61
+   }
+  },
+  {
    "repo": "davidsonfellipe/awesome-wpo",
    "url": "https://github.com/davidsonfellipe/awesome-wpo",
    "first_seen": "2026-10-16",
@@ -21287,6 +21309,42 @@
     "sort": "stars",
     "query_breadth": 14,
     "position": 1
+   }
+  },
+  {
+   "repo": "wiltodelta/remove-ai-watermarks",
+   "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 6042,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-18",
+   "created_at": "2026-03-25",
+   "stars_per_day_lifetime": 29.19,
+   "topics": [
+    "agent-skill",
+    "ai-watermark",
+    "c2pa",
+    "cli",
+    "comfyui",
+    "content-credentials",
+    "exif",
+    "gemini",
+    "gemini-watermark-remover",
+    "generative-ai",
+    "image-processing",
+    "metadata"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "agent skill in:name,description stars:>300 pushed:>2026-07-20",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 93
    }
   },
   {
@@ -37311,6 +37369,35 @@
    }
   },
   {
+   "repo": "jetpack-compose/jetpack-compose-awesome",
+   "url": "https://github.com/jetpack-compose/jetpack-compose-awesome",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 2606,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Kotlin",
+   "pushed_at": "2026-10-18",
+   "created_at": "2020-09-23",
+   "stars_per_day_lifetime": 1.18,
+   "topics": [
+    "android",
+    "android-jetpack",
+    "awesome",
+    "jetpack-compose",
+    "kotlin"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
+   }
+  },
+  {
    "repo": "mikalv/awesome-qt-qml",
    "url": "https://github.com/mikalv/awesome-qt-qml",
    "first_seen": "2026-09-02",
@@ -38679,6 +38766,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 78
+   }
+  },
+  {
+   "repo": "iFurySt/open-computer-use",
+   "url": "https://github.com/iFurySt/open-computer-use",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 2486,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Swift",
+   "pushed_at": "2026-10-18",
+   "created_at": "2026-04-17",
+   "stars_per_day_lifetime": 13.51,
+   "topics": [
+    "accessibility",
+    "ai-agent",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "codex-computer-use",
+    "computer-use",
+    "computer-use-agent",
+    "cross-platform",
+    "cua",
+    "desktop-automation",
+    "gemini-cli"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
    }
   },
   {
@@ -47953,6 +48076,35 @@
    }
   },
   {
+   "repo": "mylxsw/aidea-server",
+   "url": "https://github.com/mylxsw/aidea-server",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 1765,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Go",
+   "pushed_at": "2026-10-18",
+   "created_at": "2023-08-30",
+   "stars_per_day_lifetime": 1.54,
+   "topics": [
+    "ai",
+    "chatgpt",
+    "gpt",
+    "llm",
+    "stable-diffusion"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "大模型 in:name,description stars:>1000 pushed:>2026-09-18",
+    "sort": "stars",
+    "query_breadth": 53,
+    "position": 42
+   }
+  },
+  {
    "repo": "justlovemaki/CloudFlare-AI-Insight-Daily",
    "url": "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily",
    "first_seen": "2026-07-31",
@@ -50710,6 +50862,27 @@
     "sort": "stars",
     "query_breadth": 57,
     "position": 47
+   }
+  },
+  {
+   "repo": "truongduy2611/app-store-preflight-skills",
+   "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 1389,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-17",
+   "created_at": "2026-03-19",
+   "stars_per_day_lifetime": 6.52,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 64
    }
   },
   {
@@ -56250,6 +56423,32 @@
    }
   },
   {
+   "repo": "cporter202/automate-for-growth",
+   "url": "https://github.com/cporter202/automate-for-growth",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 914,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-17",
+   "created_at": "2025-12-05",
+   "stars_per_day_lifetime": 2.88,
+   "topics": [
+    "ai-learning",
+    "ai-learning-resource",
+    "social-media-automation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "content automation in:name,description stars:>500 pushed:>2026-07-20",
+    "sort": "stars",
+    "query_breadth": 4,
+    "position": 2
+   }
+  },
+  {
    "repo": "alchaincyf/steve-jobs-skill",
    "url": "https://github.com/alchaincyf/steve-jobs-skill",
    "first_seen": "2026-07-26",
@@ -60514,6 +60713,41 @@
    }
   },
   {
+   "repo": "shanliuling/dsh-image-gen",
+   "url": "https://github.com/shanliuling/dsh-image-gen",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 625,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-15",
+   "created_at": "2026-08-17",
+   "stars_per_day_lifetime": 10.08,
+   "topics": [
+    "ai-agent",
+    "ai-image-generation-api",
+    "comfyui",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "gemini",
+    "image-generation",
+    "openai",
+    "prompt-library",
+    "seedream"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-20",
+    "sort": "stars",
+    "query_breadth": 80,
+    "position": 41
+   }
+  },
+  {
    "repo": "jackwener/xhs-cli",
    "url": "https://github.com/jackwener/xhs-cli",
    "first_seen": "2026-07-27",
@@ -64139,6 +64373,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 91
+   }
+  },
+  {
+   "repo": "yjz211/vivid-illustration-skill",
+   "url": "https://github.com/yjz211/vivid-illustration-skill",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 493,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-10-17",
+   "created_at": "2026-09-10",
+   "stars_per_day_lifetime": 12.97,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 69
    }
   },
   {
@@ -69863,6 +70119,27 @@
    }
   },
   {
+   "repo": "LMIXR/CV_Deployment_skill",
+   "url": "https://github.com/LMIXR/CV_Deployment_skill",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 334,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-17",
+   "created_at": "2026-09-29",
+   "stars_per_day_lifetime": 17.58,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 72
+   }
+  },
+  {
    "repo": "pixijs/pixijs-skills",
    "url": "https://github.com/pixijs/pixijs-skills",
    "first_seen": "2026-09-18",
@@ -71593,6 +71870,42 @@
     "sort": "stars",
     "query_breadth": 22,
     "position": 21
+   }
+  },
+  {
+   "repo": "hanzohanzhe/Grandet",
+   "url": "https://github.com/hanzohanzhe/Grandet",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 305,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-18",
+   "created_at": "2026-10-05",
+   "stars_per_day_lifetime": 23.46,
+   "topics": [
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "api-credits",
+    "api-pricing",
+    "api-relay",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "free-api",
+    "free-tier",
+    "llm"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:free-api stars:>300 pushed:>2026-07-20",
+    "sort": "stars",
+    "query_breadth": 14,
+    "position": 13
    }
   },
   {
@@ -75905,6 +76218,41 @@
    }
   },
   {
+   "repo": "SnowSky1/universal-imagegen-agent",
+   "url": "https://github.com/SnowSky1/universal-imagegen-agent",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 230,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-09-24",
+   "stars_per_day_lifetime": 9.58,
+   "topics": [
+    "ai-agent",
+    "codex",
+    "image-generation",
+    "nodejs",
+    "npm",
+    "npm-package",
+    "openai-compatible",
+    "pnpm",
+    "prompt-engineering",
+    "qwen-image",
+    "skill"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-20",
+    "sort": "stars",
+    "query_breadth": 80,
+    "position": 75
+   }
+  },
+  {
    "repo": "EverMind-AI/SkillCorpus",
    "url": "https://github.com/EverMind-AI/SkillCorpus",
    "first_seen": "2026-08-27",
@@ -76677,6 +77025,28 @@
     "sort": "stars",
     "query_breadth": 64,
     "position": 60
+   }
+  },
+  {
+   "repo": "backtrue/thinkwithblack-skill",
+   "url": "https://github.com/backtrue/thinkwithblack-skill",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 220,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-18",
+   "created_at": "2026-10-09",
+   "stars_per_day_lifetime": 24.44,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 2
    }
   },
   {
@@ -77798,6 +78168,35 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 93
+   }
+  },
+  {
+   "repo": "MichengAI/dsh-skills-manager",
+   "url": "https://github.com/MichengAI/dsh-skills-manager",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 211,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-18",
+   "created_at": "2026-08-15",
+   "stars_per_day_lifetime": 3.3,
+   "topics": [
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
    }
   },
   {
@@ -85201,6 +85600,42 @@
    }
   },
   {
+   "repo": "wh000wh000/awesome-claude-mods",
+   "url": "https://github.com/wh000wh000/awesome-claude-mods",
+   "first_seen": "2026-10-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-18",
+   "stars": 104,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-10-17",
+   "created_at": "2026-10-04",
+   "stars_per_day_lifetime": 7.43,
+   "topics": [
+    "anthropic",
+    "awesome",
+    "awesome-list",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-mods",
+    "cordis",
+    "developer-tools",
+    "hooks",
+    "mods",
+    "plugins"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 40,
+    "position": 39
+   }
+  },
+  {
    "repo": "BadKid90s/Spreado",
    "url": "https://github.com/BadKid90s/Spreado",
    "first_seen": "2026-08-02",
@@ -88983,7 +89418,7 @@
    }
   }
  ],
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "status_enum": [
   "pending",
   "debated",
