@@ -3870,6 +3870,42 @@
    }
   },
   {
+   "repo": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 100026,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-21",
+   "created_at": "2026-03-17",
+   "stars_per_day_lifetime": 458.83,
+   "topics": [
+    "ade",
+    "agent-ide",
+    "ai-agents",
+    "automation",
+    "bot",
+    "claude-code",
+    "codex",
+    "ghostty",
+    "grok-bot",
+    "hermes-agent",
+    "mobile-app",
+    "muse"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 0
+   }
+  },
+  {
    "repo": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "first_seen": "2026-08-01",
@@ -17352,6 +17388,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 32
+   }
+  },
+  {
+   "repo": "homarr-labs/dashboard-icons",
+   "url": "https://github.com/homarr-labs/dashboard-icons",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 8897,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-20",
+   "created_at": "2022-08-16",
+   "stars_per_day_lifetime": 5.83,
+   "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "dashboard",
+    "dashboard-icons",
+    "dashy",
+    "docker",
+    "heimdall",
+    "homarr",
+    "homepage",
+    "homer",
+    "icons"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-09-21",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 45
    }
   },
   {
@@ -32365,6 +32437,41 @@
    }
   },
   {
+   "repo": "pawelborkar/awesome-repos",
+   "url": "https://github.com/pawelborkar/awesome-repos",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 3281,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-20",
+   "created_at": "2021-04-08",
+   "stars_per_day_lifetime": 1.62,
+   "topics": [
+    "awesome",
+    "awesome-repos",
+    "awesome-repositories",
+    "free",
+    "github",
+    "github-repos",
+    "hacktoberfest",
+    "hacktoberfest-accepted",
+    "hacktorberfest",
+    "repos",
+    "repositories",
+    "resources"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 44
+   }
+  },
+  {
    "repo": "shiyutim/tickets",
    "url": "https://github.com/shiyutim/tickets",
    "first_seen": "2026-09-14",
@@ -34120,6 +34227,38 @@
    }
   },
   {
+   "repo": "endymecy/awesome-deeplearning-resources",
+   "url": "https://github.com/endymecy/awesome-deeplearning-resources",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 3030,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-21",
+   "created_at": "2016-11-28",
+   "stars_per_day_lifetime": 0.84,
+   "topics": [
+    "code",
+    "corpus",
+    "deep-learning",
+    "modelzoo",
+    "neural-network",
+    "nlp",
+    "paper",
+    "reinforcement-learning",
+    "video"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 6
+   }
+  },
+  {
    "repo": "jslee02/awesome-robotics-libraries",
    "url": "https://github.com/jslee02/awesome-robotics-libraries",
    "first_seen": "2026-08-26",
@@ -35491,6 +35630,34 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 97
+   }
+  },
+  {
+   "repo": "editor-js/awesome-editorjs",
+   "url": "https://github.com/editor-js/awesome-editorjs",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 2878,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-20",
+   "created_at": "2020-06-10",
+   "stars_per_day_lifetime": 1.24,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "editorjs",
+    "libraries",
+    "tools"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
    }
   },
   {
@@ -54341,6 +54508,32 @@
    }
   },
   {
+   "repo": "JoasASantos/REA-Prompts",
+   "url": "https://github.com/JoasASantos/REA-Prompts",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 1091,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-21",
+   "created_at": "2026-10-19",
+   "stars_per_day_lifetime": 545.5,
+   "topics": [
+    "prompt-engineering",
+    "rea",
+    "reverse-enginnering"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "prompts in:name stars:>300 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 33,
+    "position": 8
+   }
+  },
+  {
    "repo": "KroMiose/nekro-agent",
    "url": "https://github.com/KroMiose/nekro-agent",
    "first_seen": "2026-08-15",
@@ -55657,6 +55850,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 14
+   }
+  },
+  {
+   "repo": "agentic-community/mcp-gateway-registry",
+   "url": "https://github.com/agentic-community/mcp-gateway-registry",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 1003,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-21",
+   "created_at": "2025-05-29",
+   "stars_per_day_lifetime": 1.97,
+   "topics": [
+    "a2a",
+    "agentic-ai",
+    "agents",
+    "ans",
+    "documentdb",
+    "ecs",
+    "ecs-fargate",
+    "entra-id",
+    "fgac",
+    "mcp",
+    "mcp-gateway",
+    "mcp-registry"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 33
    }
   },
   {
@@ -57967,6 +58196,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 20
+   }
+  },
+  {
+   "repo": "metasequoiaime/chinese-ime-lm",
+   "url": "https://github.com/metasequoiaime/chinese-ime-lm",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 825,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Rust",
+   "pushed_at": "2026-10-20",
+   "created_at": "2025-11-14",
+   "stars_per_day_lifetime": 2.42,
+   "topics": [
+    "chinese",
+    "corpus",
+    "ime",
+    "input-method",
+    "language-model",
+    "n-gram",
+    "nlp",
+    "pinyin"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 71,
+    "position": 29
    }
   },
   {
@@ -62055,6 +62316,34 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 57
+   }
+  },
+  {
+   "repo": "crossoverJie/SkillDeck",
+   "url": "https://github.com/crossoverJie/SkillDeck",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 582,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Swift",
+   "pushed_at": "2026-10-21",
+   "created_at": "2026-02-11",
+   "stars_per_day_lifetime": 2.31,
+   "topics": [
+    "ai",
+    "macos",
+    "macos-app",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 20
    }
   },
   {
@@ -77075,6 +77364,36 @@
    }
   },
   {
+   "repo": "c3cvld7aag/fujiang-dsh",
+   "url": "https://github.com/c3cvld7aag/fujiang-dsh",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 228,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-03",
+   "created_at": "2026-10-03",
+   "stars_per_day_lifetime": 12.67,
+   "topics": [
+    "custom-prompt",
+    "dsh",
+    "dsh-plugin",
+    "fujiang",
+    "fujiang-pojia",
+    "windows"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-23",
+    "sort": "stars",
+    "query_breadth": 81,
+    "position": 75
+   }
+  },
+  {
    "repo": "h4dex/opc-nexus",
    "url": "https://github.com/h4dex/opc-nexus",
    "first_seen": "2026-08-16",
@@ -78781,6 +79100,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 35
+   }
+  },
+  {
+   "repo": "garycaogan/ai-live-avatar",
+   "url": "https://github.com/garycaogan/ai-live-avatar",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 212,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-19",
+   "created_at": "2026-10-19",
+   "stars_per_day_lifetime": 106.0,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-23",
+    "sort": "stars",
+    "query_breadth": 34,
+    "position": 22
    }
   },
   {
@@ -86701,6 +87042,35 @@
    }
   },
   {
+   "repo": "beiyege-01/clouddh-share",
+   "url": "https://github.com/beiyege-01/clouddh-share",
+   "first_seen": "2026-10-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-21",
+   "stars": 103,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "pushed_at": "2026-10-05",
+   "created_at": "2026-09-11",
+   "stars_per_day_lifetime": 2.58,
+   "topics": [
+    "digital-human",
+    "nuitka",
+    "vidu",
+    "voice-assistant",
+    "webview2",
+    "windows"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-23",
+    "sort": "stars",
+    "query_breadth": 34,
+    "position": 33
+   }
+  },
+  {
    "repo": "beiyege-01/dsh-voice-ai-girlfriend",
    "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend",
    "first_seen": "2026-09-19",
@@ -90358,7 +90728,7 @@
    }
   }
  ],
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "status_enum": [
   "pending",
   "debated",
