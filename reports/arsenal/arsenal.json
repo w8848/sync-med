@@ -25038,6 +25038,42 @@
    }
   },
   {
+   "repo": "aipotheosis-labs/aci",
+   "url": "https://github.com/aipotheosis-labs/aci",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 4921,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-23",
+   "created_at": "2024-09-19",
+   "stars_per_day_lifetime": 6.43,
+   "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "api",
+    "developer-tools",
+    "function-calling",
+    "integration",
+    "llm",
+    "mcp",
+    "oauth2",
+    "open-source",
+    "permissions"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 63
+   }
+  },
+  {
    "repo": "wangzhe3224/awesome-systematic-trading",
    "url": "https://github.com/wangzhe3224/awesome-systematic-trading",
    "first_seen": "2026-08-15",
@@ -25524,6 +25560,33 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 43
+   }
+  },
+  {
+   "repo": "dustinspecker/awesome-eslint",
+   "url": "https://github.com/dustinspecker/awesome-eslint",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 4770,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-24",
+   "created_at": "2015-10-30",
+   "stars_per_day_lifetime": 1.19,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "eslint",
+    "list"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
    }
   },
   {
@@ -33843,6 +33906,33 @@
    }
   },
   {
+   "repo": "ocaml-community/awesome-ocaml",
+   "url": "https://github.com/ocaml-community/awesome-ocaml",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 3126,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-23",
+   "created_at": "2014-07-24",
+   "stars_per_day_lifetime": 0.7,
+   "topics": [
+    "awesome",
+    "ocaml",
+    "programming-language",
+    "resources"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 42
+   }
+  },
+  {
    "repo": "cirosantilli/china-dictatorship",
    "url": "https://github.com/cirosantilli/china-dictatorship",
    "first_seen": "2026-07-26",
@@ -35528,6 +35618,33 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 69
+   }
+  },
+  {
+   "repo": "dictcp/awesome-git",
+   "url": "https://github.com/dictcp/awesome-git",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 2960,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-23",
+   "created_at": "2015-08-20",
+   "stars_per_day_lifetime": 0.72,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "git"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 54
    }
   },
   {
@@ -44974,6 +45091,42 @@
    }
   },
   {
+   "repo": "ShenSeanChen/waku-agent",
+   "url": "https://github.com/ShenSeanChen/waku-agent",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 2089,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-23",
+   "created_at": "2026-07-10",
+   "stars_per_day_lifetime": 19.71,
+   "topics": [
+    "agent-framework",
+    "ai-agent",
+    "ai-assistant",
+    "claude",
+    "evals",
+    "llm",
+    "llmops",
+    "local-first",
+    "openai",
+    "personal-assistant",
+    "python",
+    "sqlite"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 54
+   }
+  },
+  {
    "repo": "Owl-Listener/designer-skills",
    "url": "https://github.com/Owl-Listener/designer-skills",
    "first_seen": "2026-08-17",
@@ -46122,6 +46275,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 29
+   }
+  },
+  {
+   "repo": "Derpyu520/qq-bridge",
+   "url": "https://github.com/Derpyu520/qq-bridge",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 2036,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-22",
+   "created_at": "2026-08-25",
+   "stars_per_day_lifetime": 33.93,
+   "topics": [
+    "ai-agent",
+    "chatbot",
+    "deepseek-harness",
+    "dsh",
+    "onebot",
+    "qq-bot",
+    "snowluma"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 99
    }
   },
   {
@@ -52001,6 +52185,42 @@
    }
   },
   {
+   "repo": "ollaya-dev/ollaya",
+   "url": "https://github.com/ollaya-dev/ollaya",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 1388,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-10-24",
+   "created_at": "2026-09-23",
+   "stars_per_day_lifetime": 44.77,
+   "topics": [
+    "calibration",
+    "decision-model",
+    "decision-models",
+    "inference-server",
+    "jev",
+    "jev-alternative",
+    "jev-compatible",
+    "laya",
+    "llama-cpp",
+    "local-inference",
+    "mcp-server",
+    "model-serving"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 14
+   }
+  },
+  {
    "repo": "myhub/tr",
    "url": "https://github.com/myhub/tr",
    "first_seen": "2026-10-11",
@@ -52497,6 +52717,33 @@
     "sort": "stars",
     "query_breadth": 44,
     "position": 8
+   }
+  },
+  {
+   "repo": "utkusen/sast-skills",
+   "url": "https://github.com/utkusen/sast-skills",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 1345,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-23",
+   "created_at": "2026-03-30",
+   "stars_per_day_lifetime": 6.47,
+   "topics": [
+    "ai-security",
+    "claude",
+    "claude-code",
+    "sast"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 83
    }
   },
   {
@@ -55118,6 +55365,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 50
+   }
+  },
+  {
+   "repo": "instructa/ai-prompts",
+   "url": "https://github.com/instructa/ai-prompts",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 1102,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-17",
+   "created_at": "2025-02-12",
+   "stars_per_day_lifetime": 1.78,
+   "topics": [
+    "agent",
+    "ai-agent",
+    "ai-prompts",
+    "cline",
+    "copilot",
+    "cursor",
+    "cursor-ai",
+    "github-copilot",
+    "prompting",
+    "prompts",
+    "windsurf"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "prompts in:name stars:>300 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 33,
+    "position": 16
    }
   },
   {
@@ -74907,6 +75189,28 @@
    }
   },
   {
+   "repo": "hoodini/ai-agents-skills",
+   "url": "https://github.com/hoodini/ai-agents-skills",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 290,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-23",
+   "created_at": "2026-01-07",
+   "stars_per_day_lifetime": 1.0,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-24",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 81
+   }
+  },
+  {
    "repo": "oh-my-dsh/dsh-plugin-upgrade-skill",
    "url": "https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill",
    "first_seen": "2026-10-19",
@@ -77828,6 +78132,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 81
+   }
+  },
+  {
+   "repo": "yunyuyuan/nuxt-blog",
+   "url": "https://github.com/yunyuyuan/nuxt-blog",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 236,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-23",
+   "created_at": "2021-10-24",
+   "stars_per_day_lifetime": 0.13,
+   "topics": [
+    "nuxt",
+    "nuxt3",
+    "serverless-functions",
+    "static-blog",
+    "typescript",
+    "vercel",
+    "vue",
+    "vue3"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-07-26",
+    "sort": "stars",
+    "query_breadth": 39,
+    "position": 27
    }
   },
   {
@@ -82139,6 +82475,27 @@
     "sort": "stars",
     "query_breadth": 51,
     "position": 50
+   }
+  },
+  {
+   "repo": "YD-233/kimi-break",
+   "url": "https://github.com/YD-233/kimi-break",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 202,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-19",
+   "created_at": "2026-08-17",
+   "stars_per_day_lifetime": 2.97,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-26",
+    "sort": "stars",
+    "query_breadth": 84,
+    "position": 83
    }
   },
   {
@@ -86851,6 +87208,40 @@
    }
   },
   {
+   "repo": "jaikydota/BullFlow",
+   "url": "https://github.com/jaikydota/BullFlow",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 110,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-14",
+   "created_at": "2026-10-14",
+   "stars_per_day_lifetime": 11.0,
+   "topics": [
+    "ai-agents",
+    "bge-m3",
+    "content-generation",
+    "elasticsearch",
+    "knowledge-base",
+    "langgraph",
+    "milvus",
+    "multi-tenant",
+    "rag",
+    "social-media-marketing"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "自动 发布 in:name,description stars:>100 pushed:>2026-07-26",
+    "sort": "stars",
+    "query_breadth": 27,
+    "position": 26
+   }
+  },
+  {
    "repo": "qq6865373/qsyapi",
    "url": "https://github.com/qq6865373/qsyapi",
    "first_seen": "2026-08-07",
@@ -89226,6 +89617,42 @@
    }
   },
   {
+   "repo": "juneix/EmbyX",
+   "url": "https://github.com/juneix/EmbyX",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-10-23",
+   "created_at": "2025-11-20",
+   "stars_per_day_lifetime": 0.3,
+   "topics": [
+    "docker",
+    "emby",
+    "emby-client",
+    "instagram",
+    "jellyfin",
+    "jellyfin-client",
+    "local-first",
+    "media-player",
+    "nas",
+    "self-hosted",
+    "tiktok",
+    "twitter"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-26",
+    "sort": "stars",
+    "query_breadth": 56,
+    "position": 55
+   }
+  },
+  {
    "repo": "k6hdkoe76rybli/flux2-flux-2-api-cn",
    "url": "https://github.com/k6hdkoe76rybli/flux2-flux-2-api-cn",
    "first_seen": "2026-09-30",
@@ -90682,6 +91109,28 @@
    }
   },
   {
+   "repo": "jiaotuke/ziping-shushu",
+   "url": "https://github.com/jiaotuke/ziping-shushu",
+   "first_seen": "2026-10-24",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-24",
+   "stars": 31,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-23",
+   "created_at": "2026-10-22",
+   "stars_per_day_lifetime": 15.5,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "古籍 in:name,description stars:>20",
+    "sort": "stars",
+    "query_breadth": 48,
+    "position": 40
+   }
+  },
+  {
    "repo": "anon-research-tools/intelligent-ocr",
    "url": "https://github.com/anon-research-tools/intelligent-ocr",
    "first_seen": "2026-08-06",
@@ -91876,7 +92325,7 @@
    }
   }
  ],
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "status_enum": [
   "pending",
   "debated",
