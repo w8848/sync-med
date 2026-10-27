@@ -29156,6 +29156,40 @@
    }
   },
   {
+   "repo": "dkozlov/awesome-knowledge-distillation",
+   "url": "https://github.com/dkozlov/awesome-knowledge-distillation",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 3916,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-26",
+   "created_at": "2017-02-28",
+   "stars_per_day_lifetime": 1.11,
+   "topics": [
+    "co-training",
+    "deep-learning",
+    "distillation",
+    "distillation-model",
+    "kd",
+    "knowldge-distillation",
+    "knowledge-distillation",
+    "knowledge-transfer",
+    "model-compression",
+    "model-distillation",
+    "teacher-student"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-09-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 51
+   }
+  },
+  {
    "repo": "marmelab/awesome-rest",
    "url": "https://github.com/marmelab/awesome-rest",
    "first_seen": "2026-09-24",
@@ -46044,6 +46078,40 @@
    }
   },
   {
+   "repo": "Nexting-ai/nexting",
+   "url": "https://github.com/Nexting-ai/nexting",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 2056,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "C",
+   "pushed_at": "2026-10-26",
+   "created_at": "2026-03-10",
+   "stars_per_day_lifetime": 8.9,
+   "topics": [
+    "agent-remote-control",
+    "ai-agent",
+    "ai-wearable",
+    "claude-code",
+    "codex",
+    "hardware",
+    "nrf52840",
+    "openclaw",
+    "remote-control",
+    "wearable"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 79
+   }
+  },
+  {
    "repo": "zereight/gitlab-mcp",
    "url": "https://github.com/zereight/gitlab-mcp",
    "first_seen": "2026-10-17",
@@ -53545,6 +53613,42 @@
    }
   },
   {
+   "repo": "SamurAIGPT/postiz-cheap",
+   "url": "https://github.com/SamurAIGPT/postiz-cheap",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 1273,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-26",
+   "created_at": "2023-05-19",
+   "stars_per_day_lifetime": 1.01,
+   "topics": [
+    "ai",
+    "ai-content-generation",
+    "content-calendar",
+    "content-scheduling",
+    "facebook",
+    "free",
+    "instagram",
+    "linkedin",
+    "nextjs",
+    "open-source",
+    "pinterest",
+    "postiz-alternative"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:social-media-automation stars:>300 pushed:>2026-07-29",
+    "sort": "stars",
+    "query_breadth": 7,
+    "position": 4
+   }
+  },
+  {
    "repo": "sceneview/sceneview",
    "url": "https://github.com/sceneview/sceneview",
    "first_seen": "2026-08-02",
@@ -57892,6 +57996,28 @@
     "sort": "stars",
     "query_breadth": 77,
     "position": 24
+   }
+  },
+  {
+   "repo": "ailabx/agilab",
+   "url": "https://github.com/ailabx/agilab",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 965,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-10-26",
+   "created_at": "2017-12-10",
+   "stars_per_day_lifetime": 0.3,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 67
    }
   },
   {
@@ -66312,6 +66438,39 @@
    }
   },
   {
+   "repo": "helloianneo/awesome-claude-code-skills",
+   "url": "https://github.com/helloianneo/awesome-claude-code-skills",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 499,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-27",
+   "created_at": "2026-04-13",
+   "stars_per_day_lifetime": 2.53,
+   "topics": [
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "claude",
+    "claude-code",
+    "cursor",
+    "design",
+    "developer-tools",
+    "frontend",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "ZeroPointRepo/youtube-skills",
    "url": "https://github.com/ZeroPointRepo/youtube-skills",
    "first_seen": "2026-08-10",
@@ -68545,6 +68704,28 @@
     "sort": "stars",
     "query_breadth": 13,
     "position": 7
+   }
+  },
+  {
+   "repo": "briiirussell/cybersecurity-skills",
+   "url": "https://github.com/briiirussell/cybersecurity-skills",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 435,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-27",
+   "created_at": "2026-03-13",
+   "stars_per_day_lifetime": 1.91,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 13
    }
   },
   {
@@ -80082,6 +80263,27 @@
    }
   },
   {
+   "repo": "OpenZeppelin/openzeppelin-skills",
+   "url": "https://github.com/OpenZeppelin/openzeppelin-skills",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 219,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "pushed_at": "2026-10-26",
+   "created_at": "2026-02-05",
+   "stars_per_day_lifetime": 0.83,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 80
+   }
+  },
+  {
    "repo": "akitaonrails/my-skills",
    "url": "https://github.com/akitaonrails/my-skills",
    "first_seen": "2026-10-11",
@@ -81837,6 +82039,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 92
+   }
+  },
+  {
+   "repo": "MOKEAIGC/MOKEAIGC-work-V017",
+   "url": "https://github.com/MOKEAIGC/MOKEAIGC-work-V017",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 207,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-11",
+   "created_at": "2026-07-26",
+   "stars_per_day_lifetime": 2.23,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-07-29",
+    "sort": "stars",
+    "query_breadth": 85,
+    "position": 84
    }
   },
   {
@@ -84519,6 +84742,28 @@
    }
   },
   {
+   "repo": "liangdabiao/whiteboard-teacher-video",
+   "url": "https://github.com/liangdabiao/whiteboard-teacher-video",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 179,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-10-26",
+   "created_at": "2026-10-16",
+   "stars_per_day_lifetime": 16.27,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-29",
+    "sort": "stars",
+    "query_breadth": 60,
+    "position": 45
+   }
+  },
+  {
    "repo": "LeiShi1313/Differential",
    "url": "https://github.com/LeiShi1313/Differential",
    "first_seen": "2026-08-02",
@@ -85033,6 +85278,37 @@
     "sort": "stars",
     "query_breadth": 72,
     "position": 56
+   }
+  },
+  {
+   "repo": "cyber-xiaoya/cyber-xiaoya-live",
+   "url": "https://github.com/cyber-xiaoya/cyber-xiaoya-live",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 169,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-10-24",
+   "created_at": "2026-10-24",
+   "stars_per_day_lifetime": 56.33,
+   "topics": [
+    "agpl",
+    "danmaku",
+    "digital-human",
+    "live-streaming",
+    "python",
+    "tts",
+    "vidu"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-07-29",
+    "sort": "stars",
+    "query_breadth": 35,
+    "position": 25
    }
   },
   {
@@ -85740,6 +86016,35 @@
     "sort": "stars",
     "query_breadth": 12,
     "position": 9
+   }
+  },
+  {
+   "repo": "Gaoyuan-0423/biomedical-paper-reader",
+   "url": "https://github.com/Gaoyuan-0423/biomedical-paper-reader",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 147,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-26",
+   "created_at": "2026-09-26",
+   "stars_per_day_lifetime": 4.74,
+   "topics": [
+    "agent-skills",
+    "biomedical",
+    "chinese",
+    "paper-reading",
+    "research-design"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 in:name,description stars:>50",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 55
    }
   },
   {
@@ -87471,6 +87776,42 @@
    }
   },
   {
+   "repo": "liuhaisi2026212-maker/taishang-laojun",
+   "url": "https://github.com/liuhaisi2026212-maker/taishang-laojun",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 115,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Markdown",
+   "pushed_at": "2026-10-27",
+   "created_at": "2026-10-22",
+   "stars_per_day_lifetime": 23.0,
+   "topics": [
+    "agent-skills",
+    "ai-writing",
+    "chinese",
+    "claude-skills",
+    "codex-skills",
+    "content-creation",
+    "copywriting",
+    "douyin",
+    "humanizer",
+    "prompt-engineering",
+    "short-video",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-29",
+    "sort": "stars",
+    "query_breadth": 60,
+    "position": 51
+   }
+  },
+  {
    "repo": "yichen-byte/medical-chatbot",
    "url": "https://github.com/yichen-byte/medical-chatbot",
    "first_seen": "2026-08-16",
@@ -87687,6 +88028,40 @@
     "sort": "stars",
     "query_breadth": 12,
     "position": 10
+   }
+  },
+  {
+   "repo": "xiazhuo123456789/vibe-knowledge-video",
+   "url": "https://github.com/xiazhuo123456789/vibe-knowledge-video",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 112,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-10-25",
+   "created_at": "2026-10-09",
+   "stars_per_day_lifetime": 6.22,
+   "topics": [
+    "ai-video",
+    "douyin",
+    "ffmpeg",
+    "html-canvas",
+    "knowledge-video",
+    "prompt-engineering",
+    "python",
+    "skill",
+    "typescript",
+    "video-generation"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-29",
+    "sort": "stars",
+    "query_breadth": 60,
+    "position": 53
    }
   },
   {
@@ -89036,6 +89411,42 @@
     "sort": "stars",
     "query_breadth": 40,
     "position": 39
+   }
+  },
+  {
+   "repo": "xianyu110/ecommerce-video-skills",
+   "url": "https://github.com/xianyu110/ecommerce-video-skills",
+   "first_seen": "2026-10-27",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-27",
+   "stars": 104,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-05",
+   "created_at": "2026-10-04",
+   "stars_per_day_lifetime": 4.52,
+   "topics": [
+    "agent-skills",
+    "ai-video",
+    "chinese",
+    "claude-skills",
+    "codex-skills",
+    "cursor",
+    "douyin",
+    "ecommerce",
+    "edge-tts",
+    "ffmpeg",
+    "short-video",
+    "tiktok-shop"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-07-29",
+    "sort": "stars",
+    "query_breadth": 60,
+    "position": 58
    }
   },
   {
@@ -93010,7 +93421,7 @@
    }
   }
  ],
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "status_enum": [
   "pending",
   "debated",
