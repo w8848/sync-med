@@ -12823,6 +12823,42 @@
    }
   },
   {
+   "repo": "liketrek/TREK",
+   "url": "https://github.com/liketrek/TREK",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 15232,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-29",
+   "created_at": "2026-03-19",
+   "stars_per_day_lifetime": 67.7,
+   "topics": [
+    "budget-tracker",
+    "collaborative",
+    "docker",
+    "itinerary",
+    "mcp-server",
+    "offline-first",
+    "open-source",
+    "openstreetmap",
+    "packing-list",
+    "pwa",
+    "real-time",
+    "self-hosted"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-09-30",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 31
+   }
+  },
+  {
    "repo": "public-api-lists/public-api-lists",
    "url": "https://github.com/public-api-lists/public-api-lists",
    "first_seen": "2026-07-26",
@@ -21645,6 +21681,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 18
+   }
+  },
+  {
+   "repo": "google/elephant-goldfish-model",
+   "url": "https://github.com/google/elephant-goldfish-model",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 6150,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-30",
+   "created_at": "2026-09-13",
+   "stars_per_day_lifetime": 130.85,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "antigravity",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "codex",
+    "codex-plugin",
+    "coding-agents",
+    "context-engineering",
+    "developer-tools",
+    "gemini"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "agent skill in:name,description stars:>300 pushed:>2026-08-01",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 95
    }
   },
   {
@@ -43379,6 +43451,42 @@
    }
   },
   {
+   "repo": "sandbox-quantum/switch",
+   "url": "https://github.com/sandbox-quantum/switch",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 2218,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-10-30",
+   "created_at": "2026-07-16",
+   "stars_per_day_lifetime": 20.92,
+   "topics": [
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "chatops",
+    "discord",
+    "langchain",
+    "mcp",
+    "microsoft-teams",
+    "multi-agent",
+    "open-source",
+    "openai",
+    "self-hosted"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-09-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
+   }
+  },
+  {
    "repo": "mgechev/skills-best-practices",
    "url": "https://github.com/mgechev/skills-best-practices",
    "first_seen": "2026-08-16",
@@ -47859,6 +47967,42 @@
    }
   },
   {
+   "repo": "Paca-AI/paca",
+   "url": "https://github.com/Paca-AI/paca",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 2002,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-10-30",
+   "created_at": "2026-03-20",
+   "stars_per_day_lifetime": 8.94,
+   "topics": [
+    "ai-agent",
+    "bdd",
+    "clickup-alternative",
+    "jira-alternative",
+    "mcp",
+    "open-source",
+    "openhands",
+    "project-management",
+    "scrum",
+    "scrumban",
+    "self-hosted",
+    "trello-alternative"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-09-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 19
+   }
+  },
+  {
    "repo": "ad-si/awesome-3d-printing",
    "url": "https://github.com/ad-si/awesome-3d-printing",
    "first_seen": "2026-10-08",
@@ -51945,6 +52089,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 64
+   }
+  },
+  {
+   "repo": "akfamily/aktools",
+   "url": "https://github.com/akfamily/aktools",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 1503,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-30",
+   "created_at": "2019-12-17",
+   "stars_per_day_lifetime": 0.6,
+   "topics": [
+    "ai-agent",
+    "akshare",
+    "claude",
+    "data-science",
+    "fastapi",
+    "financial-data",
+    "http-api",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "openapi",
+    "quant"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-09-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 7
    }
   },
   {
@@ -61680,6 +61860,40 @@
    }
   },
   {
+   "repo": "AnxForever/stylekit",
+   "url": "https://github.com/AnxForever/stylekit",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 719,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-29",
+   "created_at": "2026-02-01",
+   "stars_per_day_lifetime": 2.65,
+   "topics": [
+    "ai-frontend",
+    "ai-prompts",
+    "claude",
+    "cursor",
+    "design-system",
+    "design-tokens",
+    "mcp",
+    "prompt-engineering",
+    "ui-design",
+    "web-design"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-01",
+    "sort": "stars",
+    "query_breadth": 87,
+    "position": 44
+   }
+  },
+  {
    "repo": "liangdabiao/amazon-sorftime-research-MCP-skill",
    "url": "https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill",
    "first_seen": "2026-08-17",
@@ -62108,6 +62322,41 @@
     "sort": "stars",
     "query_breadth": 24,
     "position": 6
+   }
+  },
+  {
+   "repo": "Illyism/seo-skills",
+   "url": "https://github.com/Illyism/seo-skills",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 682,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-30",
+   "created_at": "2026-06-10",
+   "stars_per_day_lifetime": 4.8,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-seo",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "content-marketing",
+    "copywriting",
+    "cursor",
+    "generative-engine-optimization",
+    "keyword-research",
+    "link-building"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-09-30",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 5
    }
   },
   {
@@ -66877,6 +67126,42 @@
     "sort": "stars",
     "query_breadth": 20,
     "position": 16
+   }
+  },
+  {
+   "repo": "AIPMAndy/how-to-survive-unemployment",
+   "url": "https://github.com/AIPMAndy/how-to-survive-unemployment",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 500,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-10-30",
+   "created_at": "2026-10-09",
+   "stars_per_day_lifetime": 23.81,
+   "topics": [
+    "career",
+    "career-guide",
+    "checklist",
+    "china",
+    "china-policy",
+    "chinese-guide",
+    "handbook",
+    "hr",
+    "job-search",
+    "labor-law",
+    "laid-off",
+    "layoff"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 in:name,description stars:>50",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 29
    }
   },
   {
@@ -87458,6 +87743,35 @@
    }
   },
   {
+   "repo": "pyqdcyy123-byte/IP-Bot",
+   "url": "https://github.com/pyqdcyy123-byte/IP-Bot",
+   "first_seen": "2026-10-30",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-10-30",
+   "stars": 135,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-28",
+   "created_at": "2026-10-27",
+   "stars_per_day_lifetime": 45.0,
+   "topics": [
+    "digital-human",
+    "electron",
+    "speech-synthesis",
+    "video-generation",
+    "vue3"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-01",
+    "sort": "stars",
+    "query_breadth": 38,
+    "position": 28
+   }
+  },
+  {
    "repo": "qitry/Qimi-API",
    "url": "https://github.com/qitry/Qimi-API",
    "first_seen": "2026-08-03",
@@ -94218,7 +94532,7 @@
    }
   }
  ],
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "status_enum": [
   "pending",
   "debated",
