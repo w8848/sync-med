@@ -1017,6 +1017,41 @@
    }
   },
   {
+   "repo": "getify/You-Dont-Know-JS",
+   "url": "https://github.com/getify/You-Dont-Know-JS",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 184843,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "pushed_at": "2026-10-31",
+   "created_at": "2013-11-16",
+   "stars_per_day_lifetime": 39.05,
+   "topics": [
+    "async",
+    "book",
+    "book-series",
+    "closures",
+    "education",
+    "es2015",
+    "es6",
+    "javascript",
+    "learn-to-code",
+    "programming",
+    "prototypes",
+    "training-materials"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-10-02",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 59
+   }
+  },
+  {
    "repo": "yt-dlp/yt-dlp",
    "url": "https://github.com/yt-dlp/yt-dlp",
    "first_seen": "2026-08-05",
@@ -6423,6 +6458,36 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 81
+   }
+  },
+  {
+   "repo": "patchy631/ai-engineering-hub",
+   "url": "https://github.com/patchy631/ai-engineering-hub",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 39514,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Jupyter Notebook",
+   "pushed_at": "2026-11-01",
+   "created_at": "2024-10-21",
+   "stars_per_day_lifetime": 53.33,
+   "topics": [
+    "agents",
+    "ai",
+    "llms",
+    "machine-learning",
+    "mcp",
+    "rag"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-02",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 56
    }
   },
   {
@@ -19536,6 +19601,57 @@
     "sort": "updated",
     "query_breadth": 58,
     "position": 9
+   }
+  },
+  {
+   "repo": "agmmnn/awesome-blender",
+   "url": "https://github.com/agmmnn/awesome-blender",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 7541,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-31",
+   "created_at": "2020-01-19",
+   "stars_per_day_lifetime": 3.04,
+   "topics": [
+    "3d",
+    "3d-models",
+    "awesome",
+    "awesome-list",
+    "blender",
+    "blender-addon",
+    "list"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-02",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 30
+   }
+  },
+  {
+   "repo": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+   "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 7490,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-01",
+   "created_at": "2022-11-22",
+   "stars_per_day_lifetime": 5.2,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-02",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 5
    }
   },
   {
@@ -35219,6 +35335,38 @@
    }
   },
   {
+   "repo": "wangzan101/Mika",
+   "url": "https://github.com/wangzan101/Mika",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 3026,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Kotlin",
+   "pushed_at": "2026-11-01",
+   "created_at": "2026-10-29",
+   "stars_per_day_lifetime": 1008.67,
+   "topics": [
+    "accessibility",
+    "ai-agent",
+    "android",
+    "automation",
+    "jetpack-compose",
+    "kotlin",
+    "llm",
+    "mobile-agent"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-02",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 33
+   }
+  },
+  {
    "repo": "lirantal/awesome-nodejs-security",
    "url": "https://github.com/lirantal/awesome-nodejs-security",
    "first_seen": "2026-08-15",
@@ -44587,6 +44735,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 31
+   }
+  },
+  {
+   "repo": "LeoYeAI/agent-master-skills",
+   "url": "https://github.com/LeoYeAI/agent-master-skills",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 2168,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-01",
+   "created_at": "2026-03-02",
+   "stars_per_day_lifetime": 8.89,
+   "topics": [
+    "agent-skills",
+    "agentskills",
+    "ai-agent",
+    "ai-agents",
+    "anthropic-skills",
+    "claude-code",
+    "codex",
+    "curated",
+    "cursor",
+    "gemini-cli",
+    "hermes",
+    "myclaw"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 46,
+    "position": 20
    }
   },
   {
@@ -57950,6 +58134,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 2
+   }
+  },
+  {
+   "repo": "alexgaoth/awesome-reverse-engineered",
+   "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 1010,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-31",
+   "created_at": "2026-10-11",
+   "stars_per_day_lifetime": 48.1,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "claude-code",
+    "decompilation",
+    "file-formats",
+    "game-decompilation",
+    "game-preservation",
+    "hacktoberfest",
+    "home-assistant",
+    "interoperability"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-02",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 55
    }
   },
   {
@@ -75446,6 +75666,28 @@
    }
   },
   {
+   "repo": "futantan/agent-skills.md",
+   "url": "https://github.com/futantan/agent-skills.md",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 311,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-31",
+   "created_at": "2025-12-29",
+   "stars_per_day_lifetime": 1.01,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-02",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 65
+   }
+  },
+  {
    "repo": "kennyzir/7deer_skills",
    "url": "https://github.com/kennyzir/7deer_skills",
    "first_seen": "2026-09-08",
@@ -90409,6 +90651,36 @@
    }
   },
   {
+   "repo": "hey-yx/allparse",
+   "url": "https://github.com/hey-yx/allparse",
+   "first_seen": "2026-11-01",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-01",
+   "stars": 105,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-31",
+   "created_at": "2025-01-17",
+   "stars_per_day_lifetime": 0.16,
+   "topics": [
+    "api",
+    "douyin",
+    "kuaishou",
+    "parse-server",
+    "short-video",
+    "xiaohongshu"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "topic:xiaohongshu stars:>100",
+    "sort": "stars",
+    "query_breadth": 77,
+    "position": 76
+   }
+  },
+  {
    "repo": "jiahuiqu17/paper-signal",
    "url": "https://github.com/jiahuiqu17/paper-signal",
    "first_seen": "2026-08-27",
@@ -94920,7 +95192,7 @@
    }
   }
  ],
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "status_enum": [
   "pending",
   "debated",
