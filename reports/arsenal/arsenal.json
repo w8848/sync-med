@@ -3794,6 +3794,35 @@
    }
   },
   {
+   "repo": "pbakaus/impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 100785,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-11-02",
+   "created_at": "2025-11-16",
+   "stars_per_day_lifetime": 286.32,
+   "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 56
+   }
+  },
+  {
    "repo": "rasbt/LLMs-from-scratch",
    "url": "https://github.com/rasbt/LLMs-from-scratch",
    "first_seen": "2026-08-06",
@@ -11892,6 +11921,37 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 33
+   }
+  },
+  {
+   "repo": "emcie-co/parlant",
+   "url": "https://github.com/emcie-co/parlant",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 18318,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-02",
+   "created_at": "2024-02-15",
+   "stars_per_day_lifetime": 18.47,
+   "topics": [
+    "ai-agent",
+    "customer-experience",
+    "customer-service",
+    "customer-success",
+    "lead-generation",
+    "llm",
+    "python"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 62
    }
   },
   {
@@ -28839,6 +28899,33 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 0
+   }
+  },
+  {
+   "repo": "kakoni/awesome-healthcare",
+   "url": "https://github.com/kakoni/awesome-healthcare",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 4042,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-02",
+   "created_at": "2016-02-23",
+   "stars_per_day_lifetime": 1.03,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "health",
+    "list"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
    }
   },
   {
@@ -48149,6 +48236,40 @@
    }
   },
   {
+   "repo": "qybaihe/bla",
+   "url": "https://github.com/qybaihe/bla",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 2013,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-03",
+   "created_at": "2026-10-25",
+   "stars_per_day_lifetime": 223.67,
+   "topics": [
+    "adversarial-ai",
+    "claude-code",
+    "cursor",
+    "electron-security",
+    "llm-security",
+    "mcp",
+    "mcp-server",
+    "obfuscation",
+    "reverse-engineering",
+    "webassembly"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 89
+   }
+  },
+  {
    "repo": "Weizhena/Deep-Research-skills",
    "url": "https://github.com/Weizhena/Deep-Research-skills",
    "first_seen": "2026-08-25",
@@ -52863,6 +52984,28 @@
    }
   },
   {
+   "repo": "bbylw/ui-ux-pro-max-skill-cn",
+   "url": "https://github.com/bbylw/ui-ux-pro-max-skill-cn",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 1496,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Astro",
+   "pushed_at": "2026-11-02",
+   "created_at": "2026-01-01",
+   "stars_per_day_lifetime": 4.89,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 62
+   }
+  },
+  {
    "repo": "hashicorp/terraform-mcp-server",
    "url": "https://github.com/hashicorp/terraform-mcp-server",
    "first_seen": "2026-08-05",
@@ -53854,6 +53997,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 3
+   }
+  },
+  {
+   "repo": "vshulcz/deja-vu",
+   "url": "https://github.com/vshulcz/deja-vu",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 1376,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-11-03",
+   "created_at": "2026-07-14",
+   "stars_per_day_lifetime": 12.29,
+   "topics": [
+    "agent-memory",
+    "claude-code",
+    "claude-code-hooks",
+    "claude-code-memory",
+    "cline",
+    "codex",
+    "codex-memory",
+    "cursor",
+    "dsh-plugin",
+    "gemini-cli-extension",
+    "kimi-code",
+    "llm-memory"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 41
    }
   },
   {
@@ -57186,6 +57365,33 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 53
+   }
+  },
+  {
+   "repo": "jae-jae/fetcher-mcp",
+   "url": "https://github.com/jae-jae/fetcher-mcp",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 1087,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-03",
+   "created_at": "2025-03-19",
+   "stars_per_day_lifetime": 1.83,
+   "topics": [
+    "ai",
+    "mcp",
+    "playwright"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 34
    }
   },
   {
@@ -67320,6 +67526,42 @@
    }
   },
   {
+   "repo": "himovo/movo",
+   "url": "https://github.com/himovo/movo",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 511,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-11-03",
+   "created_at": "2026-09-01",
+   "stars_per_day_lifetime": 8.11,
+   "topics": [
+    "agent",
+    "ai-agents",
+    "brower-automation",
+    "dsh-plugin",
+    "enterprise-agents",
+    "mcp",
+    "movo",
+    "rag",
+    "skills",
+    "vibe-coding",
+    "workflow",
+    "workflow-automation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "content automation in:name,description stars:>500 pushed:>2026-08-05",
+    "sort": "stars",
+    "query_breadth": 5,
+    "position": 4
+   }
+  },
+  {
    "repo": "metasequoiaime/msime",
    "url": "https://github.com/metasequoiaime/msime",
    "first_seen": "2026-10-08",
@@ -76832,6 +77074,37 @@
    }
   },
   {
+   "repo": "openclimatefix/skillful_nowcasting",
+   "url": "https://github.com/openclimatefix/skillful_nowcasting",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 301,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-02",
+   "created_at": "2021-09-02",
+   "stars_per_day_lifetime": 0.16,
+   "topics": [
+    "gan",
+    "nowcasting",
+    "nowcasting-models",
+    "nowcasting-precipitation",
+    "pytorch",
+    "pytorch-implementation",
+    "pytorch-lightning"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 71
+   }
+  },
+  {
    "repo": "pnp/powerplatform-prompts",
    "url": "https://github.com/pnp/powerplatform-prompts",
    "first_seen": "2026-10-06",
@@ -78983,6 +79256,38 @@
     "sort": "stars",
     "query_breadth": 74,
     "position": 45
+   }
+  },
+  {
+   "repo": "aaitor/skill-video-studio",
+   "url": "https://github.com/aaitor/skill-video-studio",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 264,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-02",
+   "created_at": "2026-08-26",
+   "stars_per_day_lifetime": 3.83,
+   "topics": [
+    "agent-skills",
+    "agents",
+    "claude-code",
+    "devrel",
+    "ffmpeg",
+    "harness",
+    "playwright",
+    "video"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-04",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 68
    }
   },
   {
@@ -81182,6 +81487,34 @@
     "sort": "stars",
     "query_breadth": 80,
     "position": 75
+   }
+  },
+  {
+   "repo": "huaguoxingkong/dsh-prompt-rewriter",
+   "url": "https://github.com/huaguoxingkong/dsh-prompt-rewriter",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 230,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-02",
+   "created_at": "2026-10-28",
+   "stars_per_day_lifetime": 38.33,
+   "topics": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "prompt"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-05",
+    "sort": "stars",
+    "query_breadth": 88,
+    "position": 83
    }
   },
   {
@@ -85910,6 +86243,40 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 2
+   }
+  },
+  {
+   "repo": "abbosaliboev/free-ai-bible",
+   "url": "https://github.com/abbosaliboev/free-ai-bible",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-22",
+   "created_at": "2026-04-17",
+   "stars_per_day_lifetime": 1.0,
+   "topics": [
+    "ai-tools",
+    "api",
+    "artificial-intelligence",
+    "awesome-list",
+    "chatgpt-alternative",
+    "developer-tools",
+    "free",
+    "llm",
+    "machine-learning",
+    "open-source"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "free llm api in:name,description stars:>200 pushed:>2026-08-05",
+    "sort": "stars",
+    "query_breadth": 16,
+    "position": 15
    }
   },
   {
@@ -90773,6 +91140,42 @@
     "sort": "stars",
     "query_breadth": 69,
     "position": 64
+   }
+  },
+  {
+   "repo": "duyunzhoudyz/dyz-med-paper-skills",
+   "url": "https://github.com/duyunzhoudyz/dyz-med-paper-skills",
+   "first_seen": "2026-11-03",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-03",
+   "stars": 107,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-11-01",
+   "created_at": "2026-11-01",
+   "stars_per_day_lifetime": 53.5,
+   "topics": [
+    "academic-writing",
+    "agent-skills",
+    "ai-agents",
+    "biostatistics",
+    "claude-code",
+    "clinical-research",
+    "codex",
+    "literature-review",
+    "manuscript",
+    "medical-research",
+    "medical-writing",
+    "meta-analysis"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 in:name,description stars:>50",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 75
    }
   },
   {
@@ -95725,7 +96128,7 @@
    }
   }
  ],
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "status_enum": [
   "pending",
   "debated",
