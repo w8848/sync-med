@@ -12483,6 +12483,42 @@
    }
   },
   {
+   "repo": "a2ui-project/a2ui",
+   "url": "https://github.com/a2ui-project/a2ui",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 17001,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-07",
+   "created_at": "2025-09-24",
+   "stars_per_day_lifetime": 41.57,
+   "topics": [
+    "a2a",
+    "a2ui",
+    "agent",
+    "angular",
+    "flutter",
+    "generative-ui",
+    "jetpack-compose",
+    "lit",
+    "llm",
+    "mcp",
+    "react",
+    "swiftui"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 43
+   }
+  },
+  {
    "repo": "tashfeenahmed/freellmapi",
    "url": "https://github.com/tashfeenahmed/freellmapi",
    "first_seen": "2026-07-26",
@@ -21865,6 +21901,42 @@
    }
   },
   {
+   "repo": "Oldcircle/geo-sleuth",
+   "url": "https://github.com/Oldcircle/geo-sleuth",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 6329,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-05",
+   "created_at": "2026-09-18",
+   "stars_per_day_lifetime": 126.58,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-vision",
+    "cursor",
+    "gemini-cli",
+    "geoguessr",
+    "geoint",
+    "geolocation",
+    "github-copilot",
+    "image-geolocation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "agent skill in:name,description stars:>300 pushed:>2026-08-09",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 96
+   }
+  },
+  {
    "repo": "zotero-chinese/styles",
    "url": "https://github.com/zotero-chinese/styles",
    "first_seen": "2026-08-07",
@@ -23812,6 +23884,32 @@
     "sort": "updated",
     "query_breadth": 58,
     "position": 24
+   }
+  },
+  {
+   "repo": "hlmd/Postman-cn",
+   "url": "https://github.com/hlmd/Postman-cn",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 5611,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "PHP",
+   "pushed_at": "2026-11-06",
+   "created_at": "2020-05-21",
+   "stars_per_day_lifetime": 2.38,
+   "topics": [
+    "chinese",
+    "postman"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 86,
+    "position": 25
    }
   },
   {
@@ -26849,6 +26947,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 47
+   }
+  },
+  {
+   "repo": "ethanplusai/sellbird",
+   "url": "https://github.com/ethanplusai/sellbird",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 4645,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-03-12",
+   "stars_per_day_lifetime": 19.35,
+   "topics": [
+    "ai-agent",
+    "autonomous-agent",
+    "claude",
+    "claude-code",
+    "codex",
+    "cold-email",
+    "email-verification",
+    "harvey",
+    "lead-generation",
+    "outreach",
+    "prospecting",
+    "python"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 22
    }
   },
   {
@@ -48331,6 +48465,37 @@
    }
   },
   {
+   "repo": "freestylefly/WeChatBridge",
+   "url": "https://github.com/freestylefly/WeChatBridge",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 2032,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Swift",
+   "pushed_at": "2026-11-06",
+   "created_at": "2026-09-21",
+   "stars_per_day_lifetime": 43.23,
+   "topics": [
+    "ai-agent",
+    "chat-history",
+    "macos",
+    "obsidian",
+    "share-extension",
+    "swift",
+    "wechat"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 77
+   }
+  },
+  {
    "repo": "A9T9/RPA",
    "url": "https://github.com/A9T9/RPA",
    "first_seen": "2026-09-22",
@@ -48915,6 +49080,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 99
+   }
+  },
+  {
+   "repo": "magnologan/awesome-k8s-security",
+   "url": "https://github.com/magnologan/awesome-k8s-security",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 2008,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-06",
+   "created_at": "2020-07-06",
+   "stars_per_day_lifetime": 0.87,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 40
    }
   },
   {
@@ -59418,6 +59604,42 @@
    }
   },
   {
+   "repo": "DemonDamon/AgenticX",
+   "url": "https://github.com/DemonDamon/AgenticX",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 1003,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-07",
+   "created_at": "2024-03-15",
+   "stars_per_day_lifetime": 1.04,
+   "topics": [
+    "agent-framework",
+    "agentic-workflows",
+    "ai-agent",
+    "ai-orchestration",
+    "chatbot",
+    "desktop-app",
+    "electron",
+    "fastapi",
+    "graphrag",
+    "llm",
+    "mcp",
+    "multi-agent-system"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 4
+   }
+  },
+  {
    "repo": "SylphxAI/anymd",
    "url": "https://github.com/SylphxAI/anymd",
    "first_seen": "2026-10-01",
@@ -61360,6 +61582,42 @@
    }
   },
   {
+   "repo": "rshankras/claude-code-apple-skills",
+   "url": "https://github.com/rshankras/claude-code-apple-skills",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 867,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Swift",
+   "pushed_at": "2026-11-07",
+   "created_at": "2025-10-29",
+   "stars_per_day_lifetime": 2.32,
+   "topics": [
+    "agent-skills",
+    "ai-tools",
+    "anthropic",
+    "app-store",
+    "apple",
+    "aso",
+    "claude",
+    "claude-code",
+    "code-generation",
+    "developer-tools",
+    "indie-developer",
+    "ios"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
+   }
+  },
+  {
    "repo": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
    "first_seen": "2026-10-26",
@@ -61765,6 +62023,42 @@
     "sort": "stars",
     "query_breadth": 12,
     "position": 4
+   }
+  },
+  {
+   "repo": "arnabbagxd/Brand-building-skills",
+   "url": "https://github.com/arnabbagxd/Brand-building-skills",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 843,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Shell",
+   "pushed_at": "2026-11-06",
+   "created_at": "2026-06-11",
+   "stars_per_day_lifetime": 5.66,
+   "topics": [
+    "brand-architecture",
+    "brand-audit",
+    "brand-guidelines",
+    "brand-identity",
+    "brand-launch",
+    "brand-messaging",
+    "brand-naming",
+    "brand-positioning-strategy",
+    "brand-strategy",
+    "brand-voice",
+    "branding",
+    "branding-assets"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 56
    }
   },
   {
@@ -63911,6 +64205,40 @@
     "sort": "stars",
     "query_breadth": 17,
     "position": 6
+   }
+  },
+  {
+   "repo": "liufuyou/read",
+   "url": "https://github.com/liufuyou/read",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 705,
+   "license": "CC-BY-SA-4.0",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-11-06",
+   "created_at": "2022-06-12",
+   "stars_per_day_lifetime": 0.44,
+   "topics": [
+    "android",
+    "book-source",
+    "chinese",
+    "ebook",
+    "legado",
+    "novel",
+    "reader",
+    "txt",
+    "webnovel",
+    "yuedu"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 86,
+    "position": 19
    }
   },
   {
@@ -70190,6 +70518,42 @@
    }
   },
   {
+   "repo": "JuneYaooo/teacher-to-skills",
+   "url": "https://github.com/JuneYaooo/teacher-to-skills",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 470,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-06-01",
+   "stars_per_day_lifetime": 2.96,
+   "topics": [
+    "agent-skills",
+    "ai-tutor",
+    "claude-code-skills",
+    "course-distillation",
+    "education-ai",
+    "knowledge-distillation",
+    "knowledge-distillation-task",
+    "knowledge-management",
+    "okf",
+    "okf-format",
+    "skills",
+    "teach-skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 33
+   }
+  },
+  {
    "repo": "zenstory-ai/video-recap-skills",
    "url": "https://github.com/zenstory-ai/video-recap-skills",
    "first_seen": "2026-08-25",
@@ -72621,6 +72985,37 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 51
+   }
+  },
+  {
+   "repo": "Ootto-AI/claude-content-skills",
+   "url": "https://github.com/Ootto-AI/claude-content-skills",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 406,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-06",
+   "created_at": "2026-06-14",
+   "stars_per_day_lifetime": 2.78,
+   "topics": [
+    "claude-code",
+    "claude-skills",
+    "content-marketing",
+    "instagram-reels",
+    "notebooklm",
+    "ootto",
+    "short-form-video"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 59
    }
   },
   {
@@ -82366,6 +82761,42 @@
    }
   },
   {
+   "repo": "yucezerey/turkish-anti-ai-skill",
+   "url": "https://github.com/yucezerey/turkish-anti-ai-skill",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 234,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-06",
+   "created_at": "2026-11-05",
+   "stars_per_day_lifetime": 117.0,
+   "topics": [
+    "agent-skills",
+    "ai-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor-rules",
+    "de-slop",
+    "gemini-cli",
+    "humanizer",
+    "llm",
+    "prompt-engineering",
+    "tdk"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 50
+   }
+  },
+  {
    "repo": "yunyuyuan/nuxt3-blog",
    "url": "https://github.com/yunyuyuan/nuxt3-blog",
    "first_seen": "2026-08-02",
@@ -85551,6 +85982,28 @@
    }
   },
   {
+   "repo": "ChenShuo2004/cs-skills",
+   "url": "https://github.com/ChenShuo2004/cs-skills",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 207,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-05-25",
+   "stars_per_day_lifetime": 1.25,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
+   }
+  },
+  {
    "repo": "MOKEAIGC/MOKEAIGC-work-V017",
    "url": "https://github.com/MOKEAIGC/MOKEAIGC-work-V017",
    "first_seen": "2026-10-27",
@@ -87062,6 +87515,27 @@
    }
   },
   {
+   "repo": "shirachino/astrbot-persona-prompts",
+   "url": "https://github.com/shirachino/astrbot-persona-prompts",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 202,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-16",
+   "created_at": "2026-10-15",
+   "stars_per_day_lifetime": 8.78,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-09",
+    "sort": "stars",
+    "query_breadth": 89,
+    "position": 88
+   }
+  },
+  {
    "repo": "superhero-tech/superhero-skills",
    "url": "https://github.com/superhero-tech/superhero-skills",
    "first_seen": "2026-10-28",
@@ -87631,6 +88105,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 18
+   }
+  },
+  {
+   "repo": "pseudo-longinus/quant-buddy-skills",
+   "url": "https://github.com/pseudo-longinus/quant-buddy-skills",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 201,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-04-21",
+   "stars_per_day_lifetime": 1.0,
+   "topics": [
+    "a-share",
+    "agent-skills",
+    "backtesting",
+    "claude-code",
+    "cursor",
+    "factor-analysis",
+    "github-copilot",
+    "market-data",
+    "quant",
+    "quantbuddy",
+    "stock-market"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-08",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 10
    }
   },
   {
@@ -93768,6 +94277,36 @@
    }
   },
   {
+   "repo": "Songwo/zhiyu",
+   "url": "https://github.com/Songwo/zhiyu",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 102,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-06",
+   "created_at": "2026-09-04",
+   "stars_per_day_lifetime": 1.59,
+   "topics": [
+    "asset-management",
+    "desktop-app",
+    "electron",
+    "open-source",
+    "self-hosted",
+    "typescript"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-09",
+    "sort": "stars",
+    "query_breadth": 38,
+    "position": 36
+   }
+  },
+  {
    "repo": "ZhChessOvO/ZeLanChao_KGQA",
    "url": "https://github.com/ZhChessOvO/ZeLanChao_KGQA",
    "first_seen": "2026-08-18",
@@ -96084,6 +96623,41 @@
    }
   },
   {
+   "repo": "jangviktor-web/tcm-distiller",
+   "url": "https://github.com/jangviktor-web/tcm-distiller",
+   "first_seen": "2026-11-07",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-07",
+   "stars": 51,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-22",
+   "created_at": "2026-08-14",
+   "stars_per_day_lifetime": 0.6,
+   "topics": [
+    "agent-skills",
+    "ai-distillationagents",
+    "jingfang",
+    "llm-skills",
+    "medicine",
+    "nihaisha",
+    "nihaixia",
+    "tcm",
+    "tcm-distiller",
+    "traditional-chinese",
+    "zhongyi"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 in:name,description stars:>50",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 99
+   }
+  },
+  {
    "repo": "ssocean/AlphX-Code-For-DAR",
    "url": "https://github.com/ssocean/AlphX-Code-For-DAR",
    "first_seen": "2026-08-05",
@@ -97568,7 +98142,7 @@
    }
   }
  ],
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "status_enum": [
   "pending",
   "debated",
