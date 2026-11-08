@@ -617,6 +617,34 @@
    }
   },
   {
+   "repo": "ossu/computer-science",
+   "url": "https://github.com/ossu/computer-science",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 210952,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-07",
+   "created_at": "2014-05-04",
+   "stars_per_day_lifetime": 46.15,
+   "topics": [
+    "awesome-list",
+    "computer-science",
+    "courses",
+    "curriculum"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 69
+   }
+  },
+  {
    "repo": "n8n-io/n8n",
    "url": "https://github.com/n8n-io/n8n",
    "first_seen": "2026-07-26",
@@ -3826,6 +3854,42 @@
     "sort": "updated",
     "query_breadth": 99,
     "position": 52
+   }
+  },
+  {
+   "repo": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 101069,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-08",
+   "created_at": "2018-12-24",
+   "stars_per_day_lifetime": 35.14,
+   "topics": [
+    "cli",
+    "cti",
+    "cybersecurity",
+    "forensics",
+    "hacktoberfest",
+    "information-gathering",
+    "infosec",
+    "linux",
+    "osint",
+    "pentesting",
+    "python",
+    "python3"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 24
    }
   },
   {
@@ -17378,6 +17442,38 @@
    }
   },
   {
+   "repo": "troxler/awesome-css-frameworks",
+   "url": "https://github.com/troxler/awesome-css-frameworks",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 9585,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "CSS",
+   "pushed_at": "2026-11-07",
+   "created_at": "2017-09-01",
+   "stars_per_day_lifetime": 2.86,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "collection",
+    "css",
+    "css-framework",
+    "framework",
+    "list",
+    "scss"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 27
+   }
+  },
+  {
    "repo": "EKKOLearnAI/hermes-studio",
    "url": "https://github.com/EKKOLearnAI/hermes-studio",
    "first_seen": "2026-07-28",
@@ -22009,6 +22105,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 6
+   }
+  },
+  {
+   "repo": "ikaijua/awesome-ai-tools",
+   "url": "https://github.com/ikaijua/awesome-ai-tools",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 6279,
+   "license": "CC-BY-4.0",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-11-08",
+   "created_at": "2023-04-02",
+   "stars_per_day_lifetime": 4.77,
+   "topics": [
+    "agent-skills",
+    "agents",
+    "ai",
+    "ai-tools",
+    "artificial-intelligence",
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "chatgpt",
+    "claude",
+    "claude-skills",
+    "claudecode"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
    }
   },
   {
@@ -28902,6 +29034,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 28
+   }
+  },
+  {
+   "repo": "BryceYuuu/RUN",
+   "url": "https://github.com/BryceYuuu/RUN",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 4197,
+   "license": "CC-BY-SA-4.0",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-10-29",
+   "stars_per_day_lifetime": 419.7,
+   "topics": [
+    "china",
+    "chinese",
+    "digital-nomad",
+    "digital-nomad-visa",
+    "emigration",
+    "eu-blue-card",
+    "europe",
+    "expat",
+    "golden-visa",
+    "immigration",
+    "immigration-guide",
+    "relocation"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-10",
+    "sort": "stars",
+    "query_breadth": 37,
+    "position": 2
    }
   },
   {
@@ -41444,6 +41612,42 @@
    }
   },
   {
+   "repo": "digitalsamba/claude-code-video-toolkit",
+   "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 2480,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-08",
+   "created_at": "2025-12-09",
+   "stars_per_day_lifetime": 7.43,
+   "topics": [
+    "agent-skills",
+    "ai-video",
+    "ai-video-generator",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "elevenlabs",
+    "ltx-video",
+    "mcp",
+    "open-source",
+    "openclaw",
+    "playwright"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 77
+   }
+  },
+  {
    "repo": "TsinghuaC3I/Awesome-RL-for-LRMs",
    "url": "https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs",
    "first_seen": "2026-08-21",
@@ -48560,6 +48764,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 44
+   }
+  },
+  {
+   "repo": "Gentleman-Programming/gentle-shell",
+   "url": "https://github.com/Gentleman-Programming/gentle-shell",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 2022,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-08",
+   "created_at": "2026-05-10",
+   "stars_per_day_lifetime": 11.11,
+   "topics": [
+    "agent-harness",
+    "agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "ai-coding-agent",
+    "code-review",
+    "coding-agents",
+    "developer-tools",
+    "gentle-ai",
+    "gentle-shell-package",
+    "llm",
+    "mcp"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 87
    }
   },
   {
@@ -62408,6 +62648,42 @@
    }
   },
   {
+   "repo": "CHATS-lab/verbalized-sampling",
+   "url": "https://github.com/CHATS-lab/verbalized-sampling",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 821,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-11-08",
+   "created_at": "2025-05-20",
+   "stars_per_day_lifetime": 1.53,
+   "topics": [
+    "claude",
+    "creative-writing",
+    "dialogue-simulation",
+    "diversity",
+    "gemini",
+    "gpt",
+    "large-language-models",
+    "llm",
+    "mode-collapse",
+    "prompt-engineering",
+    "python",
+    "qwen"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "free llm api in:name,description stars:>200 pushed:>2026-08-10",
+    "sort": "stars",
+    "query_breadth": 17,
+    "position": 6
+   }
+  },
+  {
    "repo": "danyuchn/asd-ste100-skill",
    "url": "https://github.com/danyuchn/asd-ste100-skill",
    "first_seen": "2026-08-13",
@@ -72930,6 +73206,38 @@
    }
   },
   {
+   "repo": "abdiraimov-otabek/dashboard-design-skill",
+   "url": "https://github.com/abdiraimov-otabek/dashboard-design-skill",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 409,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-10-20",
+   "stars_per_day_lifetime": 21.53,
+   "topics": [
+    "agent-skills",
+    "analytics",
+    "claude-code",
+    "claude-skill",
+    "dashboard",
+    "dashboard-design",
+    "data-visualization",
+    "tailwindcss",
+    "ui-design"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 76
+   }
+  },
+  {
    "repo": "cheneternity/Zotero-Analytical-Workflow-Skills",
    "url": "https://github.com/cheneternity/Zotero-Analytical-Workflow-Skills",
    "first_seen": "2026-08-16",
@@ -77679,6 +77987,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 36
+   }
+  },
+  {
+   "repo": "win4r/OpenClaw-Skill",
+   "url": "https://github.com/win4r/OpenClaw-Skill",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 311,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-02-27",
+   "stars_per_day_lifetime": 1.22,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 59
    }
   },
   {
@@ -85635,6 +85964,34 @@
    }
   },
   {
+   "repo": "GetBindu/awesome-claude-code-and-skills",
+   "url": "https://github.com/GetBindu/awesome-claude-code-and-skills",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 208,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-07",
+   "created_at": "2025-10-17",
+   "stars_per_day_lifetime": 0.54,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "claude",
+    "claude-skills",
+    "claue-code"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-09",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 44
+   }
+  },
+  {
    "repo": "KunoLu/640-skills",
    "url": "https://github.com/KunoLu/640-skills",
    "first_seen": "2026-09-29",
@@ -87338,6 +87695,28 @@
     "sort": "stars",
     "query_breadth": 24,
     "position": 22
+   }
+  },
+  {
+   "repo": "SuzumiyaAkizuki/ComfyUI-NewBie-LLM-Formatter",
+   "url": "https://github.com/SuzumiyaAkizuki/ComfyUI-NewBie-LLM-Formatter",
+   "first_seen": "2026-11-08",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-08",
+   "stars": 202,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-10-25",
+   "created_at": "2025-12-21",
+   "stars_per_day_lifetime": 0.63,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-10",
+    "sort": "stars",
+    "query_breadth": 89,
+    "position": 88
    }
   },
   {
@@ -98142,7 +98521,7 @@
    }
   }
  ],
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "status_enum": [
   "pending",
   "debated",
