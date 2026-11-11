@@ -18852,6 +18852,35 @@
    }
   },
   {
+   "repo": "greatfrontend/awesome-front-end-system-design",
+   "url": "https://github.com/greatfrontend/awesome-front-end-system-design",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 8624,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-10",
+   "created_at": "2023-01-25",
+   "stars_per_day_lifetime": 6.22,
+   "topics": [
+    "front-end",
+    "front-end-system-design",
+    "javascript",
+    "react",
+    "system-design",
+    "system-design-interview"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 69
+   }
+  },
+  {
    "repo": "Narcooo/inkos",
    "url": "https://github.com/Narcooo/inkos",
    "first_seen": "2026-08-02",
@@ -25513,6 +25542,28 @@
    }
   },
   {
+   "repo": "ownthink/KnowledgeGraphData",
+   "url": "https://github.com/ownthink/KnowledgeGraphData",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 5219,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-11-10",
+   "created_at": "2019-10-11",
+   "stars_per_day_lifetime": 2.02,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "知识图谱 in:name,description stars:>200 pushed:>2026-08-13",
+    "sort": "stars",
+    "query_breadth": 15,
+    "position": 2
+   }
+  },
+  {
    "repo": "Q00/ouroboros",
    "url": "https://github.com/Q00/ouroboros",
    "first_seen": "2026-07-28",
@@ -29338,6 +29389,27 @@
    }
   },
   {
+   "repo": "janestreet/agent_skills",
+   "url": "https://github.com/janestreet/agent_skills",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 4180,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-03",
+   "created_at": "2026-11-03",
+   "stars_per_day_lifetime": 522.5,
+   "found_by": {
+    "dimension": "category",
+    "query": "skills in:name stars:>500 pushed:>2026-08-13",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 69
+   }
+  },
+  {
    "repo": "Astrosp/Awesome-OSINT-List",
    "url": "https://github.com/Astrosp/Awesome-OSINT-List",
    "first_seen": "2026-08-13",
@@ -29696,6 +29768,41 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 46
+   }
+  },
+  {
+   "repo": "FedML-AI/FedML",
+   "url": "https://github.com/FedML-AI/FedML",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 4070,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-11",
+   "created_at": "2020-07-21",
+   "stars_per_day_lifetime": 1.77,
+   "topics": [
+    "ai-agent",
+    "deep-learning",
+    "distributed-training",
+    "edge-ai",
+    "federated-learning",
+    "inference-engine",
+    "machine-learning",
+    "mlops",
+    "model-deployment",
+    "model-serving",
+    "on-device-training"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 50
    }
   },
   {
@@ -38230,6 +38337,42 @@
    }
   },
   {
+   "repo": "compozy/compozy",
+   "url": "https://github.com/compozy/compozy",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 2861,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-11-11",
+   "created_at": "2026-03-28",
+   "stars_per_day_lifetime": 12.55,
+   "topics": [
+    "acp",
+    "agent-client-protocol",
+    "agent-orchestration",
+    "ai-agents",
+    "automation",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "cursor",
+    "developer-tools",
+    "golang"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
+   }
+  },
+  {
    "repo": "dominikmartn/nothing-design-skill",
    "url": "https://github.com/dominikmartn/nothing-design-skill",
    "first_seen": "2026-11-10",
@@ -39587,6 +39730,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 78
+   }
+  },
+  {
+   "repo": "neavo/LinguaGacha",
+   "url": "https://github.com/neavo/LinguaGacha",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 2676,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-11",
+   "created_at": "2025-02-04",
+   "stars_per_day_lifetime": 4.15,
+   "topics": [
+    "ai-agent",
+    "ai-translation",
+    "epub",
+    "epub-translator",
+    "game-translation",
+    "llm",
+    "localization",
+    "pdf",
+    "pdf-translation",
+    "renpy",
+    "rpg-maker",
+    "subtitle-translation"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 19
    }
   },
   {
@@ -55583,6 +55762,41 @@
    }
   },
   {
+   "repo": "nexscope-ai/eCommerce-Skills",
+   "url": "https://github.com/nexscope-ai/eCommerce-Skills",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 1376,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-11",
+   "created_at": "2026-03-18",
+   "stars_per_day_lifetime": 5.78,
+   "topics": [
+    "agent-skills",
+    "ai",
+    "ai-agent-skills",
+    "ai-agents",
+    "amazon-seller-tools",
+    "claude-code-skills",
+    "claude-skills",
+    "ecommerce",
+    "openclaw-skills",
+    "shopify-tools",
+    "tiktok-shop-automation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 28
+   }
+  },
+  {
    "repo": "vshulcz/deja-vu",
    "url": "https://github.com/vshulcz/deja-vu",
    "first_seen": "2026-11-03",
@@ -62639,6 +62853,40 @@
     "sort": "stars",
     "query_breadth": 22,
     "position": 14
+   }
+  },
+  {
+   "repo": "nexscope-ai/Amazon-Skills",
+   "url": "https://github.com/nexscope-ai/Amazon-Skills",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 860,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-11",
+   "created_at": "2026-03-10",
+   "stars_per_day_lifetime": 3.5,
+   "topics": [
+    "ai-agents",
+    "amazon",
+    "amazon-seller-automation",
+    "amazon-seller-tools",
+    "claude-code",
+    "claude-skills",
+    "ecommerce",
+    "openclaw",
+    "openclaw-skills",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 27
    }
   },
   {
@@ -86064,6 +86312,28 @@
    }
   },
   {
+   "repo": "OutThisLife/brooklyn-skills",
+   "url": "https://github.com/OutThisLife/brooklyn-skills",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 214,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-11",
+   "created_at": "2026-07-23",
+   "stars_per_day_lifetime": 1.93,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-12",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 9
+   }
+  },
+  {
    "repo": "z91772524-ai/pojia-next",
    "url": "https://github.com/z91772524-ai/pojia-next",
    "first_seen": "2026-10-10",
@@ -92024,6 +92294,28 @@
    }
   },
   {
+   "repo": "JimmyLv/bibigpt-skill",
+   "url": "https://github.com/JimmyLv/bibigpt-skill",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 140,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-10",
+   "created_at": "2026-03-01",
+   "stars_per_day_lifetime": 0.55,
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 51,
+    "position": 46
+   }
+  },
+  {
    "repo": "kangyishuai/CHINESE-MEDICINE-QUESTION-GENERATION",
    "url": "https://github.com/kangyishuai/CHINESE-MEDICINE-QUESTION-GENERATION",
    "first_seen": "2026-08-15",
@@ -95992,6 +96284,28 @@
    }
   },
   {
+   "repo": "lixiaoxiao9888-create/short-drama-teardown",
+   "url": "https://github.com/lixiaoxiao9888-create/short-drama-teardown",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 102,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-10-19",
+   "created_at": "2026-10-19",
+   "stars_per_day_lifetime": 4.43,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-13",
+    "sort": "stars",
+    "query_breadth": 59,
+    "position": 57
+   }
+  },
+  {
    "repo": "renmengwen/MuseDock",
    "url": "https://github.com/renmengwen/MuseDock",
    "first_seen": "2026-09-05",
@@ -97155,6 +97469,39 @@
     "sort": "stars",
     "query_breadth": 51,
     "position": 50
+   }
+  },
+  {
+   "repo": "wangcanyu/daihuo-fanpai",
+   "url": "https://github.com/wangcanyu/daihuo-fanpai",
+   "first_seen": "2026-11-11",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-11",
+   "stars": 101,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-08",
+   "created_at": "2026-07-02",
+   "stars_per_day_lifetime": 0.77,
+   "topics": [
+    "agent",
+    "ai-video",
+    "claude-code",
+    "douyin",
+    "ecommerce-video",
+    "jianying",
+    "seedance",
+    "short-video",
+    "video-generation"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-13",
+    "sort": "stars",
+    "query_breadth": 59,
+    "position": 58
    }
   },
   {
@@ -99782,7 +100129,7 @@
    }
   }
  ],
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "status_enum": [
   "pending",
   "debated",
