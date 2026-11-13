@@ -4218,6 +4218,42 @@
    }
   },
   {
+   "repo": "microsoft/playwright",
+   "url": "https://github.com/microsoft/playwright",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 100054,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-13",
+   "created_at": "2019-11-15",
+   "stars_per_day_lifetime": 39.16,
+   "topics": [
+    "automation",
+    "chrome",
+    "chromium",
+    "e2e-testing",
+    "electron",
+    "end-to-end-testing",
+    "firefox",
+    "javascript",
+    "playwright",
+    "test",
+    "test-automation",
+    "testing"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 39
+   }
+  },
+  {
    "repo": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
    "first_seen": "2026-10-21",
@@ -27159,6 +27195,42 @@
    }
   },
   {
+   "repo": "kunkundi/crossdesk",
+   "url": "https://github.com/kunkundi/crossdesk",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 4753,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "C++",
+   "pushed_at": "2026-11-13",
+   "created_at": "2023-11-20",
+   "stars_per_day_lifetime": 4.36,
+   "topics": [
+    "cli",
+    "cplusplus",
+    "dsh-plugin",
+    "libdatachannel",
+    "mcp",
+    "remote-control",
+    "remote-desktop",
+    "rtc",
+    "rtp",
+    "slint",
+    "video-streaming",
+    "web-client"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 79
+   }
+  },
+  {
    "repo": "Jakeschincariol/replica-skill",
    "url": "https://github.com/Jakeschincariol/replica-skill",
    "first_seen": "2026-10-23",
@@ -38344,6 +38416,33 @@
    }
   },
   {
+   "repo": "luo-junyu/Awesome-Agent-Papers",
+   "url": "https://github.com/luo-junyu/Awesome-Agent-Papers",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 2874,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-12",
+   "created_at": "2025-03-21",
+   "stars_per_day_lifetime": 4.77,
+   "topics": [
+    "agent",
+    "awesome-list",
+    "llm",
+    "llmagents"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 50
+   }
+  },
+  {
    "repo": "signerlabs/ShipSwift",
    "url": "https://github.com/signerlabs/ShipSwift",
    "first_seen": "2026-08-10",
@@ -48700,6 +48799,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 46
+   }
+  },
+  {
+   "repo": "ModernRelay/omnigraph",
+   "url": "https://github.com/ModernRelay/omnigraph",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 2067,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-04-10",
+   "stars_per_day_lifetime": 9.53,
+   "topics": [
+    "apache-arrow",
+    "context-graph",
+    "datafusion",
+    "graph-database",
+    "knowledge-graph",
+    "lakehouse",
+    "lance",
+    "mcp",
+    "rust",
+    "s3",
+    "versioning"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 57
    }
   },
   {
@@ -60236,6 +60370,36 @@
    }
   },
   {
+   "repo": "JosssphZhou/poki",
+   "url": "https://github.com/JosssphZhou/poki",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 1034,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Swift",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-11-05",
+   "stars_per_day_lifetime": 129.25,
+   "topics": [
+    "ai-agents",
+    "automation",
+    "ios",
+    "iphone",
+    "mcp",
+    "model-context-protocol"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 8
+   }
+  },
+  {
    "repo": "spider-ios/autox-release",
    "url": "https://github.com/spider-ios/autox-release",
    "first_seen": "2026-08-01",
@@ -70748,6 +70912,40 @@
    }
   },
   {
+   "repo": "archlizheng/AIPM-Wiki",
+   "url": "https://github.com/archlizheng/AIPM-Wiki",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 501,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "pushed_at": "2026-11-06",
+   "created_at": "2026-07-08",
+   "stars_per_day_lifetime": 3.91,
+   "topics": [
+    "ai",
+    "ai-product-manager",
+    "aipm",
+    "chinese",
+    "interview",
+    "interview-questions",
+    "knowledge-base",
+    "llm",
+    "product-management",
+    "product-manager",
+    "prompt-engineering"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 91,
+    "position": 60
+   }
+  },
+  {
    "repo": "constansino/WinUtil_CN",
    "url": "https://github.com/constansino/WinUtil_CN",
    "first_seen": "2026-08-09",
@@ -77223,6 +77421,42 @@
     "sort": "stars",
     "query_breadth": 61,
     "position": 34
+   }
+  },
+  {
+   "repo": "postmill-ai/postmill-app",
+   "url": "https://github.com/postmill-ai/postmill-app",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 345,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-07-17",
+   "stars_per_day_lifetime": 2.9,
+   "topics": [
+    "ai",
+    "ai-agents",
+    "content-creation",
+    "generative-ai",
+    "image-editor",
+    "marketing-automation",
+    "multi-tenant",
+    "nestjs",
+    "nextjs",
+    "open-source",
+    "self-hosted",
+    "social-media"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:social-media-automation stars:>300 pushed:>2026-08-15",
+    "sort": "stars",
+    "query_breadth": 8,
+    "position": 7
    }
   },
   {
@@ -83881,6 +84115,41 @@
    }
   },
   {
+   "repo": "Hazenix/interview-prep-skills",
+   "url": "https://github.com/Hazenix/interview-prep-skills",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 240,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-04-01",
+   "stars_per_day_lifetime": 1.06,
+   "topics": [
+    "agent",
+    "agent-skills",
+    "ai",
+    "backend",
+    "backend-development",
+    "backend-java",
+    "frontend",
+    "interview",
+    "interview-knowledgebase",
+    "interview-practice",
+    "interview-prep",
+    "interview-preparation"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 0
+   }
+  },
+  {
    "repo": "dososo/blcaptain-lingjian-video",
    "url": "https://github.com/dososo/blcaptain-lingjian-video",
    "first_seen": "2026-08-01",
@@ -87354,6 +87623,42 @@
    }
   },
   {
+   "repo": "xqpsec/dsh-jailbreak",
+   "url": "https://github.com/xqpsec/dsh-jailbreak",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 211,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-07",
+   "created_at": "2026-10-28",
+   "stars_per_day_lifetime": 13.19,
+   "topics": [
+    "ai-security",
+    "deepseek",
+    "dsh-jailbreak",
+    "dsh-plugin",
+    "dsh-pojia",
+    "jailbrake",
+    "jailbreak",
+    "jailbreak-prompts",
+    "llm-jailbreak",
+    "llm-security",
+    "pojia",
+    "prompt-injection"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-15",
+    "sort": "stars",
+    "query_breadth": 95,
+    "position": 91
+   }
+  },
+  {
    "repo": "WENGSYX/Chinese-Word2vec-Medicine",
    "url": "https://github.com/WENGSYX/Chinese-Word2vec-Medicine",
    "first_seen": "2026-08-14",
@@ -88254,6 +88559,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 66
+   }
+  },
+  {
+   "repo": "rohasnagpal/legal-ai-skills",
+   "url": "https://github.com/rohasnagpal/legal-ai-skills",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 207,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-12",
+   "created_at": "2026-08-04",
+   "stars_per_day_lifetime": 2.05,
+   "topics": [
+    "ai",
+    "ai-agents",
+    "law",
+    "law-firm",
+    "laws",
+    "lawtech",
+    "lawyer",
+    "lawyers",
+    "legal",
+    "legal-ai",
+    "legal-tech",
+    "legaltech"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-14",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 67
    }
   },
   {
@@ -95941,6 +96282,34 @@
    }
   },
   {
+   "repo": "blessingyakubu400-art/CoreGold---Virtual-Card-Hub-for-Overseas-Travel-Gaming-Global-Shoppers",
+   "url": "https://github.com/blessingyakubu400-art/CoreGold---Virtual-Card-Hub-for-Overseas-Travel-Gaming-Global-Shoppers",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 104,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-10-29",
+   "created_at": "2026-10-29",
+   "stars_per_day_lifetime": 6.93,
+   "topics": [
+    "coregold",
+    "gpt",
+    "tiktok",
+    "vcc",
+    "visa"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-15",
+    "sort": "stars",
+    "query_breadth": 39,
+    "position": 37
+   }
+  },
+  {
    "repo": "fxyadela/write-then-publish",
    "url": "https://github.com/fxyadela/write-then-publish",
    "first_seen": "2026-07-31",
@@ -96194,6 +96563,40 @@
     "sort": "stars",
     "query_breadth": 60,
     "position": 58
+   }
+  },
+  {
+   "repo": "zhangkunlv-ship-it/xuehui-shortvideo-skill",
+   "url": "https://github.com/zhangkunlv-ship-it/xuehui-shortvideo-skill",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 104,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-09",
+   "created_at": "2026-11-09",
+   "stars_per_day_lifetime": 26.0,
+   "topics": [
+    "ai-skill",
+    "chinese-notes",
+    "content-marketing",
+    "douyin",
+    "ip-positioning",
+    "new-media",
+    "new-media-operations",
+    "script-writing",
+    "short-video",
+    "workbuddy-skill",
+    "xuehui"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-15",
+    "sort": "stars",
+    "query_breadth": 62,
+    "position": 59
    }
   },
   {
@@ -96934,6 +97337,42 @@
    }
   },
   {
+   "repo": "wynx1123/ai-welfare-hub",
+   "url": "https://github.com/wynx1123/ai-welfare-hub",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 102,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-12",
+   "created_at": "2026-09-01",
+   "stars_per_day_lifetime": 1.4,
+   "topics": [
+    "ai-api",
+    "anthropic",
+    "api-gateway",
+    "api-proxy",
+    "awesome",
+    "chinese",
+    "claude",
+    "claude-code",
+    "codex",
+    "cursor",
+    "free-api",
+    "gemini"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-08-15",
+    "sort": "stars",
+    "query_breadth": 24,
+    "position": 23
+   }
+  },
+  {
    "repo": "xixihhhh/hotclip",
    "url": "https://github.com/xixihhhh/hotclip",
    "first_seen": "2026-08-22",
@@ -97622,6 +98061,28 @@
     "sort": "stars",
     "query_breadth": 20,
     "position": 19
+   }
+  },
+  {
+   "repo": "huangbai-AI/one-prompt-video-skills",
+   "url": "https://github.com/huangbai-AI/one-prompt-video-skills",
+   "first_seen": "2026-11-13",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-13",
+   "stars": 101,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-29",
+   "created_at": "2026-09-29",
+   "stars_per_day_lifetime": 2.24,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-15",
+    "sort": "stars",
+    "query_breadth": 39,
+    "position": 38
    }
   },
   {
@@ -100670,7 +101131,7 @@
    }
   }
  ],
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "status_enum": [
   "pending",
   "debated",
