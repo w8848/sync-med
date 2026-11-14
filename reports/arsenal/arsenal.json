@@ -6646,6 +6646,31 @@
    }
   },
   {
+   "repo": "deepseek-ai/awesome-deepseek-integration",
+   "url": "https://github.com/deepseek-ai/awesome-deepseek-integration",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 39843,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-13",
+   "created_at": "2024-01-11",
+   "stars_per_day_lifetime": 38.38,
+   "topics": [
+    "awesome",
+    "deepseek"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 62
+   }
+  },
+  {
    "repo": "mindsdb/mindshub",
    "url": "https://github.com/mindsdb/mindshub",
    "first_seen": "2026-08-14",
@@ -23324,6 +23349,40 @@
    }
   },
   {
+   "repo": "PanXProject/awesome-certificates",
+   "url": "https://github.com/PanXProject/awesome-certificates",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 5970,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-13",
+   "created_at": "2020-12-24",
+   "stars_per_day_lifetime": 2.78,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "badges",
+    "career",
+    "certificate",
+    "certificates",
+    "certifications",
+    "courses",
+    "free",
+    "hacktoberfest"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 35
+   }
+  },
+  {
    "repo": "awesome-vpn/awesome-vpn",
    "url": "https://github.com/awesome-vpn/awesome-vpn",
    "first_seen": "2026-08-01",
@@ -39427,6 +39486,35 @@
    }
   },
   {
+   "repo": "zerosoul/chinese-colors",
+   "url": "https://github.com/zerosoul/chinese-colors",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 2745,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-12",
+   "created_at": "2019-08-27",
+   "stars_per_day_lifetime": 1.04,
+   "topics": [
+    "chinese",
+    "color-scheme",
+    "react",
+    "traditional-chinese",
+    "traditional-chinese-culture"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-15",
+    "sort": "updated",
+    "query_breadth": 93,
+    "position": 31
+   }
+  },
+  {
    "repo": "0PandaDEV/awesome-windows",
    "url": "https://github.com/0PandaDEV/awesome-windows",
    "first_seen": "2026-08-18",
@@ -47880,6 +47968,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 50
+   }
+  },
+  {
+   "repo": "DIYgod/pinky",
+   "url": "https://github.com/DIYgod/pinky",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 2100,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-11-14",
+   "created_at": "2026-11-06",
+   "stars_per_day_lifetime": 262.5,
+   "topics": [
+    "ai-agent",
+    "android",
+    "claude-code",
+    "ios",
+    "iphone",
+    "mcp",
+    "mcp-server",
+    "phone-automation"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 38
    }
   },
   {
@@ -81656,6 +81776,42 @@
    }
   },
   {
+   "repo": "mohitmishra786/low-level-dev-skills",
+   "url": "https://github.com/mohitmishra786/low-level-dev-skills",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 284,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-14",
+   "created_at": "2026-02-20",
+   "stars_per_day_lifetime": 1.06,
+   "topics": [
+    "ai-agent-skills",
+    "build-systems",
+    "c-cpp-toolchain",
+    "compilers",
+    "cross-compilation",
+    "debuggers",
+    "embedded",
+    "low-level-programming",
+    "low-level-programming-language",
+    "profilers",
+    "rust",
+    "rust-lang"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 30
+   }
+  },
+  {
    "repo": "datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
    "url": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
    "first_seen": "2026-08-23",
@@ -83122,6 +83278,28 @@
    }
   },
   {
+   "repo": "CSS-Electronics/can-bus-reverse-engineering-skills",
+   "url": "https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 256,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-06-16",
+   "stars_per_day_lifetime": 1.7,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 52
+   }
+  },
+  {
    "repo": "cafe3310/public-agent-skills",
    "url": "https://github.com/cafe3310/public-agent-skills",
    "first_seen": "2026-11-05",
@@ -83565,6 +83743,37 @@
     "sort": "stars",
     "query_breadth": 38,
     "position": 23
+   }
+  },
+  {
+   "repo": "chenwr727/AI-Short-Video-Engine",
+   "url": "https://github.com/chenwr727/AI-Short-Video-Engine",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 251,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-11-14",
+   "created_at": "2024-11-05",
+   "stars_per_day_lifetime": 0.34,
+   "topics": [
+    "agent",
+    "deepseek",
+    "douyin",
+    "notebooklm",
+    "reels",
+    "tiktok",
+    "video-generator"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-16",
+    "sort": "stars",
+    "query_breadth": 64,
+    "position": 45
    }
   },
   {
@@ -87784,6 +87993,35 @@
    }
   },
   {
+   "repo": "qiantongtech/qOntology",
+   "url": "https://github.com/qiantongtech/qOntology",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 210,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Java",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-10-23",
+   "stars_per_day_lifetime": 9.55,
+   "topics": [
+    "knowledge-graph",
+    "ontology",
+    "owl",
+    "rdf",
+    "semantic-web"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "知识图谱 in:name,description stars:>200 pushed:>2026-08-16",
+    "sort": "stars",
+    "query_breadth": 16,
+    "position": 15
+   }
+  },
+  {
    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
    "first_seen": "2026-09-25",
@@ -87912,6 +88150,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 29
+   }
+  },
+  {
+   "repo": "owoevan-dev/music-skill",
+   "url": "https://github.com/owoevan-dev/music-skill",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 209,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-14",
+   "created_at": "2026-11-02",
+   "stars_per_day_lifetime": 17.42,
+   "topics": [
+    "agent-skills",
+    "chiptune",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "fluidsynth",
+    "game-audio",
+    "game-music",
+    "midi",
+    "mixing",
+    "music",
+    "music-composition"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-15",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 28
    }
   },
   {
@@ -96349,6 +96623,42 @@
    }
   },
   {
+   "repo": "kingcharleslzy-ai/DSH-Spicy",
+   "url": "https://github.com/kingcharleslzy-ai/DSH-Spicy",
+   "first_seen": "2026-11-14",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-14",
+   "stars": 104,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-10-16",
+   "stars_per_day_lifetime": 3.59,
+   "topics": [
+    "agent-skills",
+    "ai-agent-tools",
+    "apple-silicon",
+    "comfyui",
+    "controlnet",
+    "cuda",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "filmmaking",
+    "image-editing",
+    "image-generation"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-16",
+    "sort": "stars",
+    "query_breadth": 64,
+    "position": 61
+   }
+  },
+  {
    "repo": "mediago-dev/mediago-drama",
    "url": "https://github.com/mediago-dev/mediago-drama",
    "first_seen": "2026-11-10",
@@ -101131,7 +101441,7 @@
    }
   }
  ],
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "status_enum": [
   "pending",
   "debated",
