@@ -22045,6 +22045,38 @@
    }
   },
   {
+   "repo": "sindresorhus/awesome-chatgpt",
+   "url": "https://github.com/sindresorhus/awesome-chatgpt",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 6498,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-15",
+   "created_at": "2023-05-02",
+   "stars_per_day_lifetime": 5.02,
+   "topics": [
+    "ai",
+    "artificial-intelligence",
+    "awesome",
+    "awesome-list",
+    "chatgpt",
+    "gpt",
+    "gpt-3",
+    "gpt-4",
+    "openai"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 42
+   }
+  },
+  {
    "repo": "georgezouq/awesome-ai-in-finance",
    "url": "https://github.com/georgezouq/awesome-ai-in-finance",
    "first_seen": "2026-09-08",
@@ -25721,6 +25753,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 20
+   }
+  },
+  {
+   "repo": "wdcpclover/ai4paper",
+   "url": "https://github.com/wdcpclover/ai4paper",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 5242,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "HTML",
+   "pushed_at": "2026-11-15",
+   "created_at": "2026-02-27",
+   "stars_per_day_lifetime": 20.01,
+   "topics": [
+    "academic-writing",
+    "ai-research",
+    "chinese",
+    "literature-review",
+    "literature-search",
+    "paper-reading",
+    "pdf-translate",
+    "pdf-translation",
+    "research-tools",
+    "zotero",
+    "zotero-7",
+    "zotero-ai"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-17",
+    "sort": "updated",
+    "query_breadth": 98,
+    "position": 18
    }
   },
   {
@@ -32572,6 +32640,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 9
+   }
+  },
+  {
+   "repo": "GanymedeNil/document.ai",
+   "url": "https://github.com/GanymedeNil/document.ai",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 3658,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-11-16",
+   "created_at": "2023-03-10",
+   "stars_per_day_lifetime": 2.72,
+   "topics": [
+    "chinese",
+    "deepseek",
+    "enterprise-search",
+    "fastapi",
+    "knowledge-base",
+    "langgraph",
+    "llm",
+    "nextjs",
+    "opensearch",
+    "postgresql",
+    "question-answering",
+    "qwen"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "RAG 知识库 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 30,
+    "position": 0
    }
   },
   {
@@ -45022,6 +45126,40 @@
    }
   },
   {
+   "repo": "jamubc/gemini-mcp-tool",
+   "url": "https://github.com/jamubc/gemini-mcp-tool",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 2299,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-15",
+   "created_at": "2025-06-29",
+   "stars_per_day_lifetime": 4.55,
+   "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "codebase-analysis",
+    "file-analysis",
+    "gemini",
+    "mcp",
+    "model-context-protocol",
+    "npm",
+    "typescript"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 74
+   }
+  },
+  {
    "repo": "samanhappy/mcphub",
    "url": "https://github.com/samanhappy/mcphub",
    "first_seen": "2026-08-12",
@@ -47640,6 +47778,32 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 47
+   }
+  },
+  {
+   "repo": "matchai/awesome-pinned-gists",
+   "url": "https://github.com/matchai/awesome-pinned-gists",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 2123,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-16",
+   "created_at": "2019-03-18",
+   "stars_per_day_lifetime": 0.76,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "pinned-gist"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-17",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
    }
   },
   {
@@ -62610,6 +62774,35 @@
    }
   },
   {
+   "repo": "dabingfy-dot/solo-to-team-skills",
+   "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 938,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-15",
+   "created_at": "2026-11-07",
+   "stars_per_day_lifetime": 104.22,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "collaboration",
+    "human-in-the-loop",
+    "workflow"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 70
+   }
+  },
+  {
    "repo": "fancyboi999/ai-engineering-from-scratch-zh",
    "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
    "first_seen": "2026-08-09",
@@ -68039,6 +68232,38 @@
    }
   },
   {
+   "repo": "iAugux/Phonetic",
+   "url": "https://github.com/iAugux/Phonetic",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 606,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Swift",
+   "pushed_at": "2026-11-16",
+   "created_at": "2016-02-01",
+   "stars_per_day_lifetime": 0.15,
+   "topics": [
+    "characters",
+    "chinese",
+    "contacts",
+    "phonetic",
+    "phonetic-keys",
+    "polyphonic",
+    "sort",
+    "swift"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-17",
+    "sort": "updated",
+    "query_breadth": 98,
+    "position": 6
+   }
+  },
+  {
    "repo": "SunnyMaria/csapp-zh-markdown",
    "url": "https://github.com/SunnyMaria/csapp-zh-markdown",
    "first_seen": "2026-10-02",
@@ -70002,6 +70227,42 @@
    }
   },
   {
+   "repo": "supercli-site/xiaobai-kanban",
+   "url": "https://github.com/supercli-site/xiaobai-kanban",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 534,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-11",
+   "created_at": "2026-09-29",
+   "stars_per_day_lifetime": 11.12,
+   "topics": [
+    "agent-guide",
+    "ai-agent",
+    "ai-coding",
+    "beginner-friendly",
+    "chinese",
+    "cli",
+    "coding-agent",
+    "command-line",
+    "documentation",
+    "git",
+    "git-workflow",
+    "requirements"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-17",
+    "sort": "updated",
+    "query_breadth": 98,
+    "position": 50
+   }
+  },
+  {
    "repo": "butterbase-ai/butterbase-skills",
    "url": "https://github.com/butterbase-ai/butterbase-skills",
    "first_seen": "2026-09-30",
@@ -70514,6 +70775,34 @@
     "sort": "updated",
     "query_breadth": 27,
     "position": 9
+   }
+  },
+  {
+   "repo": "qiaoranlaodou-cpu/your-next-point",
+   "url": "https://github.com/qiaoranlaodou-cpu/your-next-point",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 513,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "pushed_at": "2026-11-06",
+   "created_at": "2026-11-06",
+   "stars_per_day_lifetime": 51.3,
+   "topics": [
+    "ai-for-learning",
+    "chinese",
+    "civil-service-exam",
+    "open-book",
+    "study-methods"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-17",
+    "sort": "updated",
+    "query_breadth": 98,
+    "position": 74
    }
   },
   {
@@ -72837,6 +73126,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 87
+   }
+  },
+  {
+   "repo": "garycaogan/gary-ai-live-avatar",
+   "url": "https://github.com/garycaogan/gary-ai-live-avatar",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 461,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-10-19",
+   "stars_per_day_lifetime": 16.46,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-18",
+    "sort": "stars",
+    "query_breadth": 38,
+    "position": 9
    }
   },
   {
@@ -86378,6 +86689,27 @@
    }
   },
   {
+   "repo": "yu994419160/dsh-purge1.7.3-",
+   "url": "https://github.com/yu994419160/dsh-purge1.7.3-",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 223,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-10-23",
+   "created_at": "2026-10-23",
+   "stars_per_day_lifetime": 9.29,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-18",
+    "sort": "stars",
+    "query_breadth": 96,
+    "position": 89
+   }
+  },
+  {
    "repo": "Minglink/dsh-infinite-gen-2",
    "url": "https://github.com/Minglink/dsh-infinite-gen-2",
    "first_seen": "2026-08-25",
@@ -93779,6 +94111,41 @@
    }
   },
   {
+   "repo": "achun1107/xianyu-auto-listing",
+   "url": "https://github.com/achun1107/xianyu-auto-listing",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 140,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-14",
+   "created_at": "2026-11-13",
+   "stars_per_day_lifetime": 46.67,
+   "topics": [
+    "alibaba",
+    "auto-listing",
+    "automation",
+    "chinese-ecommerce",
+    "ecommerce-automation",
+    "goofish",
+    "listing-tool",
+    "proxy-bidding",
+    "reselling",
+    "ticketing",
+    "xianyu"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "自动 发布 in:name,description stars:>100 pushed:>2026-08-18",
+    "sort": "stars",
+    "query_breadth": 28,
+    "position": 24
+   }
+  },
+  {
    "repo": "kangyishuai/CHINESE-MEDICINE-QUESTION-GENERATION",
    "url": "https://github.com/kangyishuai/CHINESE-MEDICINE-QUESTION-GENERATION",
    "first_seen": "2026-08-15",
@@ -95112,6 +95479,28 @@
     "sort": "stars",
     "query_breadth": 27,
     "position": 24
+   }
+  },
+  {
+   "repo": "su-Insight/moretalk",
+   "url": "https://github.com/su-Insight/moretalk",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 118,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Kotlin",
+   "pushed_at": "2026-11-15",
+   "created_at": "2026-02-01",
+   "stars_per_day_lifetime": 0.41,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-18",
+    "sort": "stars",
+    "query_breadth": 64,
+    "position": 56
    }
   },
   {
@@ -96924,6 +97313,28 @@
     "sort": "stars",
     "query_breadth": 39,
     "position": 37
+   }
+  },
+  {
+   "repo": "cwp-cwp/ai-video",
+   "url": "https://github.com/cwp-cwp/ai-video",
+   "first_seen": "2026-11-16",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-16",
+   "stars": 104,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-11-13",
+   "created_at": "2026-08-26",
+   "stars_per_day_lifetime": 1.27,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-18",
+    "sort": "stars",
+    "query_breadth": 64,
+    "position": 63
    }
   },
   {
@@ -101806,7 +102217,7 @@
    }
   }
  ],
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "status_enum": [
   "pending",
   "debated",
