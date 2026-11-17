@@ -19443,6 +19443,42 @@
    }
   },
   {
+   "repo": "GetStream/Vision-Agents",
+   "url": "https://github.com/GetStream/Vision-Agents",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 8216,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-11-17",
+   "created_at": "2025-08-11",
+   "stars_per_day_lifetime": 17.75,
+   "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "realtime",
+    "sovereign-ai",
+    "stt",
+    "tts",
+    "video-agents",
+    "video-ai",
+    "vision-ai",
+    "voice-ai"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "agent skill in:name,description stars:>300 pushed:>2026-08-19",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 74
+   }
+  },
+  {
    "repo": "xxjwxc/uber_go_guide_cn",
    "url": "https://github.com/xxjwxc/uber_go_guide_cn",
    "first_seen": "2026-11-12",
@@ -27162,6 +27198,42 @@
    }
   },
   {
+   "repo": "nexu-io/html-video",
+   "url": "https://github.com/nexu-io/html-video",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 4850,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-05-27",
+   "stars_per_day_lifetime": 27.87,
+   "topics": [
+    "ai-agent",
+    "apache-2",
+    "coding-agent",
+    "css",
+    "ffmpeg",
+    "html",
+    "html-to-video",
+    "hyperframes",
+    "mp4",
+    "open-design",
+    "open-source",
+    "programmatic-video"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 37
+   }
+  },
+  {
    "repo": "Leonxlnx/earshot",
    "url": "https://github.com/Leonxlnx/earshot",
    "first_seen": "2026-11-15",
@@ -29195,6 +29267,41 @@
    }
   },
   {
+   "repo": "53AI/53AIHub",
+   "url": "https://github.com/53AI/53AIHub",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 4341,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Go",
+   "pushed_at": "2026-11-17",
+   "created_at": "2025-04-24",
+   "stars_per_day_lifetime": 7.59,
+   "topics": [
+    "coze",
+    "dify",
+    "fastgpt",
+    "go",
+    "knowledge",
+    "maxkb",
+    "mcp",
+    "openai",
+    "prompt",
+    "rag",
+    "ragflow"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 88
+   }
+  },
+  {
    "repo": "oxnr/awesome-analytics",
    "url": "https://github.com/oxnr/awesome-analytics",
    "first_seen": "2026-10-22",
@@ -30636,6 +30743,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 31
+   }
+  },
+  {
+   "repo": "frappe/crm",
+   "url": "https://github.com/frappe/crm",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 4001,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Vue",
+   "pushed_at": "2026-11-17",
+   "created_at": "2023-07-19",
+   "stars_per_day_lifetime": 3.29,
+   "topics": [
+    "crm",
+    "crm-connections",
+    "crm-platform",
+    "crm-software",
+    "crm-solution",
+    "crm-system",
+    "customer",
+    "frappe",
+    "frappe-app",
+    "javascript",
+    "low-code",
+    "marketing"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 58
    }
   },
   {
@@ -33067,6 +33210,41 @@
    }
   },
   {
+   "repo": "iDoka/awesome-canbus",
+   "url": "https://github.com/iDoka/awesome-canbus",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 3570,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-16",
+   "created_at": "2020-11-16",
+   "stars_per_day_lifetime": 1.63,
+   "topics": [
+    "automotive",
+    "automotive-security",
+    "awesome",
+    "awesome-list",
+    "bus-monitoring",
+    "can",
+    "can-bus",
+    "can-fd",
+    "canbus",
+    "canutils",
+    "car-hacking",
+    "elm327"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 42
+   }
+  },
+  {
    "repo": "web-padawan/awesome-web-components",
    "url": "https://github.com/web-padawan/awesome-web-components",
    "first_seen": "2026-08-18",
@@ -34972,6 +35150,27 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 61
+   }
+  },
+  {
+   "repo": "adamsitnik/awesome-dot-net-performance",
+   "url": "https://github.com/adamsitnik/awesome-dot-net-performance",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 3295,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-16",
+   "created_at": "2016-09-07",
+   "stars_per_day_lifetime": 0.89,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 73
    }
   },
   {
@@ -42144,6 +42343,42 @@
    }
   },
   {
+   "repo": "Tencent/LoopForge",
+   "url": "https://github.com/Tencent/LoopForge",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 2535,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Go",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-07-28",
+   "stars_per_day_lifetime": 22.63,
+   "topics": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "codebuddy",
+    "codex",
+    "coding-agents",
+    "cursor",
+    "developer-tools",
+    "human-on-the-loop"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 33
+   }
+  },
+  {
    "repo": "tmcw/awesome-geojson",
    "url": "https://github.com/tmcw/awesome-geojson",
    "first_seen": "2026-09-02",
@@ -47452,6 +47687,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 28
+   }
+  },
+  {
+   "repo": "n8n-io/nod",
+   "url": "https://github.com/n8n-io/nod",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 2146,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-09-25",
+   "stars_per_day_lifetime": 40.49,
+   "topics": [
+    "agents",
+    "ai-agent",
+    "ai-assistant",
+    "anthropic",
+    "automation",
+    "browser-automation",
+    "computer-use",
+    "electron",
+    "llm",
+    "local-first",
+    "mcp",
+    "n8n"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 1
    }
   },
   {
@@ -65022,6 +65293,34 @@
    }
   },
   {
+   "repo": "LelouchFR/skill-icons",
+   "url": "https://github.com/LelouchFR/skill-icons",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 796,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-11-16",
+   "created_at": "2024-05-03",
+   "stars_per_day_lifetime": 0.86,
+   "topics": [
+    "github-profile",
+    "github-readme",
+    "icons",
+    "readme-stats"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 68
+   }
+  },
+  {
    "repo": "wk42worldworld/cybercode",
    "url": "https://github.com/wk42worldworld/cybercode",
    "first_seen": "2026-08-17",
@@ -72509,6 +72808,39 @@
    }
   },
   {
+   "repo": "edisonmbli/refactoring-ui-skill",
+   "url": "https://github.com/edisonmbli/refactoring-ui-skill",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 475,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Python",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-08-20",
+   "stars_per_day_lifetime": 5.34,
+   "topics": [
+    "ai-agent",
+    "claude-code",
+    "claude-skill",
+    "design-system",
+    "design-tokens",
+    "frontend",
+    "refactoring-ui",
+    "tailwindcss",
+    "ui-design"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 96
+   }
+  },
+  {
    "repo": "lzwme/finance-quant-skills",
    "url": "https://github.com/lzwme/finance-quant-skills",
    "first_seen": "2026-11-06",
@@ -75278,6 +75610,36 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 74
+   }
+  },
+  {
+   "repo": "sybil-solutions/inference-optimisation-skill",
+   "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 414,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-11-16",
+   "stars_per_day_lifetime": 414.0,
+   "topics": [
+    "agent-skill",
+    "benchmarking",
+    "claude-code",
+    "inference",
+    "llm",
+    "speculative-decoding"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 83
    }
   },
   {
@@ -81032,6 +81394,28 @@
    }
   },
   {
+   "repo": "xiaoyuboi/cloudflare-tunnel-skill",
+   "url": "https://github.com/xiaoyuboi/cloudflare-tunnel-skill",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 302,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-04-30",
+   "stars_per_day_lifetime": 1.5,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 14
+   }
+  },
+  {
    "repo": "DexZane/awesome-web-prompts",
    "url": "https://github.com/DexZane/awesome-web-prompts",
    "first_seen": "2026-10-14",
@@ -81914,6 +82298,38 @@
     "sort": "stars",
     "query_breadth": 17,
     "position": 9
+   }
+  },
+  {
+   "repo": "boringmarketer/boring-marketing-skills",
+   "url": "https://github.com/boringmarketer/boring-marketing-skills",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 292,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-11-16",
+   "stars_per_day_lifetime": 292.0,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "copywriting",
+    "local-seo",
+    "marketing",
+    "seo"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 84
    }
   },
   {
@@ -86249,6 +86665,28 @@
     "sort": "stars",
     "query_breadth": 29,
     "position": 19
+   }
+  },
+  {
+   "repo": "VaneAi888/vane-gpt-image-skills",
+   "url": "https://github.com/VaneAi888/vane-gpt-image-skills",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 227,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-11-05",
+   "stars_per_day_lifetime": 18.92,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-18",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 6
    }
   },
   {
@@ -95136,6 +95574,36 @@
    }
   },
   {
+   "repo": "wuyoscar/Vibepost",
+   "url": "https://github.com/wuyoscar/Vibepost",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 124,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "Swift",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-10-01",
+   "stars_per_day_lifetime": 2.64,
+   "topics": [
+    "claude-code",
+    "codex",
+    "macos",
+    "markdown",
+    "mcp",
+    "xiaohongshu"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "topic:xiaohongshu stars:>100",
+    "sort": "stars",
+    "query_breadth": 84,
+    "position": 76
+   }
+  },
+  {
    "repo": "bizzancoin/btc-eth-fil-contract-Exchange---ztuo",
    "url": "https://github.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo",
    "first_seen": "2026-07-30",
@@ -95197,6 +95665,27 @@
     "sort": "stars",
     "query_breadth": 28,
     "position": 27
+   }
+  },
+  {
+   "repo": "liangdabiao/seedance-storyboard-generator-realman",
+   "url": "https://github.com/liangdabiao/seedance-storyboard-generator-realman",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 122,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-11-16",
+   "stars_per_day_lifetime": 122.0,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-19",
+    "sort": "stars",
+    "query_breadth": 65,
+    "position": 56
    }
   },
   {
@@ -101177,6 +101666,27 @@
    }
   },
   {
+   "repo": "LeoKvs/chinese-poetry-plus",
+   "url": "https://github.com/LeoKvs/chinese-poetry-plus",
+   "first_seen": "2026-11-17",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-17",
+   "stars": 21,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2025-03-13",
+   "created_at": "2025-03-11",
+   "stars_per_day_lifetime": 0.03,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "古籍 in:name,description stars:>20",
+    "sort": "stars",
+    "query_breadth": 50,
+    "position": 49
+   }
+  },
+  {
    "repo": "dhicoc/chinese-traditional-wisdom-skill",
    "url": "https://github.com/dhicoc/chinese-traditional-wisdom-skill",
    "first_seen": "2026-09-21",
@@ -102217,7 +102727,7 @@
    }
   }
  ],
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "status_enum": [
   "pending",
   "debated",
