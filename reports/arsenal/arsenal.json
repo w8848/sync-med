@@ -19989,6 +19989,41 @@
    }
   },
   {
+   "repo": "steel-dev/steel-browser",
+   "url": "https://github.com/steel-dev/steel-browser",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 7981,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-18",
+   "created_at": "2024-11-01",
+   "stars_per_day_lifetime": 10.68,
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "computer-use",
+    "headless-browser",
+    "llm",
+    "mcp",
+    "playwright",
+    "puppeteer"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
+   }
+  },
+  {
    "repo": "google-labs-code/stitch-skills",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "first_seen": "2026-08-09",
@@ -35174,6 +35209,34 @@
    }
   },
   {
+   "repo": "LottieFiles/motion-design-skill",
+   "url": "https://github.com/LottieFiles/motion-design-skill",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 3294,
+   "license": "MIT",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-03-12",
+   "stars_per_day_lifetime": 13.12,
+   "topics": [
+    "agent-skills",
+    "animation",
+    "lottie",
+    "motion-design",
+    "ui"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 91
+   }
+  },
+  {
    "repo": "mintisan/awesome-kan",
    "url": "https://github.com/mintisan/awesome-kan",
    "first_seen": "2026-08-17",
@@ -45650,6 +45713,42 @@
    }
   },
   {
+   "repo": "mdiri-ai/SoduWork",
+   "url": "https://github.com/mdiri-ai/SoduWork",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 2268,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-10-29",
+   "stars_per_day_lifetime": 113.4,
+   "topics": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-workflows",
+    "ai-agents",
+    "ai-workflows",
+    "anti-slop",
+    "claude-code",
+    "codex",
+    "deepseek",
+    "electron",
+    "fastapi",
+    "harness"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 14
+   }
+  },
+  {
    "repo": "romgX/openrelay",
    "url": "https://github.com/romgX/openrelay",
    "first_seen": "2026-07-26",
@@ -46881,6 +46980,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 0
+   }
+  },
+  {
+   "repo": "jo-duchan/tapflow",
+   "url": "https://github.com/jo-duchan/tapflow",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 2197,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-05-07",
+   "stars_per_day_lifetime": 11.27,
+   "topics": [
+    "android",
+    "android-emulator",
+    "app-testing",
+    "appetize-alternative",
+    "browserstack-alternative",
+    "developer-tools",
+    "emulator",
+    "flutter",
+    "good-first-issue",
+    "ios",
+    "ios-simulator",
+    "mcp"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 37
    }
   },
   {
@@ -48457,6 +48592,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 38
+   }
+  },
+  {
+   "repo": "FrigadeHQ/yogurt",
+   "url": "https://github.com/FrigadeHQ/yogurt",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 2104,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-11-10",
+   "stars_per_day_lifetime": 263.0,
+   "topics": [
+    "ai-meeting-assistant",
+    "ai-notetaker",
+    "electron",
+    "granola-alternative",
+    "linux",
+    "llama-cpp",
+    "local-ai",
+    "local-first",
+    "macos",
+    "mcp",
+    "meeting-minutes",
+    "meeting-notes"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 54
    }
   },
   {
@@ -52932,6 +53103,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 53
+   }
+  },
+  {
+   "repo": "Tongyun1/from-minimind-to-more",
+   "url": "https://github.com/Tongyun1/from-minimind-to-more",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 1869,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-01-26",
+   "stars_per_day_lifetime": 6.31,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "大模型 in:name,description stars:>1000 pushed:>2026-10-19",
+    "sort": "stars",
+    "query_breadth": 41,
+    "position": 30
    }
   },
   {
@@ -71450,6 +71643,38 @@
    }
   },
   {
+   "repo": "goodseafly/how-to-make-work-pay",
+   "url": "https://github.com/goodseafly/how-to-make-work-pay",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 506,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "HTML",
+   "pushed_at": "2026-10-26",
+   "created_at": "2026-10-06",
+   "stars_per_day_lifetime": 11.77,
+   "topics": [
+    "career",
+    "china",
+    "chinese",
+    "decision-making",
+    "handbook",
+    "labor-law",
+    "self-help",
+    "workplace"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-19",
+    "sort": "updated",
+    "query_breadth": 99,
+    "position": 94
+   }
+  },
+  {
    "repo": "ChenShuo2004/cs-board",
    "url": "https://github.com/ChenShuo2004/cs-board",
    "first_seen": "2026-09-05",
@@ -80204,6 +80429,42 @@
    }
   },
   {
+   "repo": "ColinGPT9/clips-studio",
+   "url": "https://github.com/ColinGPT9/clips-studio",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 316,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-06-11",
+   "stars_per_day_lifetime": 1.98,
+   "topics": [
+    "clips",
+    "content-automation",
+    "content-creator",
+    "creator-tools",
+    "instagram-reels",
+    "opus-clip-alternative",
+    "rea",
+    "short-form-video",
+    "shorts",
+    "social-media-automation",
+    "sports",
+    "streamer-tools"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:social-media-automation stars:>300 pushed:>2026-08-20",
+    "sort": "stars",
+    "query_breadth": 9,
+    "position": 8
+   }
+  },
+  {
    "repo": "NanGePlus/RagLangChainTest",
    "url": "https://github.com/NanGePlus/RagLangChainTest",
    "first_seen": "2026-07-29",
@@ -81964,6 +82225,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 57
+   }
+  },
+  {
+   "repo": "Brandon030722/ark-ui-skill",
+   "url": "https://github.com/Brandon030722/ark-ui-skill",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 296,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "CSS",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-07-20",
+   "stars_per_day_lifetime": 2.45,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-19",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 96
    }
   },
   {
@@ -92502,6 +92785,39 @@
    }
   },
   {
+   "repo": "my-name-is-alan/iDuanJu",
+   "url": "https://github.com/my-name-is-alan/iDuanJu",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 195,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "HTML",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-11-10",
+   "stars_per_day_lifetime": 24.38,
+   "topics": [
+    "gpl-3",
+    "ios",
+    "plugin-system",
+    "quickjs",
+    "short-drama",
+    "swift",
+    "swiftui",
+    "tdlib",
+    "video-player"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-20",
+    "sort": "stars",
+    "query_breadth": 65,
+    "position": 50
+   }
+  },
+  {
    "repo": "panbinibn/OpenPacketFix_",
    "url": "https://github.com/panbinibn/OpenPacketFix_",
    "first_seen": "2026-07-26",
@@ -93926,6 +94242,42 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 50
+   }
+  },
+  {
+   "repo": "teuzinbolado-cyber/huaxiaoling-launcher",
+   "url": "https://github.com/teuzinbolado-cyber/huaxiaoling-launcher",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 153,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-11-15",
+   "stars_per_day_lifetime": 51.0,
+   "topics": [
+    "animated-pets",
+    "arknights-endfield",
+    "character-animation",
+    "codex-desktop",
+    "codex-pets",
+    "gamebanana",
+    "hardlink",
+    "hestia",
+    "hoyolab",
+    "hoyover",
+    "neverness-to-everness",
+    "wutheringwaves"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 52,
+    "position": 46
    }
   },
   {
@@ -97741,6 +98093,36 @@
    }
   },
   {
+   "repo": "WNLUO/dsh-mobile-plugin",
+   "url": "https://github.com/WNLUO/dsh-mobile-plugin",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 104,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-10-11",
+   "stars_per_day_lifetime": 2.74,
+   "topics": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "mobile",
+    "relay",
+    "remote-control"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-08-20",
+    "sort": "stars",
+    "query_breadth": 23,
+    "position": 22
+   }
+  },
+  {
    "repo": "badhope/moneyhelper",
    "url": "https://github.com/badhope/moneyhelper",
    "first_seen": "2026-11-10",
@@ -99072,6 +99454,40 @@
     "sort": "stars",
     "query_breadth": 36,
     "position": 35
+   }
+  },
+  {
+   "repo": "CzzzzzzJ/mdldm-maitian-publisher",
+   "url": "https://github.com/CzzzzzzJ/mdldm-maitian-publisher",
+   "first_seen": "2026-11-18",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-18",
+   "stars": 101,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-17",
+   "created_at": "2026-10-29",
+   "stars_per_day_lifetime": 5.05,
+   "topics": [
+    "bilibili",
+    "chrome-extension",
+    "creator-tools",
+    "douyin",
+    "mdldm",
+    "obsidian",
+    "twitter",
+    "x-articles",
+    "xiaohongshu",
+    "youtube"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "topic:xiaohongshu stars:>100",
+    "sort": "stars",
+    "query_breadth": 85,
+    "position": 84
    }
   },
   {
@@ -102727,7 +103143,7 @@
    }
   }
  ],
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "status_enum": [
   "pending",
   "debated",
