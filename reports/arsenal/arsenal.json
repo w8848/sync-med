@@ -18247,6 +18247,39 @@
    }
   },
   {
+   "repo": "cipher387/osint_stuff_tool_collection",
+   "url": "https://github.com/cipher387/osint_stuff_tool_collection",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 9227,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "pushed_at": "2026-11-18",
+   "created_at": "2021-06-08",
+   "stars_per_day_lifetime": 4.64,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "cybersecurity",
+    "geoint",
+    "hacking",
+    "humint",
+    "osint",
+    "socmint",
+    "tools",
+    "toolset"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 54,
+    "position": 10
+   }
+  },
+  {
    "repo": "eze-is/web-access",
    "url": "https://github.com/eze-is/web-access",
    "first_seen": "2026-10-18",
@@ -31695,6 +31728,42 @@
    }
   },
   {
+   "repo": "erkamyaman/rust-anything",
+   "url": "https://github.com/erkamyaman/rust-anything",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 3862,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-11-19",
+   "created_at": "2026-11-16",
+   "stars_per_day_lifetime": 1287.33,
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "cli",
+    "code-migration",
+    "codex",
+    "ffi",
+    "golang",
+    "java",
+    "javascript",
+    "mcp",
+    "migration",
+    "napi"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 26
+   }
+  },
+  {
    "repo": "LazyAGI/LazyLLM",
    "url": "https://github.com/LazyAGI/LazyLLM",
    "first_seen": "2026-07-28",
@@ -35959,6 +36028,42 @@
     "sort": "stars",
     "query_breadth": 24,
     "position": 9
+   }
+  },
+  {
+   "repo": "software-mansion/argent",
+   "url": "https://github.com/software-mansion/argent",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 3213,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-19",
+   "created_at": "2026-02-23",
+   "stars_per_day_lifetime": 11.94,
+   "topics": [
+    "agent-skills",
+    "agentic",
+    "ai-agents",
+    "android",
+    "android-emulator",
+    "android-tv",
+    "apple-tv",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "expo",
+    "ios"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 29
    }
   },
   {
@@ -43644,6 +43749,41 @@
    }
   },
   {
+   "repo": "ARPSyndicate/awesome-intelligence",
+   "url": "https://github.com/ARPSyndicate/awesome-intelligence",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 2437,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-18",
+   "created_at": "2023-01-02",
+   "stars_per_day_lifetime": 1.72,
+   "topics": [
+    "awesome",
+    "awesome-intelligence",
+    "awesome-list",
+    "awesome-lists",
+    "crypto",
+    "cybersecurity",
+    "economics",
+    "geopolitics",
+    "hacktoberfest",
+    "hacktoberfest2024",
+    "malware",
+    "osint"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 44
+   }
+  },
+  {
    "repo": "rootsongjc/awesome-cloud-native",
    "url": "https://github.com/rootsongjc/awesome-cloud-native",
    "first_seen": "2026-08-03",
@@ -46847,6 +46987,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 8
+   }
+  },
+  {
+   "repo": "jm33-m0/emp3r0r",
+   "url": "https://github.com/jm33-m0/emp3r0r",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 2201,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Go",
+   "pushed_at": "2026-11-19",
+   "created_at": "2020-01-25",
+   "stars_per_day_lifetime": 0.88,
+   "topics": [
+    "active-directory",
+    "c2",
+    "edr",
+    "edr-bypass",
+    "edr-evasion",
+    "emp3r0r",
+    "hacking-tool",
+    "linux",
+    "malware",
+    "mcp",
+    "mcp-server",
+    "penetration-testing-framework"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
    }
   },
   {
@@ -55173,6 +55349,42 @@
    }
   },
   {
+   "repo": "hashgraph-online/awesome-codex-plugins",
+   "url": "https://github.com/hashgraph-online/awesome-codex-plugins",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 1591,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-03-28",
+   "stars_per_day_lifetime": 6.74,
+   "topics": [
+    "ai-coding",
+    "awesome",
+    "awesome-list",
+    "best-ai-plugins",
+    "best-chatgpt-plugins",
+    "best-codex-plugins",
+    "best-openai-plugins",
+    "chatgpt",
+    "chatgpt-plugins",
+    "codex",
+    "codex-marketplace",
+    "codex-plugins"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 54,
+    "position": 24
+   }
+  },
+  {
    "repo": "datagouv/datagouv-mcp",
    "url": "https://github.com/datagouv/datagouv-mcp",
    "first_seen": "2026-09-03",
@@ -63159,6 +63371,38 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 23
+   }
+  },
+  {
+   "repo": "Modern-CMake-CN/Modern-CMake-zh_CN",
+   "url": "https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 953,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "CMake",
+   "pushed_at": "2026-11-19",
+   "created_at": "2021-07-20",
+   "stars_per_day_lifetime": 0.49,
+   "topics": [
+    "book",
+    "chinese",
+    "chinese-simplified",
+    "chinese-translation",
+    "cmake",
+    "cmake-tutorial",
+    "modern-cmake",
+    "tutorial"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
    }
   },
   {
@@ -72193,6 +72437,40 @@
     "sort": "updated",
     "query_breadth": 63,
     "position": 59
+   }
+  },
+  {
+   "repo": "sit-in/awesome-grokbot-playbooks",
+   "url": "https://github.com/sit-in/awesome-grokbot-playbooks",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 501,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-19",
+   "created_at": "2026-10-17",
+   "stars_per_day_lifetime": 15.18,
+   "topics": [
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "chinese",
+    "grok",
+    "grok-bot",
+    "multi-agent",
+    "playbooks",
+    "prompts",
+    "xai"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-20",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 13
    }
   },
   {
@@ -86822,6 +87100,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 1
+   }
+  },
+  {
+   "repo": "ZiChuanLan/some-magic",
+   "url": "https://github.com/ZiChuanLan/some-magic",
+   "first_seen": "2026-11-19",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-19",
+   "stars": 228,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-10-25",
+   "stars_per_day_lifetime": 9.12,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-21",
+    "sort": "stars",
+    "query_breadth": 97,
+    "position": 90
    }
   },
   {
@@ -103143,7 +103442,7 @@
    }
   }
  ],
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "status_enum": [
   "pending",
   "debated",
