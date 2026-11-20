@@ -15076,6 +15076,42 @@
    }
   },
   {
+   "repo": "BaaRai/ARTEX",
+   "url": "https://github.com/BaaRai/ARTEX",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 12485,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Go",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-10-08",
+   "stars_per_day_lifetime": 290.35,
+   "topics": [
+    "ai",
+    "ai-agents",
+    "autonomous-agents",
+    "bug-bounty",
+    "docker",
+    "golang",
+    "linux",
+    "llm",
+    "mcp",
+    "nextjs",
+    "penetration-testing",
+    "pentest"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 12
+   }
+  },
+  {
    "repo": "mzlogin/awesome-adb",
    "url": "https://github.com/mzlogin/awesome-adb",
    "first_seen": "2026-09-30",
@@ -17557,6 +17593,42 @@
    }
   },
   {
+   "repo": "HarnessMD/munder-difflin",
+   "url": "https://github.com/HarnessMD/munder-difflin",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 9642,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-05-31",
+   "stars_per_day_lifetime": 55.73,
+   "topics": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-team",
+    "agentic-ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "ai-tools",
+    "autonomous-agents",
+    "claude-code",
+    "claude-cowork",
+    "codex"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 45
+   }
+  },
+  {
    "repo": "frankbria/ralph-claude-code",
    "url": "https://github.com/frankbria/ralph-claude-code",
    "first_seen": "2026-09-19",
@@ -18424,6 +18496,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 31
+   }
+  },
+  {
+   "repo": "cookieY/Yearning",
+   "url": "https://github.com/cookieY/Yearning",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 8979,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Go",
+   "pushed_at": "2026-11-19",
+   "created_at": "2017-10-18",
+   "stars_per_day_lifetime": 2.7,
+   "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "database",
+    "database-governance",
+    "dba",
+    "devops",
+    "golang",
+    "mysql",
+    "oceanbase",
+    "postgresql",
+    "react",
+    "sql"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 74
    }
   },
   {
@@ -41731,6 +41839,28 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 79
+   }
+  },
+  {
+   "repo": "sdyckjq-lab/llm-wiki-skill",
+   "url": "https://github.com/sdyckjq-lab/llm-wiki-skill",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 2593,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-04-05",
+   "stars_per_day_lifetime": 11.32,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 42
    }
   },
   {
@@ -77388,6 +77518,42 @@
    }
   },
   {
+   "repo": "atuizz/posewear",
+   "url": "https://github.com/atuizz/posewear",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 380,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-19",
+   "created_at": "2026-10-30",
+   "stars_per_day_lifetime": 18.1,
+   "topics": [
+    "ai-art",
+    "ai-try-on",
+    "chinese",
+    "cloudflare-pages",
+    "fashion",
+    "gemini",
+    "gpt-image",
+    "image-generation",
+    "outfit-reference",
+    "pose-reference",
+    "prompt",
+    "pwa"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-22",
+    "sort": "stars",
+    "query_breadth": 97,
+    "position": 61
+   }
+  },
+  {
    "repo": "ziguishian/MxPage",
    "url": "https://github.com/ziguishian/MxPage",
    "first_seen": "2026-10-02",
@@ -80676,6 +80842,40 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 8
+   }
+  },
+  {
+   "repo": "yuntuCTO/yuntu-wechat-ipad",
+   "url": "https://github.com/yuntuCTO/yuntu-wechat-ipad",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 318,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Go",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-11-07",
+   "stars_per_day_lifetime": 24.46,
+   "topics": [
+    "face-login",
+    "golang",
+    "ipad-protocol",
+    "scrm",
+    "websocket",
+    "wechat",
+    "wechat-api",
+    "wechat-bot",
+    "wechat-ipad",
+    "wechat-protocol"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "微调 in:name,description stars:>300 pushed:>2026-08-22",
+    "sort": "stars",
+    "query_breadth": 22,
+    "position": 20
    }
   },
   {
@@ -84439,6 +84639,41 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 68
+   }
+  },
+  {
+   "repo": "hikari0511/awesome-amazon-ec-skills",
+   "url": "https://github.com/hikari0511/awesome-amazon-ec-skills",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 264,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-19",
+   "created_at": "2026-05-18",
+   "stars_per_day_lifetime": 1.42,
+   "topics": [
+    "ai-agent",
+    "alibaba-1688",
+    "amazon",
+    "amazon-mcp",
+    "amazon-seller",
+    "awesome",
+    "awesome-list",
+    "chinese",
+    "claude-code",
+    "claude-skill",
+    "claude-skills",
+    "cross-border-ecommerce"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 94
    }
   },
   {
@@ -90312,6 +90547,38 @@
    }
   },
   {
+   "repo": "LemonFace0309/charles-skills",
+   "url": "https://github.com/LemonFace0309/charles-skills",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 207,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-11-07",
+   "stars_per_day_lifetime": 15.92,
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "design-engineering",
+    "motion-design",
+    "ui-design",
+    "video-editing"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-21",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 2
+   }
+  },
+  {
    "repo": "MOKEAIGC/MOKEAIGC-work-V017",
    "url": "https://github.com/MOKEAIGC/MOKEAIGC-work-V017",
    "first_seen": "2026-10-27",
@@ -96097,6 +96364,41 @@
    }
   },
   {
+   "repo": "Koloyaaa/academic-translation-toolkit",
+   "url": "https://github.com/Koloyaaa/academic-translation-toolkit",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 126,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-08-25",
+   "stars_per_day_lifetime": 1.45,
+   "topics": [
+    "academic-tools",
+    "ai-agent-skill",
+    "chinese-translation",
+    "foreign-academic",
+    "foreign-exchange",
+    "skill",
+    "skills",
+    "study-skills",
+    "translation",
+    "university",
+    "university-course"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-08-22",
+    "sort": "stars",
+    "query_breadth": 42,
+    "position": 37
+   }
+  },
+  {
    "repo": "Yeadon8888/cangjie-skill",
    "url": "https://github.com/Yeadon8888/cangjie-skill",
    "first_seen": "2026-07-26",
@@ -96558,6 +96860,28 @@
     "sort": "stars",
     "query_breadth": 16,
     "position": 12
+   }
+  },
+  {
+   "repo": "hsuehly/xiaoyu",
+   "url": "https://github.com/hsuehly/xiaoyu",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 119,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Dart",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-11-13",
+   "stars_per_day_lifetime": 17.0,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-22",
+    "sort": "stars",
+    "query_breadth": 39,
+    "position": 34
    }
   },
   {
@@ -102381,6 +102705,28 @@
    }
   },
   {
+   "repo": "Fyuan0206/Ancient_Books",
+   "url": "https://github.com/Fyuan0206/Ancient_Books",
+   "first_seen": "2026-11-20",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-20",
+   "stars": 21,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-05-26",
+   "created_at": "2024-08-01",
+   "stars_per_day_lifetime": 0.02,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "古籍 in:name,description stars:>20",
+    "sort": "stars",
+    "query_breadth": 51,
+    "position": 50
+   }
+  },
+  {
    "repo": "LeoKvs/chinese-poetry-plus",
    "url": "https://github.com/LeoKvs/chinese-poetry-plus",
    "first_seen": "2026-11-17",
@@ -103442,7 +103788,7 @@
    }
   }
  ],
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "status_enum": [
   "pending",
   "debated",
