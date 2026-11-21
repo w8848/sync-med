@@ -4317,6 +4317,34 @@
    }
   },
   {
+   "repo": "localsend/localsend",
+   "url": "https://github.com/localsend/localsend",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 100024,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Dart",
+   "pushed_at": "2026-11-21",
+   "created_at": "2022-12-16",
+   "stars_per_day_lifetime": 69.65,
+   "topics": [
+    "dart",
+    "file-sharing",
+    "flutter",
+    "flutter-apps"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "stars:>100000 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 46
+   }
+  },
+  {
    "repo": "ant-design/ant-design",
    "url": "https://github.com/ant-design/ant-design",
    "first_seen": "2026-10-31",
@@ -35962,6 +35990,42 @@
    }
   },
   {
+   "repo": "dosco/deeporg",
+   "url": "https://github.com/dosco/deeporg",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 3238,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Go",
+   "pushed_at": "2026-11-21",
+   "created_at": "2019-03-24",
+   "stars_per_day_lifetime": 1.16,
+   "topics": [
+    "agentic-ai",
+    "ai-agents",
+    "cloud-native",
+    "cockroachdb",
+    "database",
+    "deeporg",
+    "graphql",
+    "llm",
+    "mariadb",
+    "mcp",
+    "mongodb",
+    "mssql"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 34
+   }
+  },
+  {
    "repo": "Physton/sd-webui-prompt-all-in-one",
    "url": "https://github.com/Physton/sd-webui-prompt-all-in-one",
    "first_seen": "2026-09-14",
@@ -47449,6 +47513,36 @@
    }
   },
   {
+   "repo": "wagtail/awesome-wagtail",
+   "url": "https://github.com/wagtail/awesome-wagtail",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 2193,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-11-20",
+   "created_at": "2016-07-18",
+   "stars_per_day_lifetime": 0.58,
+   "topics": [
+    "awesome",
+    "cms",
+    "django-cms",
+    "hacktoberfest",
+    "python",
+    "wagtail"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 36
+   }
+  },
+  {
    "repo": "HpWens/MeiWidgetView",
    "url": "https://github.com/HpWens/MeiWidgetView",
    "first_seen": "2026-07-26",
@@ -51674,6 +51768,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 36
+   }
+  },
+  {
+   "repo": "chengzuopeng/stock-sdk",
+   "url": "https://github.com/chengzuopeng/stock-sdk",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 2005,
+   "license": "ISC",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-21",
+   "created_at": "2025-12-12",
+   "stars_per_day_lifetime": 5.83,
+   "topics": [
+    "a-share",
+    "ai-agent",
+    "akshare",
+    "finance",
+    "financial-data",
+    "fintech",
+    "free-stock-market-api",
+    "mcp",
+    "nodejs",
+    "quantitative-finance",
+    "sdk",
+    "stock"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 41
    }
   },
   {
@@ -75193,6 +75323,28 @@
    }
   },
   {
+   "repo": "ErSanSan233/prose-polish",
+   "url": "https://github.com/ErSanSan233/prose-polish",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 436,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-16",
+   "created_at": "2025-01-29",
+   "stars_per_day_lifetime": 0.66,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-23",
+    "sort": "stars",
+    "query_breadth": 99,
+    "position": 60
+   }
+  },
+  {
    "repo": "liangdabiao/claude-data-analysis",
    "url": "https://github.com/liangdabiao/claude-data-analysis",
    "first_seen": "2026-08-20",
@@ -76723,6 +76875,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 76
+   }
+  },
+  {
+   "repo": "StewdioAI/stewdio-skills",
+   "url": "https://github.com/StewdioAI/stewdio-skills",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 398,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-11-03",
+   "stars_per_day_lifetime": 22.11,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 54
    }
   },
   {
@@ -83532,6 +83706,36 @@
    }
   },
   {
+   "repo": "boshi-xixixi/TraeSkill",
+   "url": "https://github.com/boshi-xixixi/TraeSkill",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 284,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-21",
+   "created_at": "2026-01-22",
+   "stars_per_day_lifetime": 0.94,
+   "topics": [
+    "ai-agent",
+    "ai-coding",
+    "python",
+    "skills",
+    "trae",
+    "workflow"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 1
+   }
+  },
+  {
    "repo": "chengyi-ai/cy-carousel-skill",
    "url": "https://github.com/chengyi-ai/cy-carousel-skill",
    "first_seen": "2026-10-10",
@@ -87245,6 +87449,27 @@
    }
   },
   {
+   "repo": "lemiur/Game-Decompilation-Skill-For-Claude",
+   "url": "https://github.com/lemiur/Game-Decompilation-Skill-For-Claude",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 229,
+   "license": "CC-BY-4.0",
+   "license_family": "unknown",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-10-25",
+   "stars_per_day_lifetime": 8.48,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 34
+   }
+  },
+  {
    "repo": "nuyoah-ai-works/nuyoah-xiezhen-prompt",
    "url": "https://github.com/nuyoah-ai-works/nuyoah-xiezhen-prompt",
    "first_seen": "2026-08-11",
@@ -90262,6 +90487,42 @@
    }
   },
   {
+   "repo": "TubeLabHQ/youtube-research-skills",
+   "url": "https://github.com/TubeLabHQ/youtube-research-skills",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 208,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-21",
+   "created_at": "2026-11-04",
+   "stars_per_day_lifetime": 12.24,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "codex-skill",
+    "competitor-analysis",
+    "content-marketing",
+    "market-research",
+    "workflow-automation",
+    "youtube",
+    "youtube-research"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-22",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 15
+   }
+  },
+  {
    "repo": "brycewang-stanford/Auto-Research-Skills",
    "url": "https://github.com/brycewang-stanford/Auto-Research-Skills",
    "first_seen": "2026-10-19",
@@ -92483,6 +92744,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 43
+   }
+  },
+  {
+   "repo": "MasterLeos/leos-six-department-directing-team-skill-v1",
+   "url": "https://github.com/MasterLeos/leos-six-department-directing-team-skill-v1",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 201,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-09-09",
+   "created_at": "2026-09-09",
+   "stars_per_day_lifetime": 2.75,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-23",
+    "sort": "stars",
+    "query_breadth": 99,
+    "position": 98
    }
   },
   {
@@ -98291,6 +98574,27 @@
    }
   },
   {
+   "repo": "jaxxchen003/muse-use-cases",
+   "url": "https://github.com/jaxxchen003/muse-use-cases",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 106,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-20",
+   "created_at": "2026-10-11",
+   "stars_per_day_lifetime": 2.59,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-23",
+    "sort": "stars",
+    "query_breadth": 40,
+    "position": 38
+   }
+  },
+  {
    "repo": "joeseesun/qiaomu-codex-imagegen",
    "url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
    "first_seen": "2026-10-07",
@@ -98618,6 +98922,28 @@
     "sort": "stars",
     "query_breadth": 20,
     "position": 18
+   }
+  },
+  {
+   "repo": "GxDongV/SnipLite",
+   "url": "https://github.com/GxDongV/SnipLite",
+   "first_seen": "2026-11-21",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-21",
+   "stars": 104,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "C#",
+   "pushed_at": "2026-11-18",
+   "created_at": "2026-11-10",
+   "stars_per_day_lifetime": 9.45,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "OCR 识别 in:name,description stars:>100 pushed:>2026-08-23",
+    "sort": "stars",
+    "query_breadth": 28,
+    "position": 26
    }
   },
   {
@@ -103788,7 +104114,7 @@
    }
   }
  ],
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "status_enum": [
   "pending",
   "debated",
