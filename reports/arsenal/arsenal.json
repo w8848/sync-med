@@ -54508,6 +54508,34 @@
    }
   },
   {
+   "repo": "charent/ChatLM-mini-Chinese",
+   "url": "https://github.com/charent/ChatLM-mini-Chinese",
+   "first_seen": "2026-11-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-22",
+   "stars": 1738,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-22",
+   "created_at": "2023-08-27",
+   "stars_per_day_lifetime": 1.47,
+   "topics": [
+    "chatbot",
+    "language-model",
+    "t5-model",
+    "text-generation"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "微调 in:name,description stars:>300 pushed:>2026-08-24",
+    "sort": "stars",
+    "query_breadth": 22,
+    "position": 11
+   }
+  },
+  {
    "repo": "Mcp-Brasil/mcp-brasil",
    "url": "https://github.com/Mcp-Brasil/mcp-brasil",
    "first_seen": "2026-08-19",
@@ -61213,6 +61241,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 14
+   }
+  },
+  {
+   "repo": "hashgraph-online/awesome-ai-plugins",
+   "url": "https://github.com/hashgraph-online/awesome-ai-plugins",
+   "first_seen": "2026-11-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-22",
+   "stars": 1072,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-22",
+   "created_at": "2026-04-07",
+   "stars_per_day_lifetime": 4.68,
+   "topics": [
+    "ai-assistant",
+    "ai-plugin",
+    "awesome",
+    "awesome-list",
+    "best-ai-plugins",
+    "best-antigravity-plugins",
+    "best-claude-plugins",
+    "best-codex-plugins",
+    "best-dsh-plugins",
+    "best-grok-plugins",
+    "best-kimi-plugins",
+    "best-opencode-plugins"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 55,
+    "position": 29
    }
   },
   {
@@ -76368,6 +76432,38 @@
    }
   },
   {
+   "repo": "skygazer42/GustoBot",
+   "url": "https://github.com/skygazer42/GustoBot",
+   "first_seen": "2026-11-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-22",
+   "stars": 416,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-22",
+   "created_at": "2025-10-11",
+   "stars_per_day_lifetime": 1.02,
+   "topics": [
+    "graphrag",
+    "knowledge-graph",
+    "langgraph",
+    "neo4j",
+    "ontology",
+    "question-answering",
+    "retrieval-augmented-generation",
+    "semantic-search"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "知识图谱 in:name,description stars:>200 pushed:>2026-08-24",
+    "sort": "stars",
+    "query_breadth": 16,
+    "position": 12
+   }
+  },
+  {
    "repo": "microsoft/skills-for-copilot-studio",
    "url": "https://github.com/microsoft/skills-for-copilot-studio",
    "first_seen": "2026-08-21",
@@ -76654,6 +76750,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 59
+   }
+  },
+  {
+   "repo": "sybil-solutions/skill-distill",
+   "url": "https://github.com/sybil-solutions/skill-distill",
+   "first_seen": "2026-11-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-22",
+   "stars": 405,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-21",
+   "created_at": "2026-11-21",
+   "stars_per_day_lifetime": 405.0,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 98
    }
   },
   {
@@ -91791,6 +91909,28 @@
    }
   },
   {
+   "repo": "nishuzumi/show-me-you-want-skill",
+   "url": "https://github.com/nishuzumi/show-me-you-want-skill",
+   "first_seen": "2026-11-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-22",
+   "stars": 204,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "HTML",
+   "pushed_at": "2026-11-21",
+   "created_at": "2026-11-10",
+   "stars_per_day_lifetime": 17.0,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-23",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 66
+   }
+  },
+  {
    "repo": "refly-ai/refly-skills",
    "url": "https://github.com/refly-ai/refly-skills",
    "first_seen": "2026-11-02",
@@ -100300,6 +100440,36 @@
    }
   },
   {
+   "repo": "zenoyang-ai/nihaixia-knowledge-graph",
+   "url": "https://github.com/zenoyang-ai/nihaixia-knowledge-graph",
+   "first_seen": "2026-11-22",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-22",
+   "stars": 102,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-21",
+   "created_at": "2026-06-07",
+   "stars_per_day_lifetime": 0.61,
+   "topics": [
+    "agent-skills",
+    "knowledge-graph",
+    "nihaixia",
+    "obsidian",
+    "rag",
+    "tcm"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "中医 in:name,description stars:>50",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 77
+   }
+  },
+  {
    "repo": "Bureaux-Tao/chip2020_relation_extraction",
    "url": "https://github.com/Bureaux-Tao/chip2020_relation_extraction",
    "first_seen": "2026-08-18",
@@ -104114,7 +104284,7 @@
    }
   }
  ],
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "status_enum": [
   "pending",
   "debated",
