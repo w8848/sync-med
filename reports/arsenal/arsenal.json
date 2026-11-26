@@ -17574,6 +17574,42 @@
    }
   },
   {
+   "repo": "mutonby/openshorts",
+   "url": "https://github.com/mutonby/openshorts",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 9912,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-25",
+   "created_at": "2025-12-19",
+   "stars_per_day_lifetime": 28.98,
+   "topics": [
+    "agent-skills",
+    "ai-clip-generator",
+    "ai-clipping",
+    "ai-video-editor",
+    "auto-reframe",
+    "clip-generator",
+    "mcp-server",
+    "open-source",
+    "opus-clip-alternative",
+    "podcast-clips",
+    "reels",
+    "self-hosted"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-10-27",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 50
+   }
+  },
+  {
    "repo": "BYVoid/OpenCC",
    "url": "https://github.com/BYVoid/OpenCC",
    "first_seen": "2026-07-26",
@@ -22326,6 +22362,39 @@
    }
   },
   {
+   "repo": "janus-sh/janus",
+   "url": "https://github.com/janus-sh/janus",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 6559,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-26",
+   "created_at": "2025-03-09",
+   "stars_per_day_lifetime": 10.46,
+   "topics": [
+    "ai-agent",
+    "claude-code-alternative",
+    "cli",
+    "coding-agent",
+    "free-models",
+    "llm",
+    "openrouter",
+    "spec-driven-company",
+    "terminal"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 2
+   }
+  },
+  {
    "repo": "decalage2/awesome-security-hardening",
    "url": "https://github.com/decalage2/awesome-security-hardening",
    "first_seen": "2026-09-23",
@@ -26987,6 +27056,40 @@
    }
   },
   {
+   "repo": "withcoral/coral",
+   "url": "https://github.com/withcoral/coral",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 5031,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-11-26",
+   "created_at": "2026-04-03",
+   "stars_per_day_lifetime": 21.23,
+   "topics": [
+    "agent-security",
+    "ai-agents",
+    "code-mode",
+    "mcp",
+    "mcp-gateway",
+    "mcp-server",
+    "model-context-protocol",
+    "rust",
+    "self-hosted",
+    "typescript"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-10-27",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 81
+   }
+  },
+  {
    "repo": "NousResearch/hermes-agent-self-evolution",
    "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
    "first_seen": "2026-08-15",
@@ -31019,6 +31122,42 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 50
+   }
+  },
+  {
+   "repo": "EL4CTEO/fast-anything",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 4069,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-11-25",
+   "created_at": "2026-11-21",
+   "stars_per_day_lifetime": 813.8,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "developer-tools",
+    "ffi",
+    "mcp",
+    "mcp-server",
+    "napi-rs",
+    "nodejs",
+    "optimization"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp-server stars:>1000 pushed:>2026-10-27",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 97
    }
   },
   {
@@ -38308,6 +38447,27 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 61
+   }
+  },
+  {
+   "repo": "restyler/awesome-n8n",
+   "url": "https://github.com/restyler/awesome-n8n",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 3011,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-25",
+   "created_at": "2025-02-04",
+   "stars_per_day_lifetime": 4.56,
+   "found_by": {
+    "dimension": "category",
+    "query": "awesome in:name stars:>2000 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 55
    }
   },
   {
@@ -51632,6 +51792,42 @@
    }
   },
   {
+   "repo": "AnalyseDeCircuit/oxideterm",
+   "url": "https://github.com/AnalyseDeCircuit/oxideterm",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 2032,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Rust",
+   "pushed_at": "2026-11-26",
+   "created_at": "2026-01-21",
+   "stars_per_day_lifetime": 6.58,
+   "topics": [
+    "agent",
+    "ai-terminal",
+    "bring-your-own-key",
+    "devtools",
+    "filemanager",
+    "gpui",
+    "local-first",
+    "mcp",
+    "native-apps",
+    "port-forwarding",
+    "rag",
+    "rdp"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 76
+   }
+  },
+  {
    "repo": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
    "first_seen": "2026-11-25",
@@ -57986,6 +58182,27 @@
    }
   },
   {
+   "repo": "BehiSecc/VibeSec-Skill",
+   "url": "https://github.com/BehiSecc/VibeSec-Skill",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 1435,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "pushed_at": "2026-11-26",
+   "created_at": "2026-02-02",
+   "stars_per_day_lifetime": 4.83,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 6
+   }
+  },
+  {
    "repo": "skills-directory/skill-codex",
    "url": "https://github.com/skills-directory/skill-codex",
    "first_seen": "2026-09-14",
@@ -58203,6 +58420,27 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 58
+   }
+  },
+  {
+   "repo": "wilwaldon/Claude-Code-Frontend-Design-Toolkit",
+   "url": "https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 1390,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-25",
+   "created_at": "2026-02-25",
+   "stars_per_day_lifetime": 5.07,
+   "found_by": {
+    "dimension": "category",
+    "query": "mcp server in:name,description stars:>1000 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 62
    }
   },
   {
@@ -68678,6 +68916,42 @@
    }
   },
   {
+   "repo": "SonicloudTech/mouse-mcp",
+   "url": "https://github.com/SonicloudTech/mouse-mcp",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 694,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-31",
+   "created_at": "2026-10-20",
+   "stars_per_day_lifetime": 18.76,
+   "topics": [
+    "ai-agents",
+    "computer-use",
+    "desktop-automation",
+    "hardware",
+    "hid",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "mouse-control",
+    "sonicloud",
+    "speech-to-text",
+    "typescript"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "智能体 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 91
+   }
+  },
+  {
    "repo": "flowful-ai/cad-skill",
    "url": "https://github.com/flowful-ai/cad-skill",
    "first_seen": "2026-10-26",
@@ -70770,6 +71044,33 @@
     "sort": "updated",
     "query_breadth": 57,
     "position": 49
+   }
+  },
+  {
+   "repo": "juehackr/comfyui_fk_server",
+   "url": "https://github.com/juehackr/comfyui_fk_server",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 595,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "Python",
+   "pushed_at": "2026-11-25",
+   "created_at": "2024-06-14",
+   "stars_per_day_lifetime": 0.66,
+   "topics": [
+    "aigc",
+    "comfyui",
+    "comfyui-nodes"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-28",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 52
    }
   },
   {
@@ -73550,6 +73851,40 @@
     "sort": "updated",
     "query_breadth": 65,
     "position": 14
+   }
+  },
+  {
+   "repo": "logitcai/tinybrain",
+   "url": "https://github.com/logitcai/tinybrain",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 505,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-23",
+   "created_at": "2026-11-13",
+   "stars_per_day_lifetime": 38.85,
+   "topics": [
+    "chinese",
+    "dataset",
+    "from-scratch",
+    "language-model",
+    "llm",
+    "mixture-of-experts",
+    "muon",
+    "pretraining",
+    "pytorch",
+    "reinforcement-learning"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "topic:chinese stars:>500 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 54
    }
   },
   {
@@ -83609,6 +83944,36 @@
    }
   },
   {
+   "repo": "Moh4696/inkworks-skill",
+   "url": "https://github.com/Moh4696/inkworks-skill",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 302,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-25",
+   "created_at": "2026-11-25",
+   "stars_per_day_lifetime": 302.0,
+   "topics": [
+    "3d",
+    "agent-skills",
+    "claude-code",
+    "education",
+    "explainer",
+    "threejs"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 92
+   }
+  },
+  {
    "repo": "SupercmoHQ/superCMO-skills",
    "url": "https://github.com/SupercmoHQ/superCMO-skills",
    "first_seen": "2026-11-10",
@@ -89414,6 +89779,36 @@
    }
   },
   {
+   "repo": "fahniazz/claude-shorts-skills",
+   "url": "https://github.com/fahniazz/claude-shorts-skills",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 226,
+   "license": "NOASSERTION",
+   "license_family": "unknown",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-26",
+   "created_at": "2026-11-18",
+   "stars_per_day_lifetime": 28.25,
+   "topics": [
+    "animation",
+    "claude-code",
+    "claude-skills",
+    "remotion",
+    "threejs",
+    "youtube-shorts"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-27",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 11
+   }
+  },
+  {
    "repo": "guzhezao/scroll-web-skills",
    "url": "https://github.com/guzhezao/scroll-web-skills",
    "first_seen": "2026-11-09",
@@ -92908,6 +93303,28 @@
     "sort": "stars",
     "query_breadth": 12,
     "position": 7
+   }
+  },
+  {
+   "repo": "LuoJiangYong/muse-video-skill",
+   "url": "https://github.com/LuoJiangYong/muse-video-skill",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 206,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-09-30",
+   "created_at": "2026-06-12",
+   "stars_per_day_lifetime": 1.23,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-28",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 97
    }
   },
   {
@@ -100544,6 +100961,33 @@
    }
   },
   {
+   "repo": "ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc",
+   "url": "https://github.com/ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 105,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-14",
+   "created_at": "2026-11-14",
+   "stars_per_day_lifetime": 8.75,
+   "topics": [
+    "ai",
+    "coregold",
+    "usdt",
+    "vcc"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-28",
+    "sort": "stars",
+    "query_breadth": 65,
+    "position": 63
+   }
+  },
+  {
    "repo": "hey-yx/allparse",
    "url": "https://github.com/hey-yx/allparse",
    "first_seen": "2026-11-01",
@@ -101629,6 +102073,31 @@
    }
   },
   {
+   "repo": "liangdabiao/ecom-details-image-ui",
+   "url": "https://github.com/liangdabiao/ecom-details-image-ui",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 103,
+   "license": "NONE",
+   "license_family": "none",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-14",
+   "created_at": "2026-07-01",
+   "stars_per_day_lifetime": 0.7,
+   "topics": [
+    "agent"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "免费 API in:name,description stars:>100 pushed:>2026-08-28",
+    "sort": "stars",
+    "query_breadth": 43,
+    "position": 42
+   }
+  },
+  {
    "repo": "mahavivo/core-books",
    "url": "https://github.com/mahavivo/core-books",
    "first_seen": "2026-07-26",
@@ -101969,6 +102438,42 @@
     "sort": "stars",
     "query_breadth": 59,
     "position": 57
+   }
+  },
+  {
+   "repo": "omnimux-ai/omnimux-client",
+   "url": "https://github.com/omnimux-ai/omnimux-client",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 102,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-26",
+   "created_at": "2026-11-13",
+   "stars_per_day_lifetime": 7.85,
+   "topics": [
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "ai-video",
+    "content-creation",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "ecommerce",
+    "electron",
+    "ffmpeg",
+    "generative-ai"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "auto publish douyin xiaohongshu in:name,description,readme stars:>100",
+    "sort": "stars",
+    "query_breadth": 56,
+    "position": 55
    }
   },
   {
@@ -102934,6 +103439,34 @@
     "sort": "stars",
     "query_breadth": 13,
     "position": 12
+   }
+  },
+  {
+   "repo": "ismavetedessbessel746-web/virtual-card-usdt-gemini-omni-1-2-flash-video-vcc",
+   "url": "https://github.com/ismavetedessbessel746-web/virtual-card-usdt-gemini-omni-1-2-flash-video-vcc",
+   "first_seen": "2026-11-26",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-26",
+   "stars": 101,
+   "license": "NONE",
+   "license_family": "none",
+   "pushed_at": "2026-11-16",
+   "created_at": "2026-11-16",
+   "stars_per_day_lifetime": 10.1,
+   "topics": [
+    "chatbot",
+    "chatgpt",
+    "coregold",
+    "gimine",
+    "google"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-28",
+    "sort": "stars",
+    "query_breadth": 65,
+    "position": 64
    }
   },
   {
@@ -106018,7 +106551,7 @@
    }
   }
  ],
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "status_enum": [
   "pending",
   "debated",
