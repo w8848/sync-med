@@ -18827,6 +18827,42 @@
    }
   },
   {
+   "repo": "anomalyco/hex",
+   "url": "https://github.com/anomalyco/hex",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 8966,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "Rust",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-07-17",
+   "stars_per_day_lifetime": 66.91,
+   "topics": [
+    "dictation",
+    "linux",
+    "local-first",
+    "macos",
+    "mcp",
+    "meeting-transcription",
+    "offline",
+    "open-source",
+    "parakeet",
+    "rust",
+    "speech-recognition",
+    "speech-to-text"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:mcp stars:>2000 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
+   }
+  },
+  {
    "repo": "awesome-jellyfin/awesome-jellyfin",
    "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
    "first_seen": "2026-08-16",
@@ -49563,6 +49599,42 @@
    }
   },
   {
+   "repo": "INK-Q/agy-fast",
+   "url": "https://github.com/INK-Q/agy-fast",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 2124,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-11-19",
+   "stars_per_day_lifetime": 236.0,
+   "topics": [
+    "ai-agent",
+    "ai-coding",
+    "antigravity",
+    "antigravity-cli",
+    "antigravity-ide",
+    "antigravity-plugins",
+    "coding-agent",
+    "context-optimization",
+    "developer-productivity",
+    "developer-tools",
+    "gemini",
+    "google-antigravity"
+   ],
+   "found_by": {
+    "dimension": "stock",
+    "query": "topic:ai-agent stars:>2000 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 38
+   }
+  },
+  {
    "repo": "matchai/awesome-pinned-gists",
    "url": "https://github.com/matchai/awesome-pinned-gists",
    "first_seen": "2026-11-16",
@@ -61042,6 +61114,36 @@
    }
   },
   {
+   "repo": "DeadInternetStudios/100x-engineer-skill",
+   "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 1192,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-11-23",
+   "stars_per_day_lifetime": 238.4,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "cursor",
+    "formal-verification"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 40
+   }
+  },
+  {
    "repo": "QAQLeonard/a7c2-tools",
    "url": "https://github.com/QAQLeonard/a7c2-tools",
    "first_seen": "2026-11-12",
@@ -61167,6 +61269,38 @@
     "sort": "updated",
     "query_breadth": 57,
     "position": 45
+   }
+  },
+  {
+   "repo": "LunarXuan/image-prompt-reverse",
+   "url": "https://github.com/LunarXuan/image-prompt-reverse",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 1182,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "pushed_at": "2026-11-27",
+   "created_at": "2026-09-01",
+   "stars_per_day_lifetime": 13.43,
+   "topics": [
+    "agent-skills",
+    "ai-art",
+    "claude-code",
+    "codex",
+    "image-to-prompt",
+    "prompt-engineering",
+    "skill",
+    "skill-md",
+    "skills"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "提示词 in:name,description stars:>200 pushed:>2026-08-30",
+    "sort": "stars",
+    "query_breadth": 100,
+    "position": 33
    }
   },
   {
@@ -65374,6 +65508,28 @@
     "sort": "updated",
     "query_breadth": 100,
     "position": 5
+   }
+  },
+  {
+   "repo": "rookie-ricardo/erduo-skills",
+   "url": "https://github.com/rookie-ricardo/erduo-skills",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 943,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-01-20",
+   "stars_per_day_lifetime": 3.02,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 21
    }
   },
   {
@@ -70396,6 +70552,40 @@
     "sort": "stars",
     "query_breadth": 100,
     "position": 76
+   }
+  },
+  {
+   "repo": "cropflre/nowen-note",
+   "url": "https://github.com/cropflre/nowen-note",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 633,
+   "license": "GPL-3.0",
+   "license_family": "copyleft",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-02-12",
+   "stars_per_day_lifetime": 2.19,
+   "topics": [
+    "fnos-app",
+    "knowledge-base",
+    "markdown",
+    "nas",
+    "note-taking",
+    "notebook",
+    "notes",
+    "personal-knowledge-management",
+    "rich-text-editor",
+    "self-hosted"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "RAG 知识库 in:name,description stars:>200",
+    "sort": "stars",
+    "query_breadth": 33,
+    "position": 12
    }
   },
   {
@@ -80695,6 +80885,28 @@
    }
   },
   {
+   "repo": "fxaxg/one-api-hub",
+   "url": "https://github.com/fxaxg/one-api-hub",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 356,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-27",
+   "created_at": "2025-07-21",
+   "stars_per_day_lifetime": 0.72,
+   "found_by": {
+    "dimension": "chinese",
+    "query": "API 中转 in:name,description stars:>100 pushed:>2026-08-30",
+    "sort": "stars",
+    "query_breadth": 23,
+    "position": 9
+   }
+  },
+  {
    "repo": "ai-dashboad/flutter-skill",
    "url": "https://github.com/ai-dashboad/flutter-skill",
    "first_seen": "2026-08-22",
@@ -85930,6 +86142,42 @@
    }
   },
   {
+   "repo": "frankxai/awesome-motion-design-agent-skills",
+   "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 284,
+   "license": "CC0-1.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-06-18",
+   "stars_per_day_lifetime": 1.74,
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "animation",
+    "awesome",
+    "awesome-list",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "framer-motion",
+    "github-copilot",
+    "gsap",
+    "lottie"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 25
+   }
+  },
+  {
    "repo": "mohitmishra786/low-level-dev-skills",
    "url": "https://github.com/mohitmishra786/low-level-dev-skills",
    "first_seen": "2026-11-14",
@@ -88565,6 +88813,28 @@
    }
   },
   {
+   "repo": "runtime-si/RoboSkillHub",
+   "url": "https://github.com/runtime-si/RoboSkillHub",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 242,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "Python",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-11-04",
+   "stars_per_day_lifetime": 10.08,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 19
+   }
+  },
+  {
    "repo": "skillmds/skillmd",
    "url": "https://github.com/skillmds/skillmd",
    "first_seen": "2026-10-15",
@@ -90574,6 +90844,28 @@
    }
   },
   {
+   "repo": "Melvynx/video-agent-skills",
+   "url": "https://github.com/Melvynx/video-agent-skills",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 221,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-10-09",
+   "stars_per_day_lifetime": 4.42,
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 32
+   }
+  },
+  {
    "repo": "SichengLong26/deepresearch_agent_harness",
    "url": "https://github.com/SichengLong26/deepresearch_agent_harness",
    "first_seen": "2026-10-09",
@@ -91385,6 +91677,36 @@
     "sort": "stars",
     "query_breadth": 17,
     "position": 10
+   }
+  },
+  {
+   "repo": "neonwatty/logo-designer-skill",
+   "url": "https://github.com/neonwatty/logo-designer-skill",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 216,
+   "license": "MIT",
+   "license_family": "permissive",
+   "lang": "JavaScript",
+   "pushed_at": "2026-11-28",
+   "created_at": "2026-02-24",
+   "stars_per_day_lifetime": 0.78,
+   "topics": [
+    "claude-code",
+    "codex",
+    "design",
+    "logo-design",
+    "plugin",
+    "svg"
+   ],
+   "found_by": {
+    "dimension": "category",
+    "query": "skill in:name stars:>200 pushed:>2026-10-29",
+    "sort": "updated",
+    "query_breadth": 100,
+    "position": 30
    }
   },
   {
@@ -96291,6 +96613,42 @@
     "sort": "stars",
     "query_breadth": 44,
     "position": 15
+   }
+  },
+  {
+   "repo": "xuliang2024/video-watermark-remover",
+   "url": "https://github.com/xuliang2024/video-watermark-remover",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 195,
+   "license": "Apache-2.0",
+   "license_family": "permissive",
+   "lang": "TypeScript",
+   "pushed_at": "2026-11-27",
+   "created_at": "2026-11-24",
+   "stars_per_day_lifetime": 48.75,
+   "topics": [
+    "ai-watermark-remover",
+    "hardsub",
+    "inpainting",
+    "logo-remover",
+    "remove-watermark-from-video",
+    "short-drama",
+    "sora-watermark-remover",
+    "subtitle-removal",
+    "subtitle-remover",
+    "tiktok-watermark-remover",
+    "video-dubbing",
+    "video-inpainting"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "短视频 in:name,description stars:>100 pushed:>2026-08-30",
+    "sort": "stars",
+    "query_breadth": 66,
+    "position": 49
    }
   },
   {
@@ -102802,6 +103160,37 @@
    }
   },
   {
+   "repo": "cyber-xiaoya/cyber-xiaoya-danmaku",
+   "url": "https://github.com/cyber-xiaoya/cyber-xiaoya-danmaku",
+   "first_seen": "2026-11-28",
+   "status": "pending",
+   "status_note": "",
+   "last_seen": "2026-11-28",
+   "stars": 102,
+   "license": "AGPL-3.0",
+   "license_family": "copyleft",
+   "lang": "Python",
+   "pushed_at": "2026-11-12",
+   "created_at": "2026-10-24",
+   "stars_per_day_lifetime": 2.91,
+   "topics": [
+    "agpl",
+    "bilibili",
+    "danmaku",
+    "douyin",
+    "live-streaming",
+    "python",
+    "youtube"
+   ],
+   "found_by": {
+    "dimension": "chinese",
+    "query": "数字人 in:name,description stars:>100 pushed:>2026-08-30",
+    "sort": "stars",
+    "query_breadth": 44,
+    "position": 43
+   }
+  },
+  {
    "repo": "liangdabiao/smy-seedance-storyboard",
    "url": "https://github.com/liangdabiao/smy-seedance-storyboard",
    "first_seen": "2026-10-05",
@@ -106980,7 +107369,7 @@
    }
   }
  ],
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "status_enum": [
   "pending",
   "debated",
